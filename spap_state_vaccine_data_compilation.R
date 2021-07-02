@@ -234,7 +234,8 @@ tweets_grouped <- tweets %>%
   summarise(legislator_state = first(legislator_state),
             sum_tweet_all = n(),
             sum_tweet_vaccine = sum(label),
-            sum_tweet_anti = sum(anti))
+            sum_tweet_anti = sum(anti)
+            )
 
 min(tweets_grouped$created_at_month)
 max(tweets_grouped$created_at_month)
@@ -243,7 +244,10 @@ months_frame <- unique(format(seq(as.Date("2020-4-1"), as.Date("2021-5-31"), by 
 handles_frame <- unique(tweets_grouped$user.screen_name)
 frame <- data.frame(created_at_month = rep(months_frame, length(handles_frame)), 
                     user.screen_name = rep(handles_frame, each = length(months_frame)))
-tweets_monthly <- left_join(frame, tweets_grouped, by = c("user.screen_name", "created_at_month"))
+tweets_monthly <- left_join(frame, 
+                            tweets_grouped, 
+                            by = c("user.screen_name", "created_at_month")
+                            )
 
 tweets_monthly <- tweets_monthly %>% 
   group_by(user.screen_name) %>% 
@@ -253,12 +257,7 @@ tweets_monthly <- tweets_monthly %>%
 tweets_monthly <- tweets_monthly %>% 
   drop_na(legislator_state)
 
+tweets_monthly$user.id_str <- as.character(tweets_monthly$user.id_str)
+
 write.csv(tweets_monthly, paste0(path_spap_state_vaccine, 'tweets_monthly.csv'))
-
-
-
-
-
-
-
 
