@@ -1,0 +1,2001 @@
+created_at,user.screen_name,user.name,favorite_count,retweet_count,legislator_state,keyword,label_drew,label_taegyoon,label_final,agreement
+Tue Mar 17 00:44:32 +0000 2020,HalaAyala,Hala Ayala,0,26,Virginia,coronavirus,0,1,0,0
+Thu Sep 17 05:17:26 +0000 2020,DrPanMD,Dr. Richard Pan,0,7,California,measles,1,0,1,0
+Wed May 20 15:03:43 +0000 2020,bradhoylman,Senator Brad Hoylman,48,12,New_York,measles,1,0,1,0
+Fri Aug 30 00:00:35 +0000 2019,docpetit_art,Doc Petit,0,0,Connecticut,measles,1,0,1,0
+Thu May 02 19:45:35 +0000 2019,Bri4CO,Representative Bri Buentello,0,7,Colorado,measles,1,0,1,0
+Wed Apr 24 01:16:00 +0000 2019,Rendon63rd,Anthony Rendon,90,34,California,measles,1,0,1,0
+Wed Aug 28 13:16:03 +0000 2019,DrPanMD,Dr. Richard Pan,0,2,California,measles,1,0,1,0
+Fri Jul 26 17:40:03 +0000 2019,DrPanMD,Dr. Richard Pan,0,3,California,measles,1,0,1,0
+Mon May 13 12:55:55 +0000 2019,lauriejinkins2,Laurie Jinkins,2,0,Washington,measles,1,0,1,0
+Thu May 02 16:55:12 +0000 2019,GordonHintz,Gordon Hintz,5,3,Wisconsin,measles,1,0,1,0
+Wed Jun 12 16:58:50 +0000 2019,DrPanMD,Dr. Richard Pan,0,3,California,@drpanmd,0,1,1,0
+Tue Jan 26 07:19:42 +0000 2021,SenSaraGelser,Sara Gelser,1,3,Oregon,risk,1,0,1,0
+Wed Dec 02 19:30:19 +0000 2015,SenElderVogelJr,Senator Elder Vogel Jr,0,0,Pennsylvania,rabies,1,0,1,0
+Mon Aug 05 15:45:04 +0000 2019,SenatorOMara,Tom O'Mara,0,1,New_York,rabies,1,0,1,0
+Wed Oct 22 15:08:42 +0000 2014,SenatorRitchie,Patty Ritchie,0,0,New_York,rabies,1,0,1,0
+Tue Oct 27 17:06:55 +0000 2020,AnnaMKaplan,Senator Anna M. Kaplan,0,4,New_York,#flu,1,0,1,0
+Mon Aug 03 16:59:44 +0000 2020,DrPanMD,Dr. Richard Pan,1,1,California,threats,1,0,1,0
+Wed Oct 21 18:18:02 +0000 2020,SenJoeAddabbo,SenatorJoeAddabbo,9,2,New_York,shots,1,0,1,0
+Sun Sep 08 02:30:53 +0000 2019,DrPanMD,Dr. Richard Pan,0,4,California,@vaccinatecal,0,1,0,0
+Tue May 07 04:45:37 +0000 2019,EWReschke,E. Werner Reschke 🇺🇸,0,128,Oregon,#hb3063,1,0,1,0
+Fri Sep 18 10:18:21 +0000 2020,MatMuratore,Mathew Muratore,0,2,Massachusetts,vaccine,1,1,1,1
+Mon Jan 04 22:25:43 +0000 2021,SenMannyDiazJr,Manny Diaz Jr.,40,4,Florida,vaccine,1,1,1,1
+Wed Jun 05 14:32:26 +0000 2019,DrPanMD,Dr. Richard Pan,0,42,California,vaccine,1,1,1,1
+Fri Jan 29 21:12:18 +0000 2021,AnaHdzTx,Ana Hernandez,0,65,Texas,vaccine,1,1,1,1
+Fri Jan 08 20:49:25 +0000 2021,JuliaKirt,Julia Kirt,0,18,Oklahoma,vaccine,1,1,1,1
+Sun Jan 31 20:32:18 +0000 2021,DrPanMD,Dr. Richard Pan 🇺🇸,0,46,California,vaccine,1,1,1,1
+Sun Nov 29 00:39:09 +0000 2020,MindyForMA,Mindy Domb,0,53,Massachusetts,vaccine,1,1,1,1
+Sat Jan 16 20:28:36 +0000 2021,bobkressig,Bob Kressig,1,0,Iowa,vaccine,1,1,1,1
+Tue Jan 12 18:04:41 +0000 2021,SenGregClausen,Greg Clausen,0,11,Minnesota,vaccine,1,1,1,1
+Wed Dec 16 22:59:39 +0000 2020,VictoriaLSteele,Victoria Steele,0,67,Arizona,vaccine,1,1,1,1
+Mon Jan 11 18:36:00 +0000 2021,KatrinaJack_Sen,Katrina Jackson,2,1,Louisiana,vaccines,1,1,1,1
+Thu Dec 31 18:00:57 +0000 2020,GeneforTexas,Gene Wu,18,2,Texas,vaccines,1,1,1,1
+Mon Nov 16 14:07:48 +0000 2020,karlarosehanson,Karla Rose Hanson,7,0,North_Dakota,vaccines,1,1,1,1
+Fri Jan 15 23:17:45 +0000 2021,Book4Senate,Lauren Book,0,2,Florida,vaccines,1,1,1,1
+Sun Feb 08 17:54:58 +0000 2015,MarcLevine,Marc Levine,3,1,California,vaccines,1,1,1,1
+Tue Dec 15 18:40:59 +0000 2020,SollmanJaneen,Janeen Sollman,0,0,Oregon,vaccines,1,1,1,1
+Fri Jan 29 23:14:16 +0000 2021,CarlosGSmith,Rep. Carlos G Smith,41,9,Florida,vaccines,1,1,1,1
+Tue Dec 15 14:00:50 +0000 2020,RepKarenKwan,Karen Kwan,0,1,Utah,vaccines,1,1,1,1
+Thu Nov 19 21:01:18 +0000 2020,LindaStewartFL,Linda Stewart,8,3,Florida,vaccines,1,1,1,1
+Fri Jan 15 20:58:20 +0000 2021,SenJasonLewis,Jason Lewis,0,0,Massachusetts,vaccines,1,1,1,1
+Wed Nov 04 16:41:08 +0000 2020,KarinesReyesNYC,"Karines Reyes, R.N.",0,7,New_York,flu,1,1,1,1
+Tue Feb 20 20:53:47 +0000 2018,EllenCJaffee,Ellen C. Jaffee,0,0,New_York,flu,1,1,1,1
+Sat Mar 21 16:48:28 +0000 2020,CindyFriedmanMA,Cindy Friedman,1,1,Massachusetts,flu,0,0,0,1
+Thu Sep 24 12:27:12 +0000 2020,DonnaHowardTX,Donna Howard,0,0,Texas,flu,0,0,0,1
+Thu Oct 22 14:14:00 +0000 2020,AnaHdzTx,Ana Hernandez,0,7,Texas,flu,0,0,0,1
+Mon Mar 16 17:40:46 +0000 2020,RepJimNeely,Dr. Jim Neely,5,1,Missouri,flu,0,0,0,1
+Mon Apr 27 16:30:57 +0000 2020,senatorjen,Jen Jordan,10,3,Georgia,flu,0,0,0,1
+Tue Sep 08 22:17:38 +0000 2020,ErinForYall,Erin Zwiener,0,5,Texas,flu,1,1,1,1
+Thu Nov 05 23:53:05 +0000 2020,GeneforTexas,Gene Wu,49,5,Texas,flu,1,1,1,1
+Mon Dec 09 21:58:20 +0000 2013,KaraHope7,Kara Hope,0,1,Michigan,flu,1,1,1,1
+Thu May 16 20:44:18 +0000 2019,gmccortney,Greg McCortney,2,3,Oklahoma,vaccination,1,1,1,1
+Mon Jun 17 16:11:00 +0000 2019,RepAndyVargas,Andy X. Vargas,0,5,Massachusetts,vaccination,1,1,1,1
+Sun Jan 31 16:14:10 +0000 2021,RepLeavitt,mari leavitt,8,1,Washington,vaccination,1,1,1,1
+Tue Jan 26 19:19:15 +0000 2021,SenBillFerg,Bill Ferguson,190,25,Maryland,vaccination,1,1,1,1
+Mon Jan 20 13:05:38 +0000 2020,MarjorieDecker,Marjorie Decker,1,0,Massachusetts,vaccination,1,1,1,1
+Thu Dec 24 05:18:36 +0000 2020,ErinForYall,Erin Zwiener,2,0,Texas,vaccination,1,1,1,1
+Thu Dec 05 19:55:02 +0000 2019,NormCT,Norm Needleman,0,7,Connecticut,vaccination,1,1,1,1
+Tue Feb 18 20:26:53 +0000 2020,senatortesta,Senator Michael Testa,670,343,New_Jersey,vaccination,1,1,1,1
+Wed Mar 04 14:02:08 +0000 2020,mendezforaz,Sen. Juan Mendez,0,8,Arizona,vaccination,1,1,1,1
+Fri Jan 29 19:59:47 +0000 2021,anneneu,Anne Neu,0,5,Minnesota,vaccination,1,1,1,1
+Sat Jul 13 14:06:23 +0000 2019,Hilderbrand4KS,Richard Hilderbrand,1,1,Kansas,children,0,0,0,1
+Tue Oct 13 17:15:57 +0000 2020,VoteGloriaJ,Gloria Johnson,0,3546,Tennessee,children,0,0,0,1
+Tue Mar 03 23:22:36 +0000 2020,SenBurdick,Senator Ginny Burdick,0,5,Oregon,children,0,0,0,1
+Fri Jan 11 01:09:20 +0000 2019,MarcosDevers,Marcos Devers,1,0,Massachusetts,children,0,0,0,1
+Tue May 08 17:22:32 +0000 2018,SenatorFunke,Rich Funke,0,0,New_York,children,0,0,0,1
+Sun May 27 03:54:05 +0000 2018,RobynVining,Robyn Vining,0,5972,Wisconsin,children,0,0,0,1
+Sun May 13 15:44:00 +0000 2018,kmurphyva,Kathleen Murphy,8,1,Virginia,children,0,0,0,1
+Tue Jul 02 15:57:07 +0000 2019,mikemullin4VA,Delegate Mike 😷 Mullin,1,0,Virginia,children,0,0,0,1
+Tue Dec 20 19:46:16 +0000 2016,SenShilling,Jennifer Shilling,4,2,Wisconsin,children,0,0,0,1
+Thu Apr 25 15:05:58 +0000 2019,RepMaryGonzalez,Dr. Mary E. Gonzalez,27,5,Texas,children,0,0,0,1
+Wed Jun 20 14:23:23 +0000 2018,lundbergjon,Jon Lundberg,0,6,Tennessee,health,0,0,0,1
+Tue Apr 17 20:30:05 +0000 2018,JSandersNYC,James Sanders Jr.,3,0,New_York,health,0,0,0,1
+Fri Jan 19 12:37:27 +0000 2018,RepEWeight,Elizabeth Weight,0,2,Utah,health,0,0,0,1
+Fri Mar 13 18:15:54 +0000 2020,RepJoseOliva,Jose Oliva,73,24,Florida,health,0,0,0,1
+Sun Oct 01 15:54:18 +0000 2017,votezahra,Zahra Karinshak,1,0,Georgia,health,0,0,0,1
+Thu Jul 19 21:34:46 +0000 2018,BethBye5,Beth Bye,0,10483,Connecticut,health,0,0,0,1
+Fri Mar 16 19:03:18 +0000 2012,SenatorZucker,Craig Zucker,0,0,Maryland,health,0,0,0,1
+Wed Feb 26 19:52:02 +0000 2020,DennisHPowers,Rep. Dennis Powers,0,2,Tennessee,health,0,0,0,1
+Sun Apr 05 19:52:20 +0000 2020,SaraForMissouri,Sara Walsh,0,8,Missouri,health,0,0,0,1
+Thu Jun 02 00:07:37 +0000 2016,DickGottfried,Richard Gottfried,5,5,New_York,health,0,0,0,1
+Wed Apr 08 17:00:56 +0000 2020,SenDTSimmons,Sen. Derrick Simmons,1,1,Mississippi,coronavirus,0,0,0,1
+Wed Sep 02 22:29:46 +0000 2020,jamescita,Jamescita Peshlakai,0,26,Arizona,coronavirus,0,0,0,1
+Thu Jan 30 20:26:25 +0000 2020,jamelholley,Jamel Holley ♍🔌,0,303,New_Jersey,coronavirus,1,1,1,1
+Tue Aug 11 14:44:52 +0000 2020,jeffroy,Jeffrey N. Roy,3,3,Massachusetts,coronavirus,0,0,0,1
+Tue Mar 10 21:38:10 +0000 2020,EddieforTexas,Rep. Eddie Rodriguez,0,21,Texas,coronavirus,0,0,0,1
+Tue Mar 31 22:58:30 +0000 2020,WillGuzzardi,Will Guzzardi,22,4,Illinois,coronavirus,0,0,0,1
+Sat Mar 28 02:39:13 +0000 2020,chrispaddie,Chris D. Paddie,0,1956,Texas,coronavirus,0,0,0,1
+Thu Mar 19 18:55:09 +0000 2020,GabrielAcevero,Del. Gabriel Acevero,5,1,Maryland,coronavirus,0,0,0,1
+Wed May 20 14:22:49 +0000 2020,MindyForMA,Mindy Domb,0,64,Massachusetts,coronavirus,0,0,0,1
+Sat Aug 08 17:24:03 +0000 2020,DrPanMD,Dr. Richard Pan,0,30,California,vaccinations,1,1,1,1
+Sun Jan 17 19:51:41 +0000 2021,ToddGloria,Todd Gloria,112,8,California,vaccinations,1,1,1,1
+Thu Jan 14 14:12:37 +0000 2021,wileynickel,Senator Wiley Nickel,1,0,North_Carolina,vaccinations,1,1,1,1
+Mon Sep 23 22:13:48 +0000 2019,Rep_Jimmy,Jimmy Anderson,0,3,Wisconsin,vaccinations,1,1,1,1
+Fri Dec 18 01:56:48 +0000 2020,VoteGloriaJ,Gloria Johnson,0,17,Tennessee,vaccinations,1,1,1,1
+Mon Feb 01 03:47:56 +0000 2021,Asm_Nazarian,Adrin Nazarian,0,26,California,vaccinations,1,1,1,1
+Sat Dec 19 02:22:16 +0000 2020,BuffyWicks,Buffy Wicks,134,54,California,vaccinations,1,1,1,1
+Wed Jan 13 00:57:20 +0000 2021,rattijulia,Julia Ratti,2,0,Nevada,vaccinations,1,1,1,1
+Thu Jan 07 13:02:31 +0000 2021,KimpsonForSC,Sen. Marlon Kimpson,15,0,South_Carolina,vaccinations,1,1,1,1
+Wed Jan 06 01:48:25 +0000 2021,SarahUnsicker,Sarah Unsicker,16,8,Missouri,vaccinations,1,1,1,1
+Sat Mar 07 16:58:40 +0000 2020,senatorduff,"Bob Duff, Senate Majority Leader, CT",0,1,Connecticut,#vaccineswork,1,1,1,1
+Wed May 08 20:30:16 +0000 2019,DavidCrowleyWI,David C. Crowley,0,20,Wisconsin,#vaccineswork,1,1,1,1
+Thu Dec 03 16:51:24 +0000 2020,DrPanMD,Dr. Richard Pan 🇺🇸,4,1,California,#vaccineswork,1,1,1,1
+Wed Aug 28 15:38:16 +0000 2019,DrPanMD,Dr. Richard Pan,0,21,California,#vaccineswork,1,1,1,1
+Tue Dec 03 20:23:34 +0000 2019,RepAndyVargas,Andy X. Vargas,0,4,Massachusetts,#vaccineswork,1,1,1,1
+Fri Aug 09 12:21:01 +0000 2019,DrPanMD,Dr. Richard Pan,0,3,California,#vaccineswork,1,1,1,1
+Tue Jun 23 17:32:30 +0000 2020,DrPanMD,Dr. Richard Pan,29,2,California,#vaccineswork,1,1,1,1
+Wed May 15 14:32:25 +0000 2019,senatorduff,"Bob Duff, Senate Majority Leader, CT",0,1,Connecticut,#vaccineswork,1,1,1,1
+Mon Aug 19 21:08:19 +0000 2019,DrPanMD,Dr. Richard Pan,0,6,California,#vaccineswork,1,1,1,1
+Fri Jan 10 15:52:46 +0000 2020,DrPanMD,Dr. Richard Pan,0,35,California,#vaccineswork,1,1,1,1
+Mon Jan 04 22:20:32 +0000 2021,KHancock4TX,Kelly Hancock,1,0,Texas,vaccinated,1,1,1,1
+Wed Oct 07 17:52:08 +0000 2020,SenHannahBeth,Hannah-Beth Jackson,3,0,California,vaccinated,1,1,1,1
+Fri Jan 08 22:31:46 +0000 2021,SRachelMay,Dr. Rachel May,19,5,New_York,vaccinated,1,1,1,1
+Wed Mar 11 19:38:42 +0000 2020,bradhoylman,Senator Brad Hoylman,233,45,New_York,vaccinated,1,1,1,1
+Mon Dec 28 14:50:01 +0000 2020,pwcdanica,Del. Danica Roem,2,0,Virginia,vaccinated,1,1,1,1
+Fri Oct 09 16:51:09 +0000 2020,RepIzzy,Rep. Izzy Fitzgerald,0,15,Pennsylvania,vaccinated,1,1,1,1
+Wed Aug 28 13:20:45 +0000 2019,DrPanMD,Dr. Richard Pan,0,1,California,vaccinated,1,1,1,1
+Mon Dec 14 16:01:53 +0000 2020,wardports,Gerald W.R. Ward,0,1614,New_Hampshire,vaccinated,1,1,1,1
+Mon Feb 01 19:20:01 +0000 2021,ChrisGTurner,Chris Turner,0,4,Texas,vaccinated,1,1,1,1
+Thu Sep 17 14:22:09 +0000 2020,DrPanMD,Dr. Richard Pan,0,38,California,vaccinated,1,1,1,1
+Mon Mar 30 13:59:15 +0000 2020,MaryBorenSD16,Senator Vote Louder Mary 🗳 ✏️ 🇺🇸,0,19,Oklahoma,protect,0,0,0,1
+Thu Sep 20 21:58:46 +0000 2018,SenatorGilmore,Senator Brenda Gilmore,3,0,Tennessee,protect,0,0,0,1
+Sat Jan 09 03:11:09 +0000 2021,ForrestBennett,Forrest Bennett,72,0,Oklahoma,protect,0,0,0,1
+Tue Jun 14 17:37:14 +0000 2016,AndreaSCousins,Sen. Stewart-Cousins,0,0,New_York,protect,0,0,0,1
+Sun Aug 11 13:31:48 +0000 2019,BrianTurnerNC,Brian Turner,13,1,North_Carolina,protect,0,0,0,1
+Fri Oct 06 17:44:05 +0000 2017,EllenCJaffee,Ellen C. Jaffee,0,95,New_York,protect,0,0,0,1
+Wed May 06 16:13:26 +0000 2020,SenBrentJackson,Sen. Brent Jackson,7,1,North_Carolina,protect,0,0,0,1
+Sat Feb 22 05:08:04 +0000 2020,Portantino,Anthony Portantino,0,5,California,protect,0,0,0,1
+Sun Apr 29 22:43:47 +0000 2018,jkalanienglish,J. Kalani English,0,1,Hawaii,protect,0,0,0,1
+Tue Jun 23 14:23:38 +0000 2020,PaulBaumbach,Paul Baumbach,0,24,Delaware,protect,0,0,0,1
+Thu Dec 17 22:03:20 +0000 2020,VoteGloriaJ,Gloria Johnson,0,83,Tennessee,public,0,0,0,1
+Thu Jun 25 10:45:42 +0000 2015,TheNCRep,Kelly Alexander Jr,0,0,North_Carolina,public,0,0,0,1
+Sat Mar 14 18:39:56 +0000 2020,BuffyWicks,Buffy Wicks,266,170,California,public,0,0,0,1
+Sat May 05 02:17:10 +0000 2018,DeniseforAR,Denise Garner,0,2,Arkansas,public,0,0,0,1
+Wed May 06 22:17:46 +0000 2020,CournoyerIA,Chris Cournoyer,0,65,Iowa,public,0,0,0,1
+Thu Dec 03 18:52:42 +0000 2020,BuffyWicks,Buffy Wicks,0,857,California,public,1,1,1,1
+Tue Jul 28 22:28:29 +0000 2020,Danny_ODonnell_,Assembly Member Danny O’Donnell,0,1,New_York,public,0,0,0,1
+Mon Oct 28 23:45:59 +0000 2019,AsmRobertRivas,Assemblymember Robert Rivas,3,0,California,public,0,0,0,1
+Mon Mar 09 21:58:33 +0000 2020,Dlesgar,Daneya Esgar,29,6,Colorado,public,0,0,0,1
+Mon Sep 23 17:34:54 +0000 2019,BillPostOregon,Bill Post 🏝,0,4,Oregon,public,0,0,0,1
+Thu Jan 09 21:59:06 +0000 2020,TerryCanales40,Terry Canales,0,1,Texas,rt,0,0,0,1
+Tue May 23 15:38:09 +0000 2017,TinaForKentucky,Tina Bojanowski,0,2061,Kentucky,rt,0,0,0,1
+Sat Jan 09 00:33:22 +0000 2016,tkth,Tracy Kraft-Tharp,0,0,Colorado,rt,0,0,0,1
+Wed Apr 15 05:30:51 +0000 2020,Biaggi4NY,Alessandra Biaggi,0,18966,New_York,rt,0,0,0,1
+Tue Nov 18 02:45:20 +0000 2014,senatorsapien,John Sapien,3,4,New_Mexico,rt,0,0,0,1
+Sat Sep 22 10:12:33 +0000 2018,brettharrell,Brett Harrell,0,4449,Georgia,rt,0,0,0,1
+Wed Apr 08 00:50:41 +0000 2009,Jackson4CO,Dominique Jackson,0,0,Colorado,rt,0,0,0,1
+Fri Jun 22 14:47:20 +0000 2012,Justinhumphrey,Justin Humphrey,0,0,Oklahoma,rt,0,0,0,1
+Fri Feb 08 11:33:52 +0000 2013,erekbarron,Erek L. Barron,0,0,Maryland,rt,0,0,0,1
+Sat Jun 07 16:52:02 +0000 2014,JeffWeninger,Jeff Weninger,0,0,Arizona,rt,0,0,0,1
+Sat May 16 01:19:27 +0000 2020,RepBrianKing,Rep. Brian S. King,0,41,Utah,free,0,0,0,1
+Wed Jun 24 15:26:36 +0000 2020,WilhelmForNH,Matt Wilhelm,5,4,New_Hampshire,free,0,0,0,1
+Sat May 18 11:39:00 +0000 2019,CherylKagan,Cheryl C. Kagan,15,10,Maryland,free,0,0,0,1
+Tue Jan 29 12:36:21 +0000 2019,MikeWChip,MikeWChip,10,5,Rhode_Island,free,0,0,0,1
+Fri Jun 07 15:54:44 +0000 2019,isaacsponaugle,Isaac Sponaugle,61,15,West_Virginia,free,0,0,0,1
+Wed Oct 23 21:26:41 +0000 2019,PriceForDel95,Delegate Cia Price,9,0,Virginia,free,0,0,0,1
+Wed Aug 14 10:59:21 +0000 2019,SenatorJoeCryan,Joe Cryan,0,3,New_Jersey,free,0,0,0,1
+Fri Sep 20 19:16:54 +0000 2019,RepWalle,Armando Walle,2,0,Texas,free,0,0,0,1
+Tue Jun 30 00:18:03 +0000 2020,wcantrell,Wes Cantrell,2,0,Georgia,free,0,0,0,1
+Wed Apr 04 19:29:55 +0000 2018,RepDeLissio,Rep. Pam DeLissio,0,0,Pennsylvania,free,0,0,0,1
+Tue Jan 19 19:43:04 +0000 2021,snordgren23,Sharon Nordgren,0,14000,New_Hampshire,child,0,0,0,1
+Mon Dec 07 19:48:13 +0000 2020,RosannaGabaldon,Rosanna Gabaldon,2,1,Arizona,child,0,0,0,1
+Fri Feb 02 16:30:53 +0000 2018,Sorvillo4House,Jim Sorvillo,0,0,Arkansas,child,0,0,0,1
+Fri Jan 04 21:01:14 +0000 2013,Sorvillo4House,Jim Sorvillo,0,0,Arkansas,child,0,0,0,1
+Wed Apr 11 00:09:56 +0000 2018,StaedArt,State Rep Art Staed,0,0,Iowa,child,0,0,0,1
+Mon May 11 10:55:24 +0000 2020,CathyOsten,Cathy Osten,0,0,Connecticut,child,0,0,0,1
+Thu Jul 23 16:43:37 +0000 2020,SenatorVanPelt,Senator Van Pelt,0,0,Illinois,child,0,0,0,1
+Sun Jun 24 01:25:24 +0000 2018,Cassandra4NH,Cassandra Levesque,23,4,New_Hampshire,child,0,0,0,1
+Mon Aug 10 21:00:23 +0000 2020,ChoppRep,Rep. Frank Chopp,1,0,Washington,child,0,0,0,1
+Fri May 10 17:33:27 +0000 2019,RepMoira_Jayne,Moira Jayne Walsh,0,6552,Rhode_Island,child,0,0,0,1
+Fri Mar 08 12:28:15 +0000 2019,TerriCortvriend,Terri Cortvriend,0,128,Rhode_Island,measles,0,0,0,1
+Sat Mar 30 01:35:03 +0000 2019,LorenaAD80,Lorena Gonzalez,2,1,California,immunization,1,1,1,1
+Thu Aug 27 12:30:19 +0000 2020,statereplove10,Leslie Love,2,0,Michigan,immunization,1,1,1,1
+Thu Oct 10 19:00:23 +0000 2013,jimananich,Senator Jim Ananich,0,0,Michigan,immunization,1,1,1,1
+Mon Nov 30 19:36:19 +0000 2020,JennJermaine,Jennifer Jermaine,0,6,Arizona,immunization,1,1,1,1
+Wed Dec 16 22:59:18 +0000 2020,MindyForMA,Mindy Domb,1,0,Massachusetts,immunization,1,1,1,1
+Thu Aug 01 21:16:49 +0000 2019,LorenaAD80,Lorena Gonzalez,0,8,California,immunization,1,1,1,1
+Tue May 07 16:28:14 +0000 2019,GrierMartin,Rep. Grier Martin,0,5,North_Carolina,immunization,1,1,1,1
+Mon Sep 14 17:42:39 +0000 2020,RepDeasy,Rep. Dan Deasy,4,2,Pennsylvania,immunization,1,1,1,1
+Thu Dec 10 20:19:04 +0000 2020,DrPanMD,Dr. Richard Pan 🇺🇸,6,3,California,immunization,1,1,1,1
+Tue Jul 28 18:13:15 +0000 2020,CortezPhilip,"Philip Cortez, Ph.D.",11,2,Texas,immunization,1,1,1,1
+Tue May 21 10:53:14 +0000 2019,RebeccaKislak,Rebecca Kislak,0,0,Rhode_Island,get,0,0,0,1
+Thu Apr 16 14:15:29 +0000 2020,DeborahJGlick,(((Deborah Glick))),0,252,New_York,get,0,0,0,1
+Sat Jan 09 22:39:49 +0000 2021,CherrishPryor,Cherrish Pryor,19,5,Indiana,get,0,0,0,1
+Mon May 18 21:09:38 +0000 2020,ErinForYall,Erin Zwiener,18,4,Texas,get,0,0,0,1
+Fri Apr 10 14:35:09 +0000 2020,DarshunKendrick,Dar'shun Kendrick,1,0,Georgia,get,0,0,0,1
+Wed Mar 11 21:59:12 +0000 2020,jasonrapert,Jason Rapert,2,0,Arkansas,get,0,0,0,1
+Fri Jun 28 19:12:15 +0000 2019,TinaKotek,Tina Kotek,0,7,Oregon,get,0,0,0,1
+Tue Feb 13 04:04:05 +0000 2018,RobbyMillsforKY,Robby Mills,0,9,Kentucky,get,0,0,0,1
+Tue Aug 07 19:21:06 +0000 2018,MarcSnyderHD18,"Representative Marc Snyder, House District 18",11,5,Colorado,get,0,0,0,1
+Mon May 06 19:49:08 +0000 2013,JovanMelton,Rep. Jovan Melton,0,2,Colorado,get,0,0,0,1
+Fri May 01 20:33:30 +0000 2020,RepDuerr,Davina Duerr,0,0,Washington,medical,0,0,0,1
+Tue Aug 21 13:51:35 +0000 2018,theresagavarone,Senator Theresa Gavarone,6,0,Ohio,medical,0,0,0,1
+Wed Oct 21 21:04:55 +0000 2020,AnnaMKaplan,Senator Anna M. Kaplan,0,3,New_York,medical,0,0,0,1
+Mon Aug 15 22:45:28 +0000 2016,MikeMcKayMD,Delegate Mike McKay,0,0,Maryland,medical,0,0,0,1
+Mon Mar 30 17:45:34 +0000 2020,bradhoylman,Senator Brad Hoylman,5,3,New_York,medical,0,0,0,1
+Sat Oct 05 17:44:01 +0000 2013,DougLibla25,Doug Libla,1,0,Missouri,medical,0,0,0,1
+Thu Jun 25 19:27:35 +0000 2020,KarenSpilka,Karen Spilka,19,3,Massachusetts,medical,0,0,0,1
+Wed Jun 17 15:40:14 +0000 2020,MattLesser,Sen. Matt Lesser,0,1,Connecticut,medical,0,0,0,1
+Sun Jan 10 17:40:49 +0000 2021,HalaAyala,Hala Ayala,0,10,Virginia,medical,0,0,0,1
+Sat Apr 11 18:56:29 +0000 2020,AnnaEfor148,Anna Eastman,0,54,Texas,medical,0,0,0,1
+Sun Jul 15 01:16:33 +0000 2018,laurafriedman43,Laura Friedman,0,2022,California,parents,0,0,0,1
+Thu Jul 25 00:32:06 +0000 2019,JustinBoydAR,Justin Boyd 4 AR,0,6,Arkansas,parents,0,0,0,1
+Tue Jun 23 02:46:46 +0000 2020,BeckyEvansGA,Becky Evans,0,0,Georgia,parents,0,0,0,1
+Sat Feb 29 22:48:31 +0000 2020,DarshunKendrick,Dar'shun Kendrick,14,0,Georgia,parents,0,0,0,1
+Thu Feb 13 22:27:26 +0000 2020,ValdezforCO,Rep. Alex Valdez,0,2,Colorado,parents,0,0,0,1
+Tue Jun 06 16:44:07 +0000 2017,RepPerryWarren,Rep. Perry Warren,0,1,Pennsylvania,parents,0,0,0,1
+Fri Apr 12 23:31:09 +0000 2019,TanaSenn,Tana Senn,19,2,Washington,parents,0,0,0,1
+Thu Nov 01 15:21:52 +0000 2018,NirajAntani,Niraj Antani,0,0,Ohio,parents,0,0,0,1
+Thu Apr 12 02:42:21 +0000 2018,RepTammyWest,Tammy West,0,1,Oklahoma,parents,0,0,0,1
+Thu Sep 22 19:16:29 +0000 2016,HaroldNaughton,Harold Naughton,0,0,Massachusetts,parents,0,0,0,1
+Thu Jan 07 20:26:54 +0000 2021,SenatorGainer,George Gainer,0,0,Florida,immunizations,1,1,1,1
+Fri Feb 28 22:15:50 +0000 2020,KevinPriola,Kevin Priola 🇺🇸,0,1,Colorado,immunizations,1,1,1,1
+Tue Dec 12 19:46:04 +0000 2017,JPenaMelnyk,Del. J. Peña-Melnyk,5,4,Maryland,immunizations,1,1,1,1
+Fri Jun 26 17:10:35 +0000 2020,DrPanMD,Dr. Richard Pan,0,6,California,immunizations,1,1,1,1
+Mon Sep 23 21:33:29 +0000 2019,GordonHintz,Gordon Hintz,4,3,Wisconsin,immunizations,1,1,1,1
+Tue May 09 21:24:18 +0000 2017,lauriejinkins2,Laurie Jinkins,0,4,Washington,immunizations,1,1,1,1
+Fri May 01 16:24:51 +0000 2020,DrPanMD,Dr. Richard Pan,0,7,California,immunizations,1,1,1,1
+Fri Oct 11 19:14:03 +0000 2019,MariManoogian,Mari Manoogian 🧼🤚🏽,0,6,Michigan,immunizations,1,1,1,1
+Sun Jun 23 15:03:30 +0000 2019,ESHforOregon,Sen. Steiner Hayward,1198,535,Oregon,immunizations,1,1,1,1
+Wed Dec 16 13:23:51 +0000 2020,MindyForMA,Mindy Domb,2,1,Massachusetts,immunizations,1,1,1,1
+Mon Sep 14 18:14:19 +0000 2020,BarbaraBollier,Dr. Barbara Bollier,471,162,Kansas,science,0,0,0,1
+Thu Jan 09 00:12:53 +0000 2020,RepJohnMahoney,Rep. John Mahoney,8,0,Massachusetts,science,0,0,0,1
+Sat Mar 21 23:27:32 +0000 2020,RepKellyCassidy,Rep. Kelly Cassidy,0,2406,Illinois,science,0,0,0,1
+Tue Jan 30 21:17:44 +0000 2018,Muradian4Rep,David Muradian,0,6,Massachusetts,science,0,0,0,1
+Sun Feb 20 05:28:00 +0000 2011,MarkNakashima,Mark Nakashima,1,1,Hawaii,science,0,0,0,1
+Thu Jan 17 16:58:01 +0000 2019,SenatorDinniman,Senator Andy Dinniman,12,5,Pennsylvania,science,0,0,0,1
+Sat Jul 11 19:26:35 +0000 2020,DrPanMD,Dr. Richard Pan,0,1178,California,science,0,0,0,1
+Sat Oct 26 11:21:36 +0000 2019,mikeday4rep,Michael Day,0,4,Massachusetts,science,0,0,0,1
+Tue Sep 15 15:02:47 +0000 2020,SenFrankNiceley,Sen. Frank Niceley,7,5,Tennessee,science,0,0,0,1
+Fri Jul 17 19:52:20 +0000 2020,JoanMeschino,Joan Meschino,0,3,Massachusetts,science,0,0,0,1
+Sat Sep 14 04:04:35 +0000 2019,RepFreiberg,Mike Freiberg,0,12,Minnesota,anti-vaccine,1,1,1,1
+Thu Dec 17 13:58:24 +0000 2020,GeneforTexas,Gene Wu,0,29,Texas,anti-vaccine,1,1,1,1
+Wed Jul 01 15:23:46 +0000 2020,DrPanMD,Dr. Richard Pan,22,2,California,anti-vaccine,1,1,1,1
+Sat Jun 27 23:57:17 +0000 2020,TomAbinanti,Assemblyman Abinanti,0,0,New_York,anti-vaccine,1,1,1,1
+Thu Sep 19 04:37:40 +0000 2019,DrPanMD,Dr. Richard Pan,0,20,California,anti-vaccine,1,1,1,1
+Fri Aug 14 14:58:18 +0000 2020,poncho_nevarez,Poncho Nevárez,0,0,Texas,anti-vaccine,1,1,1,1
+Fri Jun 14 14:37:32 +0000 2019,DrPanMD,Dr. Richard Pan,0,207,California,anti-vaccine,1,1,1,1
+Sat May 06 11:40:40 +0000 2017,DavidLagrand,David LaGrand,0,330,Michigan,anti-vaccine,1,1,1,1
+Tue Apr 30 14:39:05 +0000 2019,RepZabel,Rep. Mike Zabel,38,12,Pennsylvania,anti-vaccine,1,1,1,1
+Tue Nov 12 15:23:12 +0000 2019,bradhoylman,Senator Brad Hoylman,0,127,New_York,anti-vaccine,1,1,1,1
+Fri Mar 20 19:05:19 +0000 2020,DrPanMD,Dr. Richard Pan,0,8,California,@drpanmd,0,0,0,1
+Thu May 23 02:34:46 +0000 2019,DrPanMD,Dr. Richard Pan,0,11,California,@drpanmd,1,1,1,1
+Thu Feb 20 19:32:53 +0000 2020,DrPanMD,Dr. Richard Pan,26,3,California,@drpanmd,1,1,1,1
+Fri Sep 06 22:53:43 +0000 2019,DrPanMD,Dr. Richard Pan,0,22,California,@drpanmd,0,0,0,1
+Wed Aug 28 06:37:45 +0000 2019,DrPanMD,Dr. Richard Pan,78,18,California,@drpanmd,1,1,1,1
+Sun Oct 06 02:36:02 +0000 2019,DrPanMD,Dr. Richard Pan,0,37,California,@drpanmd,0,0,0,1
+Thu Oct 10 17:40:21 +0000 2019,DrPanMD,Dr. Richard Pan,20,10,California,@drpanmd,1,1,1,1
+Thu Jun 05 17:49:16 +0000 2014,SteveBradford,Steven Bradford,3,2,California,@drpanmd,0,0,0,1
+Wed Aug 12 00:47:56 +0000 2020,Ash_Kalra,Ash Kalra 🌱,26,9,California,@drpanmd,0,0,0,1
+Sat May 18 15:41:22 +0000 2019,RaquelTeran,Raquel Terán #BlackLivesMatter,0,11,Arizona,anti-vaxxers,1,1,1,1
+Mon Dec 02 23:25:36 +0000 2019,GregReed21234,Greg Reed,0,262,Alabama,anti-vaxxers,1,1,1,1
+Wed Aug 28 14:57:11 +0000 2019,DrPanMD,Dr. Richard Pan,67,23,California,anti-vaxxers,1,1,1,1
+Tue Feb 26 14:47:03 +0000 2019,RepFreiberg,Mike Freiberg,0,155,Minnesota,anti-vaxxers,1,1,1,1
+Sun Jan 31 17:16:26 +0000 2021,DrPanMD,Dr. Richard Pan 🇺🇸,8,0,California,anti-vaxxers,1,1,1,1
+Sat Aug 31 18:29:08 +0000 2019,DrPanMD,Dr. Richard Pan,285,47,California,anti-vaxxers,1,1,1,1
+Tue Jul 28 22:32:59 +0000 2020,MindyForMA,Mindy Domb,3,1,Massachusetts,anti-vaxxers,1,1,1,1
+Sun Feb 09 17:35:28 +0000 2020,DrPanMD,Dr. Richard Pan,184,37,California,anti-vaxxers,1,1,1,1
+Sun Sep 15 20:49:24 +0000 2019,Scott_Wiener,Senator Scott Wiener,388,46,California,anti-vaxxers,1,1,1,1
+Thu Oct 18 18:22:07 +0000 2018,SenQuezada29,Sen. Martín Quezada,90,76,Arizona,anti-vaxxers,1,1,1,1
+Wed Mar 18 22:21:34 +0000 2020,AsmMuratsuchi,Asm. Al Muratsuchi,1,1,California,risk,0,0,0,1
+Tue Aug 11 00:57:41 +0000 2020,allenskillicorn,Rep. Allen Skillicorn,0,481,Illinois,risk,0,0,0,1
+Thu Apr 30 17:23:52 +0000 2020,BillDoddCA,Bill Dodd,3,0,California,risk,0,0,0,1
+Mon Apr 15 03:10:15 +0000 2019,SenatorCP,Christopher Pearson,0,0,Vermont,risk,0,0,0,1
+Mon Mar 27 17:55:05 +0000 2017,SenateHertzberg,Bob Hertzberg,10,13,California,risk,0,0,0,1
+Mon Mar 30 14:13:51 +0000 2020,RepHollyGrange,Holly Grange,0,7,North_Carolina,risk,0,0,0,1
+Wed Sep 16 16:04:37 +0000 2015,SenOtondo,Lisa Otondo,0,10,Arizona,risk,0,0,0,1
+Thu Jan 17 02:19:26 +0000 2019,GroteJacinthe,Rep. Jaci Grote,0,21,New_Hampshire,risk,0,0,0,1
+Tue Jul 14 16:15:48 +0000 2020,katiefryhester,Katie Fry Hester,0,45,Maryland,risk,0,0,0,1
+Sun Mar 29 14:03:23 +0000 2020,repjanetbuckner,Janet Buckner,0,0,Colorado,virus,0,0,0,1
+Sun Dec 27 18:12:43 +0000 2020,yarbro,Jeff Yarbro,0,74,Tennessee,virus,0,0,0,1
+Thu May 14 13:31:15 +0000 2020,sdduba,Linda Duba,0,17778,South_Dakota,virus,0,0,0,1
+Wed Oct 28 19:58:16 +0000 2020,WendyENThomas,Hon. Wendy E.N Thomas,0,4872,New_Hampshire,virus,0,0,0,1
+Mon Aug 03 02:18:50 +0000 2020,JustinBoydAR,Justin Boyd 4 AR,0,51,Arkansas,virus,0,0,0,1
+Thu Mar 26 15:10:29 +0000 2020,TeamBettencourt,Team Bettencourt,23,6,Texas,virus,0,0,0,1
+Thu Jan 30 00:08:48 +0000 2020,Repulery,Jordan Ulery,0,0,New_Hampshire,virus,0,0,0,1
+Sat Mar 28 23:38:05 +0000 2020,BuffyWicks,Buffy Wicks,0,9527,California,virus,0,0,0,1
+Thu Mar 12 21:11:55 +0000 2020,EmiliaSykesOH,Emilia Sykes,0,1,Ohio,virus,0,0,0,1
+Sat May 02 20:31:36 +0000 2020,Biaggi4NY,Alessandra Biaggi,0,60,New_York,virus,0,0,0,1
+Thu Jul 30 13:07:12 +0000 2020,SarahUnsicker,Sarah Unsicker,0,1981,Missouri,school,0,0,0,1
+Mon Jan 30 14:31:50 +0000 2017,P2Hannley,Pam Powers Hannley,0,0,Arizona,school,0,0,0,1
+Wed Jun 26 19:07:24 +0000 2019,jamaaltbailey,Jamaal T. Bailey,11,4,New_York,school,0,0,0,1
+Sat Aug 06 20:25:22 +0000 2016,Irahansen,Ira Hansen,2,0,Nevada,school,0,0,0,1
+Fri Jan 27 19:46:12 +0000 2012,SenatorFasano,Len Fasano,0,0,Connecticut,school,0,0,0,1
+Fri May 01 16:21:03 +0000 2020,DrRandyFriese,Dr. Randy Friese,0,56,Arizona,school,0,0,0,1
+Thu Jan 14 20:44:26 +0000 2021,RAlexAndradeFL,Alex Andrade,6,2,Florida,school,0,0,0,1
+Tue Sep 29 23:25:07 +0000 2020,BrianKelsey,Brian Kelsey,5,0,Tennessee,school,0,0,0,1
+Sun Mar 10 04:03:05 +0000 2019,scottallenmeyer,Scott Meyer,19,0,North_Dakota,school,0,0,0,1
+Sat Jan 09 16:00:51 +0000 2021,Justine4RI,Justine Caldwell,6,0,Rhode_Island,school,0,0,0,1
+Sat May 23 16:46:09 +0000 2020,NYSenatorRivera,Gustavo Rivera,45,21,New_York,diseases,0,0,0,1
+Thu Mar 05 22:58:29 +0000 2020,donderoloopnv,Senator Marilyn Dondero Loop,0,2,Nevada,diseases,0,0,0,1
+Fri Dec 08 21:25:46 +0000 2017,JacobsforSenate,Senator Chris Jacobs,5,1,New_York,diseases,0,0,0,1
+Mon Apr 18 18:56:27 +0000 2016,SenSantarsiero,Steve Santarsiero,0,1,Pennsylvania,diseases,1,1,1,1
+Tue Aug 27 18:49:58 +0000 2019,repjocasta,JoCasta Zamarripa,0,54,Wisconsin,diseases,1,1,1,1
+Fri Jun 14 20:04:17 +0000 2019,JulieEmerson,Julie Emerson,2,1,Louisiana,diseases,0,0,0,1
+Tue Mar 31 21:47:12 +0000 2020,AdamRavenstahl,Adam Ravenstahl,0,32,Pennsylvania,diseases,0,0,0,1
+Mon Nov 16 14:10:18 +0000 2020,karlarosehanson,Karla Rose Hanson,2,0,North_Dakota,diseases,1,1,1,1
+Tue Apr 10 20:44:03 +0000 2018,RepThierry146,Shawn Thierry,10,3,Texas,diseases,0,0,0,1
+Mon Mar 16 19:04:06 +0000 2020,declanoscanlon,Declan O'Scanlon,52,5,New_Jersey,diseases,1,1,1,1
+Wed May 27 20:34:09 +0000 2020,SenMannyDiazJr,Manny Diaz Jr.,0,22532,Florida,will,0,0,0,1
+Thu May 23 21:56:32 +0000 2019,DavidCarlucci,David Carlucci,6,2,New_York,will,0,0,0,1
+Sun May 17 22:22:47 +0000 2020,205JackWilliams,Jack Williams,1,0,Alabama,will,0,0,0,1
+Fri Jan 31 15:25:16 +0000 2014,NNickPerry,N Nick Perry,0,0,New_York,will,0,0,0,1
+Fri May 29 18:09:10 +0000 2020,ErinForYall,Erin Zwiener,0,605,Texas,will,0,0,0,1
+Thu Aug 10 18:12:32 +0000 2017,KevinMcCartyCA,Kevin McCarty,2,3,California,will,0,0,0,1
+Mon May 04 13:16:42 +0000 2020,senatorscarnati,Senator Joe Scarnati,0,18,Pennsylvania,will,0,0,0,1
+Mon Jan 18 05:46:39 +0000 2021,lizthomsonnm,Liz Thomson,8,1,New_Mexico,will,0,0,0,1
+Thu Sep 26 19:08:40 +0000 2013,senatorscarnati,Senator Joe Scarnati,1,0,Pennsylvania,will,0,0,0,1
+Wed Mar 25 17:02:17 +0000 2020,DanielRBenson,Dan Benson,0,4,New_Jersey,will,0,0,0,1
+Fri Mar 20 14:56:17 +0000 2020,RepKHoward,Rep. Kristine Howard,0,0,Pennsylvania,exemptions,0,0,0,1
+Fri May 10 23:35:09 +0000 2019,DrPanMD,Dr. Richard Pan,0,5,California,exemptions,1,1,1,1
+Wed Jul 01 17:58:23 +0000 2020,IsraelOQuinn,Israel O'Quinn,0,1,Virginia,exemptions,0,0,0,1
+Wed Apr 01 23:00:00 +0000 2020,RepPerryWarren,Rep. Perry Warren,0,0,Pennsylvania,exemptions,0,0,0,1
+Fri Feb 21 14:53:43 +0000 2020,EricLuedtke,Delegate Eric Luedtke,1,0,Maryland,exemptions,0,0,0,1
+Mon Mar 16 21:40:46 +0000 2015,herbconaway,Herb Conaway,0,1,New_Jersey,exemptions,1,1,1,1
+Thu Mar 05 18:09:46 +0000 2020,Jo_Comerford,Jo Comerford,0,4,Massachusetts,exemptions,1,1,1,1
+Fri Sep 06 22:58:43 +0000 2019,DrPanMD,Dr. Richard Pan,0,10,California,exemptions,1,1,1,1
+Wed May 08 19:43:56 +0000 2019,SenSaraGelser,Sara Gelser,13,4,Oregon,exemptions,0,0,0,1
+Wed Apr 24 14:49:07 +0000 2019,DrPanMD,Dr. Richard Pan,0,1,California,exemptions,1,1,1,1
+Tue Mar 13 18:52:44 +0000 2018,SoniaChangDiaz,Sonia Chang-Díaz,12,6,Massachusetts,lives,0,0,0,1
+Sun Feb 11 09:08:25 +0000 2018,Wheeler4Nevada,Jim Wheeler,0,3,Nevada,lives,0,0,0,1
+Tue Oct 06 18:52:09 +0000 2020,gregrazer,Greg Razer,14,2,Missouri,lives,0,0,0,1
+Wed Jul 01 11:18:21 +0000 2020,LindaTannerNH,Linda Tanner,0,7,New_Hampshire,lives,0,0,0,1
+Sun Oct 06 15:00:33 +0000 2019,PaulDBoyer,Paul Boyer,0,65,Arizona,lives,0,0,0,1
+Sat Jun 06 19:55:50 +0000 2020,RepFueLee,Fue Lee,0,308,Minnesota,lives,0,0,0,1
+Thu Apr 30 02:19:47 +0000 2020,CherlynnForKY,Representative Cherlynn Stevenson,0,23,Kentucky,lives,0,0,0,1
+Wed Jan 27 16:07:58 +0000 2021,danielforaz,Representative Daniel Hernandez Jr,0,21,Arizona,lives,0,0,0,1
+Fri Apr 13 19:44:00 +0000 2018,senjehlen,Sen. Pat Jehlen,0,28,Massachusetts,lives,0,0,0,1
+Mon Jun 08 16:50:30 +0000 2020,Kambrell,Rep. Kambrell Garvin,0,60,South_Carolina,lives,0,0,0,1
+Tue May 07 01:16:13 +0000 2019,TamiZawistowski,Tami Zawistowski,0,3,Connecticut,dont,0,0,0,1
+Mon Nov 25 00:38:44 +0000 2013,Sean_Hornbuckle,Sean Hornbuckle,0,0,West_Virginia,dont,0,0,0,1
+Mon Jul 16 23:11:53 +0000 2018,joefitzgibbon,Joe Fitzgibbon,4,0,Washington,dont,0,0,0,1
+Thu Nov 29 21:57:30 +0000 2018,tjsnh,Timothy Smith,6,6,New_Hampshire,dont,0,0,0,1
+Sat Aug 23 19:57:14 +0000 2014,jlawrenceLD23,jay lawrence,0,0,Arizona,dont,0,0,0,1
+Thu Feb 04 17:04:52 +0000 2021,TomCox4KS,Tom Cox,2,0,Kansas,dont,0,0,0,1
+Tue Nov 10 05:47:49 +0000 2020,MaryBorenSD16,Mary 🇺🇸 🗳 ✍🏻 🇺🇸,0,5,Oklahoma,dont,0,0,0,1
+Sat Mar 17 01:38:23 +0000 2018,Capfballwv,Jon Carpenter,0,128,Missouri,dont,0,0,0,1
+Wed Aug 12 16:17:41 +0000 2020,RaquelTeran,Raquel Terán #BlackLivesMatter,7,0,Arizona,dont,0,0,0,1
+Wed Dec 02 03:50:13 +0000 2020,jessicaramos,Jessica Ramos,0,23,New_York,dont,0,0,0,1
+Fri Mar 20 19:57:39 +0000 2020,NancySkinnerCA,Nancy Skinner,0,6,California,#covid19,0,0,0,1
+Fri Mar 13 03:44:45 +0000 2020,ARSenMissyIrvin,Missy Thomas Irvin,16,1,Arkansas,#covid19,0,0,0,1
+Sat Jul 18 04:34:16 +0000 2020,SenatorHughes,Senator Hughes,0,1920,Pennsylvania,#covid19,0,0,0,1
+Mon Apr 06 17:51:44 +0000 2020,RepNeilson,Rep. Ed Neilson,0,23,Pennsylvania,#covid19,0,0,0,1
+Sun May 10 01:53:42 +0000 2020,lizthomsonnm,Liz Thomson,0,63,New_Mexico,#covid19,0,0,0,1
+Tue Dec 15 01:00:17 +0000 2020,RepDittrich,Rep. Barbara Dittrich,3,1,Wisconsin,#covid19,0,0,0,1
+Fri May 29 23:58:51 +0000 2020,BuffyWicks,Buffy Wicks,0,14,California,#covid19,0,0,0,1
+Thu Nov 19 02:26:50 +0000 2020,RepDennisBonnen,Speaker Dennis Bonnen,0,42,Texas,#covid19,0,0,0,1
+Tue Mar 24 18:09:15 +0000 2020,CindyFriedmanMA,Cindy Friedman,0,17,Massachusetts,#covid19,0,0,0,1
+Sun Jul 12 21:17:12 +0000 2020,KyWhitney,Whitney Westerfield,0,3,Kentucky,#covid19,0,0,0,1
+Wed Apr 10 21:55:42 +0000 2019,Scott_Wiener,Senator Scott Wiener,228,13,California,#sb276,1,1,1,1
+Sat Mar 30 01:16:22 +0000 2019,LorenaAD80,Lorena Gonzalez,4,1,California,#sb276,1,1,1,1
+Wed Aug 28 15:26:46 +0000 2019,DrPanMD,Dr. Richard Pan,0,13,California,#sb276,1,1,1,1
+Wed Aug 28 16:26:03 +0000 2019,DrPanMD,Dr. Richard Pan,0,11,California,#sb276,1,1,1,1
+Sun Aug 25 18:03:15 +0000 2019,DrPanMD,Dr. Richard Pan,0,8,California,#sb276,1,1,1,1
+Thu Sep 12 01:26:15 +0000 2019,DrPanMD,Dr. Richard Pan,0,27,California,#sb276,1,1,1,1
+Wed Sep 04 23:59:26 +0000 2019,DrPanMD,Dr. Richard Pan,0,5,California,#sb276,1,1,1,1
+Wed May 22 18:40:12 +0000 2019,DrPanMD,Dr. Richard Pan,0,3,California,#sb276,1,1,1,1
+Wed Feb 05 18:00:08 +0000 2020,DrPanMD,Dr. Richard Pan,138,18,California,#sb276,1,1,1,1
+Wed Aug 28 19:27:59 +0000 2019,DrPanMD,Dr. Richard Pan,0,5,California,#sb276,1,1,1,1
+Mon Jan 27 23:07:43 +0000 2020,Rep_Jimmy,Jimmy Anderson,29,6,Wisconsin,year,0,0,0,1
+Wed Jan 10 19:23:06 +0000 2018,TomBegich,Senator Tom Begich,9,3,Alaska,year,0,0,0,1
+Wed Oct 17 12:42:06 +0000 2018,TinaLiebling,Tina Liebling,0,5129,Minnesota,year,0,0,0,1
+Thu Dec 01 17:10:41 +0000 2016,mwallace143,Monica Wallace,4,1,New_York,year,0,0,0,1
+Wed Feb 03 00:20:47 +0000 2016,RyanWPearson,Ryan Pearson,5,2,Rhode_Island,year,0,0,0,1
+Tue Dec 19 18:07:49 +0000 2017,Mel_Ponder,Mel Ponder,0,5,Florida,year,0,0,0,1
+Wed Apr 01 17:55:47 +0000 2020,kellyflood,Kelly Flood,0,6,Kentucky,year,0,0,0,1
+Tue Jan 21 21:39:57 +0000 2020,RepRabb,Rep. Chris Rabb,0,46,Pennsylvania,year,0,0,0,1
+Sat Dec 19 00:00:40 +0000 2020,rontkim,Ron T. Kim,0,3,New_York,year,0,0,0,1
+Fri Sep 18 17:12:27 +0000 2020,NMalliotakis,Nicole Malliotakis,67,15,New_York,year,0,0,0,1
+Sat Sep 14 07:31:20 +0000 2019,LorenaAD80,Lorena Gonzalez,24,6,California,childhood,0,0,0,1
+Fri Mar 27 02:36:00 +0000 2020,bob_rommel,Bob Rommel,5,0,Florida,childhood,0,0,0,1
+Fri May 01 14:38:25 +0000 2015,CecilBrockman,Cecil Brockman,1,0,North_Carolina,childhood,0,0,0,1
+Fri Jan 24 23:15:25 +0000 2020,JavierForNM,Rep. Javier Martínez,0,3,New_Mexico,childhood,0,0,0,1
+Tue Jan 15 15:49:14 +0000 2019,StateSenLaTonya,LaTonya Johnson,5,2,Wisconsin,childhood,0,0,0,1
+Wed Sep 26 17:44:08 +0000 2018,Fredlove4rep29,Fredrick Love,5,1,Arkansas,childhood,0,0,0,1
+Thu Aug 29 12:27:21 +0000 2013,BRachelson,Barbara Rachelson,0,1,Vermont,childhood,1,1,1,1
+Mon Nov 05 03:41:51 +0000 2018,JacquelinMaycum,Jacquelin Maycumber,25,1,Washington,childhood,0,0,0,1
+Tue Feb 11 23:11:08 +0000 2014,SenatorBush,Melinda Bush,0,1,Illinois,childhood,0,0,0,1
+Wed May 06 18:32:49 +0000 2015,heleneduhamelTV,helene duhamel,2,0,South_Dakota,childhood,0,0,0,1
+Thu Sep 17 17:50:31 +0000 2020,AnnaMKaplan,Senator Anna M. Kaplan,0,45,New_York,5,0,0,0,1
+Fri Dec 06 01:45:29 +0000 2019,RobbynLewis46th,Del. Robbyn Lewis,0,91,Maryland,5,0,0,0,1
+Sun May 20 13:00:34 +0000 2018,repsamyoung,Rep. Sam Young,4,0,Vermont,5,0,0,0,1
+Fri Jan 19 05:31:07 +0000 2018,gcmitts,Gina Mitten,9,2,Missouri,5,0,0,0,1
+Tue Nov 21 23:37:52 +0000 2017,DelegateMark,Mark Levine,5,3,Virginia,5,0,0,0,1
+Sun Apr 08 05:04:55 +0000 2018,RepElizBishop,Elizabeth Bishop,1,0,Kansas,5,0,0,0,1
+Sat Feb 13 01:22:13 +0000 2016,stokesbary,Drew Stokesbary,0,1,Washington,5,0,0,0,1
+Thu Dec 29 02:17:00 +0000 2016,RebeccaKislak,Rebecca Kislak,1,2,Rhode_Island,5,0,0,0,1
+Mon Aug 24 15:42:04 +0000 2020,AdamEbbin,Adam Ebbin,30,3,Virginia,5,0,0,0,1
+Sun Nov 17 01:43:02 +0000 2019,DonnaHowardTX,Donna Howard,0,101,Texas,5,0,0,0,1
+Fri May 15 21:09:12 +0000 2020,senatortomdavis,Tom Davis,8,4,South_Carolina,testing,0,0,0,1
+Mon Nov 30 15:26:58 +0000 2020,TeamTram,Tram T. Nguyen,9,2,Massachusetts,testing,0,0,0,1
+Fri May 08 14:12:23 +0000 2020,Fernandez4NY,Nathalia Fernandez,1,0,New_York,testing,0,0,0,1
+Thu Jul 23 18:20:49 +0000 2020,JenLongdon,Rep. Jennifer Longdon,0,7,Arizona,testing,0,0,0,1
+Sun Jan 27 01:30:45 +0000 2019,gina_calanni,State Rep. Gina Calanni,43,10,Texas,testing,0,0,0,1
+Mon Nov 09 19:53:27 +0000 2020,repgregharris,Rep. Greg Harris,1,1,Illinois,testing,0,0,0,1
+Wed May 27 14:25:56 +0000 2020,DelegateReznik,Kirill Reznik,5,1,Maryland,testing,0,0,0,1
+Mon Apr 06 15:00:15 +0000 2020,BarbaraBollier,Dr. Barbara Bollier,78,30,Kansas,testing,0,0,0,1
+Sun Mar 29 20:46:39 +0000 2020,RepChrisWelch,Emanuel Chris Welch,0,38,Illinois,testing,0,0,0,1
+Wed Dec 23 17:43:46 +0000 2020,ltgovmcnally,Randy McNally,0,18,Tennessee,testing,0,0,0,1
+Wed May 27 19:38:04 +0000 2020,ltgovmcnally,Randy McNally,0,7,Tennessee,#vaccines,1,1,1,1
+Thu Sep 03 18:42:56 +0000 2020,DrPanMD,Dr. Richard Pan,14,6,California,#vaccines,1,1,1,1
+Sun Aug 05 18:23:02 +0000 2018,SarahforHD134,Sarah Davis,0,56,Texas,#vaccines,1,1,1,1
+Wed Apr 24 19:50:17 +0000 2019,DrPanMD,Dr. Richard Pan,0,8,California,#vaccines,1,1,1,1
+Mon Oct 26 01:26:31 +0000 2020,d_ddunnn,David Dunn,0,65,Montana,#vaccines,1,1,1,1
+Mon Jan 18 00:29:00 +0000 2021,CherylKagan,Cheryl C. Kagan,0,0,Maryland,#vaccines,1,1,1,1
+Wed Dec 16 00:48:24 +0000 2020,SenBurdick,Senator Ginny Burdick,0,9,Oregon,#vaccines,1,1,1,1
+Wed Oct 23 21:12:41 +0000 2019,DrPanMD,Dr. Richard Pan,0,10,California,#vaccines,1,1,1,1
+Thu Jan 16 16:30:28 +0000 2020,DrPanMD,Dr. Richard Pan,0,115,California,#vaccines,1,1,1,1
+Sun Jun 16 23:12:36 +0000 2019,DrPanMD,Dr. Richard Pan,0,3,California,#vaccines,1,1,1,1
+Sun Mar 24 18:15:50 +0000 2019,ChristyClarkNC,Christy Clark,0,0,North_Carolina,sure,0,0,0,1
+Sun Sep 16 23:06:22 +0000 2012,johnfrey,John Frey,0,0,Connecticut,sure,0,0,0,1
+Sat Nov 16 19:24:09 +0000 2019,DebButlerHD18,Deb Butler,333,24,North_Carolina,sure,0,0,0,1
+Mon Oct 05 15:01:58 +0000 2020,TMFtx,TMF,20,13,Texas,sure,0,0,0,1
+Wed Jul 22 17:28:20 +0000 2020,Story4CO,Tammy Story,4,4,Colorado,sure,0,0,0,1
+Sat Mar 30 01:35:37 +0000 2019,JamesGrantFL,James Grant,12,1,Florida,sure,0,0,0,1
+Sun Sep 08 01:06:23 +0000 2019,Monichols,Rep. Monroe Nichols,0,0,Oklahoma,sure,0,0,0,1
+Mon Oct 06 14:48:24 +0000 2014,SenJaneNelson,Senator Jane Nelson,1,4,Texas,sure,0,0,0,1
+Sat Jan 16 20:44:23 +0000 2016,RepJimODay,Rep. Jim O'Day,0,3,Massachusetts,sure,0,0,0,1
+Mon Dec 28 15:54:27 +0000 2020,JCarrollFoy,Jennifer Carroll Foy,39,15,Virginia,sure,0,0,0,1
+Sun Dec 29 03:35:09 +0000 2019,NathanDahm,Nathan Dahm,2,0,Oklahoma,months,0,0,0,1
+Thu Jul 09 12:09:17 +0000 2020,jonesjay,Jay Jones,0,4860,Virginia,months,0,0,0,1
+Wed Mar 25 20:57:12 +0000 2020,raghibct,Raghib Allie-Brennan,3,1,Connecticut,months,0,0,0,1
+Wed May 15 21:21:14 +0000 2019,SenatorRickGunn,Senator Rick Gunn,18,0,North_Carolina,months,0,0,0,1
+Tue Jul 21 23:38:36 +0000 2020,RepScottHolcomb,Scott Holcomb,6,9,Georgia,months,0,0,0,1
+Sat Apr 14 20:47:30 +0000 2018,BobKulp,Bob Kulp,0,0,Wisconsin,months,0,0,0,1
+Tue Oct 16 03:06:56 +0000 2018,FrontusforNY,Mathylde Frontus,0,3,New_York,months,0,0,0,1
+Sun Dec 27 21:44:53 +0000 2020,SenGonzalez_33,Lena Gonzalez,0,916,California,months,0,0,0,1
+Fri Feb 21 14:57:03 +0000 2020,HelmerVA,Dan Helmer,0,5,Virginia,months,0,0,0,1
+Tue Feb 04 13:14:40 +0000 2020,VictoriaLSteele,Victoria Steele,0,0,Arizona,months,0,0,0,1
+Thu Dec 31 18:52:46 +0000 2020,SummerForPA,Summer Lee,3,0,Pennsylvania,movement,0,0,0,1
+Fri Sep 11 03:56:46 +0000 2020,SamuelWBell,Sam Bell,0,13,Rhode_Island,movement,0,0,0,1
+Mon Jul 18 19:59:56 +0000 2016,AdamMorgan360,Adam Morgan,0,0,South_Carolina,movement,0,0,0,1
+Mon Feb 25 14:28:13 +0000 2019,Barber4StateRep,Christine Barber,1,0,Massachusetts,movement,0,0,0,1
+Tue Jun 09 15:56:59 +0000 2020,CindyFriedmanMA,Cindy Friedman,4,1,Massachusetts,movement,0,0,0,1
+Thu Oct 22 18:09:41 +0000 2020,yuhline,Yuh-Line Niou,0,18,New_York,movement,0,0,0,1
+Fri Aug 02 13:17:47 +0000 2019,jonesjay,Jay Jones,13,2,Virginia,movement,0,0,0,1
+Mon Mar 16 22:26:01 +0000 2020,NathanBallentin,Nathan Ballentine,0,23,South_Carolina,movement,0,0,0,1
+Fri Jun 14 21:39:29 +0000 2019,rhhackett,Robert Hackett,0,3,Ohio,movement,0,0,0,1
+Mon Feb 01 18:25:06 +0000 2021,AliciaHyndman,Alicia Hyndman,0,4,New_York,movement,0,0,0,1
+Tue Jul 21 20:25:24 +0000 2020,edbraunstein,Ed Braunstein,0,2,New_York,month,0,0,0,1
+Tue Mar 28 20:20:10 +0000 2017,SenatorGORDNER,Senator John Gordner,1,1,Pennsylvania,month,0,0,0,1
+Thu Mar 21 18:16:04 +0000 2019,AswMcKnight,Angela V. McKnight,0,0,New_Jersey,month,0,0,0,1
+Tue Apr 05 22:56:00 +0000 2016,am_ferrante,AnnMargaret Ferrante,0,3,Massachusetts,month,0,0,0,1
+Tue Sep 10 01:24:41 +0000 2019,martincarbaugh,Martin Carbaugh,0,921,Indiana,month,0,0,0,1
+Thu Sep 05 15:04:54 +0000 2019,EdwardTedJames,Rep. Ted James,0,23,Louisiana,month,0,0,0,1
+Tue Mar 24 14:08:03 +0000 2020,mcqueenfornm,Matthew McQueen,0,466,New_Mexico,month,0,0,0,1
+Sat May 02 01:28:46 +0000 2020,IvySpohnholz,Ivy Spohnholz,56,1,Alaska,month,0,0,0,1
+Tue Jun 30 18:29:43 +0000 2020,JonHardister,Rep. Jon Hardister,14,6,North_Carolina,month,0,0,0,1
+Thu Oct 01 16:19:34 +0000 2020,RepCiresi,Rep. Joe Ciresi,2,2,Pennsylvania,month,0,0,0,1
+Thu Jul 07 15:11:53 +0000 2016,TxChuy,Juan Chuy Hinojosa,0,1,Texas,clinic,0,0,0,1
+Mon Jun 29 14:30:16 +0000 2020,SenQuezada29,Sen. Martín Quezada,134,17,Arizona,clinic,0,0,0,1
+Wed Oct 21 17:33:16 +0000 2020,GregLeding,Greg Leding,66,4,Arkansas,clinic,0,0,0,1
+Mon Jun 27 14:36:12 +0000 2016,alissakg,Alissa Keny-Guyer,4,0,Oregon,clinic,0,0,0,1
+Fri Jan 01 17:52:11 +0000 2021,hicks4ok,Carri Hicks,7,0,Oklahoma,clinic,0,0,0,1
+Mon Oct 31 14:08:46 +0000 2011,RepTinaDavis,Rep. Tina Davis,0,1,Pennsylvania,clinic,0,0,0,1
+Tue Jan 26 11:57:49 +0000 2021,wcantrell,Wes Cantrell,6,1,Georgia,clinic,0,0,0,1
+Fri Feb 23 02:16:34 +0000 2018,CherlynnForKY,Representative Cherlynn Stevenson,0,182,Kentucky,clinic,0,0,0,1
+Mon Oct 14 12:06:49 +0000 2019,RuthHardyVT,Ruth Hardy,13,1,Vermont,clinic,0,0,0,1
+Tue Nov 27 17:58:18 +0000 2018,TomAbinanti,Assemblyman Abinanti,10,6,New_York,clinic,0,0,0,1
+Sat Jul 13 15:06:48 +0000 2013,rudysalasjr,Rudy Salas Jr,0,0,California,rabies,1,1,1,1
+Thu Aug 23 21:58:32 +0000 2018,RepStanLambert,Stan Lambert,0,1,Texas,rabies,0,0,0,1
+Sat Sep 26 03:48:34 +0000 2020,RepAStoddard,Andrew Stoddard,1,0,Utah,rabies,1,1,1,1
+Sat Oct 15 16:13:49 +0000 2016,LeroyComrie,Leroy Comrie,0,5,New_York,rabies,1,1,1,1
+Sat Feb 24 12:49:37 +0000 2018,mciccolo,Rep. Michelle Ciccolo,0,7,Massachusetts,rabies,1,1,1,1
+Wed May 02 14:00:01 +0000 2018,SenatorBrewster,Senator Jim Brewster,1,0,Pennsylvania,rabies,1,1,1,1
+Mon Jul 06 22:47:51 +0000 2020,CarlosGSmith,Rep. Carlos G Smith,0,5,Florida,rabies,0,0,0,1
+Mon Feb 01 05:04:53 +0000 2021,DrPanMD,Dr. Richard Pan 🇺🇸,9,3,California,#ivax2protect,1,1,1,1
+Sat Sep 14 16:56:22 +0000 2019,DrPanMD,Dr. Richard Pan,25,4,California,#ivax2protect,1,1,1,1
+Wed Oct 28 01:06:38 +0000 2020,DrPanMD,Dr. Richard Pan 🇺🇸,11,1,California,#ivax2protect,1,1,1,1
+Fri Aug 30 18:02:48 +0000 2019,DrPanMD,Dr. Richard Pan,0,12,California,#ivax2protect,1,1,1,1
+Fri Dec 27 21:12:38 +0000 2019,DrPanMD,Dr. Richard Pan,24,1,California,#ivax2protect,1,1,1,1
+Fri Jan 22 15:20:20 +0000 2021,DrPanMD,Dr. Richard Pan 🇺🇸,46,17,California,#ivax2protect,1,1,1,1
+Thu Aug 06 02:39:32 +0000 2020,bradhoylman,Senator Brad Hoylman,0,11,New_York,#ivax2protect,1,1,1,1
+Fri Dec 27 21:07:52 +0000 2019,DrPanMD,Dr. Richard Pan,24,0,California,#ivax2protect,1,1,1,1
+Fri Nov 01 20:07:25 +0000 2019,bradhoylman,Senator Brad Hoylman,0,11,New_York,#ivax2protect,1,1,1,1
+Sat Aug 24 14:09:10 +0000 2019,DrPanMD,Dr. Richard Pan,0,4,California,#ivax2protect,1,1,1,1
+Fri Feb 07 01:41:20 +0000 2020,RobbynLewis46th,Del. Robbyn Lewis,11,0,Maryland,#vaccinessavelives,1,1,1,1
+Fri Mar 06 13:04:31 +0000 2020,DrPanMD,Dr. Richard Pan,0,54,California,#vaccinessavelives,1,1,1,1
+Wed Jun 05 22:11:43 +0000 2019,JeffreyDinowitz,Jeffrey Dinowitz,0,7,New_York,#vaccinessavelives,1,1,1,1
+Wed Sep 16 13:49:12 +0000 2020,RepGalonski,Rep. Tavia Galonski,21,5,Ohio,#vaccinessavelives,1,1,1,1
+Mon Dec 21 02:33:22 +0000 2020,KirkPWatson,Senator Kirk Watson,0,10,Texas,#vaccinessavelives,1,1,1,1
+Wed Aug 28 14:40:02 +0000 2019,DrPanMD,Dr. Richard Pan,0,8,California,#vaccinessavelives,1,1,1,1
+Sat Mar 09 23:13:22 +0000 2019,KelliButlerAZ,Kelli Butler,23,8,Arizona,#vaccinessavelives,1,1,1,1
+Fri Jun 21 01:43:47 +0000 2019,DrPanMD,Dr. Richard Pan,0,35,California,#vaccinessavelives,1,1,1,1
+Thu Jun 13 03:17:00 +0000 2019,DrPanMD,Dr. Richard Pan,0,57,California,#vaccinessavelives,1,1,1,1
+Fri Mar 06 01:33:19 +0000 2020,DrPanMD,Dr. Richard Pan,0,86,California,#vaccinessavelives,1,1,1,1
+Wed Aug 28 16:04:38 +0000 2019,DrPanMD,Dr. Richard Pan,0,6,California,#stopantivaxviolence,1,1,1,1
+Wed Aug 28 14:13:17 +0000 2019,DrPanMD,Dr. Richard Pan,0,5,California,#stopantivaxviolence,1,1,1,1
+Thu Mar 05 18:30:00 +0000 2020,DrPanMD,Dr. Richard Pan,205,68,California,#stopantivaxviolence,1,1,1,1
+Sat Sep 14 03:59:24 +0000 2019,DrPanMD,Dr. Richard Pan,0,22,California,#stopantivaxviolence,1,1,1,1
+Fri Mar 06 03:30:27 +0000 2020,DrPanMD,Dr. Richard Pan,41,11,California,#stopantivaxviolence,1,1,1,1
+Wed Aug 28 14:49:19 +0000 2019,DrPanMD,Dr. Richard Pan,0,6,California,#stopantivaxviolence,1,1,1,1
+Wed Aug 28 23:08:03 +0000 2019,DrPanMD,Dr. Richard Pan,0,13,California,#stopantivaxviolence,1,1,1,1
+Wed Aug 28 14:49:54 +0000 2019,DrPanMD,Dr. Richard Pan,0,2,California,#stopantivaxviolence,1,1,1,1
+Wed Aug 28 15:29:20 +0000 2019,DrPanMD,Dr. Richard Pan,0,2,California,#stopantivaxviolence,1,1,1,1
+Wed Aug 28 16:26:22 +0000 2019,DrPanMD,Dr. Richard Pan,0,4,California,#stopantivaxviolence,1,1,1,1
+Wed Apr 29 13:53:00 +0000 2020,amiwazlawik,Ami Wazlawik,0,2,Minnesota,available,0,0,0,1
+Wed May 06 15:49:54 +0000 2020,Lindsay4Iowa,Lindsay James,22,13,Iowa,available,0,0,0,1
+Mon Apr 13 15:08:11 +0000 2020,RepBenSanchez,Rep Ben Sanchez,0,0,Pennsylvania,available,0,0,0,1
+Tue Oct 06 15:00:00 +0000 2020,DelegateTorian,Luke Torian,0,0,Virginia,available,0,0,0,1
+Sat Jun 13 03:03:49 +0000 2015,MaryLehman_D1,Mary A. Lehman,0,0,Maryland,available,0,0,0,1
+Wed Jun 26 03:57:29 +0000 2019,KathyforMD,Kathy Szeliga,0,0,Maryland,available,0,0,0,1
+Wed Sep 09 12:50:02 +0000 2020,MarjorieDecker,Marjorie Decker,0,1,Massachusetts,available,0,0,0,1
+Fri May 01 12:39:44 +0000 2020,jaylivingstone,Jay Livingstone,0,11,Massachusetts,available,0,0,0,1
+Wed May 10 23:09:54 +0000 2017,DolceProduction,Camera Bartolotta,0,1,Pennsylvania,available,0,0,0,1
+Thu Jun 25 19:53:17 +0000 2020,wardports,Gerald W.R. Ward,0,4345,New_Hampshire,available,0,0,0,1
+Mon Mar 30 15:42:48 +0000 2015,jeffreyhayden,Jeff Hayden,0,1,Minnesota,dr,0,0,0,1
+Fri Oct 19 19:40:25 +0000 2012,DrDeanBurke,Dr. Dean Burke,0,0,Georgia,dr,0,0,0,1
+Sat Feb 22 15:41:35 +0000 2020,reprickhansen,Rep. Rick Hansen,0,19,Minnesota,dr,0,0,0,1
+Thu May 28 02:02:27 +0000 2015,heleneduhamelTV,helene duhamel,0,1,South_Dakota,dr,0,0,0,1
+Mon Jan 19 00:18:18 +0000 2015,JoseJavierJJR,José Javier Rodríguez,3,2,Florida,dr,0,0,0,1
+Tue Jan 19 14:21:50 +0000 2021,BrianSimsPA,Brian Sims,0,6,Pennsylvania,dr,0,0,0,1
+Sat May 02 22:45:39 +0000 2020,Russo4Ohio,Rep. Allison Russo,701,251,Ohio,dr,0,0,0,1
+Mon Apr 08 18:04:02 +0000 2019,prudhommeobrien,K Prudhomme O'Brien,0,0,New_Hampshire,dr,0,0,0,1
+Mon Mar 16 20:49:51 +0000 2020,johnlesch,John Lesch,1,2,Minnesota,dr,0,0,0,1
+Wed Jul 08 12:01:05 +0000 2020,rogers4missouri,Wes Rogers,4,1,Missouri,dr,0,0,0,1
+Tue Sep 10 22:38:14 +0000 2019,jackbellaire,Jack Cera,15,0,Ohio,study,0,0,0,1
+Wed Jun 19 15:47:14 +0000 2019,BrianCNewberry,Brian C. Newberry,3,0,Rhode_Island,study,0,0,0,1
+Tue Apr 02 15:19:42 +0000 2019,SenatorLaura,Laura Murphy,0,0,Illinois,study,0,0,0,1
+Wed Jul 10 21:19:40 +0000 2019,HarveyforNY,Harvey Epstein 哈維 D. 艾普斯汀(男),28,9,New_York,study,0,0,0,1
+Tue May 24 21:18:50 +0000 2016,SenJudySchwank,Sen. Judy Schwank,0,2,Pennsylvania,study,0,0,0,1
+Wed Jul 01 01:24:30 +0000 2020,FredDoucetteNH,Representative Fred Doucette,0,10,New_Hampshire,study,0,0,0,1
+Tue Jul 26 13:55:18 +0000 2016,SenatorLucio,senatorlucio,9,4,Texas,study,0,0,0,1
+Tue Jan 05 02:24:58 +0000 2021,LivingstonLD22,David Livingston,3,0,Arizona,study,0,0,0,1
+Sat Nov 22 18:02:19 +0000 2014,PaulEspinosa_WV,Paul Espinosa,0,7,West_Virginia,study,0,0,0,1
+Sun Mar 01 16:25:11 +0000 2015,jimananich,Senator Jim Ananich,0,0,Michigan,study,0,0,0,1
+Mon Sep 18 12:45:29 +0000 2017,SteveStafstrom,Steve Stafstrom,1,0,Connecticut,hb,0,0,0,1
+Thu Jul 02 18:01:13 +0000 2020,TimothyHorrigan,Timothy Horrigan,0,9,New_Hampshire,hb,0,0,0,1
+Wed Apr 17 14:13:30 +0000 2019,RepRamonRomero,Ramon Romero Jr.,34,16,Texas,hb,0,0,0,1
+Sat Feb 23 19:31:34 +0000 2019,marcusriccelli,Marcus Riccelli,16,0,Washington,hb,0,0,0,1
+Mon Jan 27 14:26:10 +0000 2020,joncrossoh,Jon Cross,0,0,Ohio,hb,0,0,0,1
+Tue Feb 11 21:29:38 +0000 2014,RepFitzenhagen,Heather Fitzenhagen,0,0,Florida,hb,0,0,0,1
+Mon Feb 24 22:01:07 +0000 2014,KayFloydOK,Kay Floyd,4,2,Oklahoma,hb,0,0,0,1
+Tue Jun 09 20:47:46 +0000 2020,repkoehler,Rep. Kyle Koehler,14,2,Ohio,hb,0,0,0,1
+Tue Jan 12 17:27:28 +0000 2021,RepGrove,Rep. Seth Grove,0,4,Pennsylvania,hb,0,0,0,1
+Fri Oct 30 01:47:33 +0000 2020,RepDennisBonnen,Speaker Dennis Bonnen,187,32,Texas,hb,0,0,0,1
+Tue Oct 13 21:46:28 +0000 2020,lizthomsonnm,Liz Thomson,1,0,New_Mexico,research,0,0,0,1
+Sat Jun 18 16:14:30 +0000 2016,RepDebRuggiero,Rep Deb Ruggiero,0,1,Rhode_Island,research,0,0,0,1
+Thu Mar 12 16:49:07 +0000 2020,MalloryMcMorrow,Mallory McMorrow,126,21,Michigan,research,0,0,0,1
+Fri Feb 16 06:50:51 +0000 2018,MarcLevine,Marc Levine,0,2,California,research,0,0,0,1
+Wed May 13 18:47:35 +0000 2020,reprickhansen,Rep. Rick Hansen,7,2,Minnesota,research,0,0,0,1
+Wed Feb 27 15:08:45 +0000 2019,TamiGouveiaMA,Tami Gouveia,2,0,Massachusetts,research,0,0,0,1
+Thu May 07 04:40:59 +0000 2020,SenSaraGelser,Sara Gelser,0,1,Oregon,research,0,0,0,1
+Tue Apr 21 23:54:36 +0000 2020,DonnaLupardo,Donna Lupardo,8,3,New_York,research,0,0,0,1
+Thu Jan 18 04:47:48 +0000 2018,RepDavidCook,David Cook,1,1,Arizona,research,0,0,0,1
+Sat Jan 09 04:15:51 +0000 2021,RepJoeMarino,Joe Marino III,0,45,Louisiana,research,0,0,0,1
+Sat Dec 26 13:48:34 +0000 2020,frostnhstaterep,Sherry Frost 🆘 🏳️‍🌈🖤,1,0,New_Hampshire,trial,0,0,0,1
+Tue Mar 27 20:33:29 +0000 2018,RepHollis,Rep. Rolanda Hollis,2,0,Alabama,trial,0,0,0,1
+Sat Apr 14 12:06:13 +0000 2018,inhisfields,David Ralston,0,0,Georgia,trial,0,0,0,1
+Wed May 01 19:42:32 +0000 2019,EdwardTedJames,Rep. Ted James,0,1,Louisiana,trial,0,0,0,1
+Tue Aug 16 19:11:35 +0000 2016,walshgina,Gina Walsh,0,74,Missouri,trial,0,0,0,1
+Wed Aug 23 22:56:38 +0000 2017,CJLavenderBowe,Cindy Lavender-Bowe,0,0,West_Virginia,trial,0,0,0,1
+Tue Aug 18 17:14:52 +0000 2020,KimpsonForSC,Sen. Marlon Kimpson,0,32,South_Carolina,trial,0,0,0,1
+Mon Jun 17 17:42:30 +0000 2019,JdmMeuse,David Meuse,2,0,New_Hampshire,trial,0,0,0,1
+Sun Mar 22 17:09:52 +0000 2020,RobbynLewis46th,Del. Robbyn Lewis,0,27433,Maryland,trial,0,0,0,1
+Mon Nov 19 14:06:10 +0000 2018,SenatorHarkins,Senator Josh Harkins,9,0,Mississippi,trial,0,0,0,1
+Tue Jun 23 11:52:32 +0000 2020,RepBrianKing,Rep. Brian S. King,87,11,Utah,cases,0,0,0,1
+Mon Nov 02 22:48:17 +0000 2020,MatMuratore,Mathew Muratore,0,4,Massachusetts,cases,0,0,0,1
+Fri Mar 13 01:27:56 +0000 2020,CurtisHertelJr,Senator Curtis Hertel,5,5,Michigan,cases,0,0,0,1
+Mon Jul 06 21:29:32 +0000 2020,jamescita,Jamescita Peshlakai,0,220,Arizona,cases,0,0,0,1
+Thu Jun 25 19:08:44 +0000 2020,RepWeinstein,Rep. Casey Weinstein,0,10,Ohio,cases,0,0,0,1
+Fri Oct 02 02:21:45 +0000 2020,SenatorBenson,Sen. Michelle Benson,84,26,Minnesota,cases,0,0,0,1
+Tue Jul 14 02:36:13 +0000 2020,CarlosGSmith,Rep. Carlos G Smith,0,2401,Florida,cases,0,0,0,1
+Fri Sep 01 15:34:33 +0000 2017,JeffreyDinowitz,Jeffrey Dinowitz,1,0,New_York,cases,0,0,0,1
+Thu Jul 16 22:58:08 +0000 2020,kellyflood,Kelly Flood,3,2,Kentucky,cases,0,0,0,1
+Fri Jun 12 23:23:38 +0000 2020,jasondisaacson,Jason Isaacson,0,7,Minnesota,cases,0,0,0,1
+Sun Dec 13 19:23:05 +0000 2020,RepBrianKing,Rep. Brian S. King,43,1,Utah,many,0,0,0,1
+Fri Feb 15 22:01:22 +0000 2019,AmyPaulin,Amy Paulin,0,0,New_York,many,0,0,0,1
+Fri Jan 31 18:10:06 +0000 2020,DrRandyFriese,Dr. Randy Friese,2,2,Arizona,many,0,0,0,1
+Wed Nov 04 04:41:29 +0000 2020,PamelaHunter128,Pamela Hunter,31,2,New_York,many,0,0,0,1
+Tue Sep 11 13:58:32 +0000 2018,jasondisaacson,Jason Isaacson,0,1,Minnesota,many,0,0,0,1
+Fri Oct 30 16:50:54 +0000 2020,ChrisSprowls,Chris Sprowls,30,0,Florida,many,0,0,0,1
+Sun Aug 23 01:16:28 +0000 2020,RichardHPOE,Richard Martinez,0,7801,New_Mexico,many,0,0,0,1
+Thu Apr 30 20:49:06 +0000 2020,MariManoogian,Mari Manoogian 🧼🤚🏽,72,34,Michigan,many,0,0,0,1
+Tue Jan 28 18:20:41 +0000 2020,SenatorFunke,Rich Funke,3,0,New_York,many,0,0,0,1
+Sun Jul 01 04:41:11 +0000 2018,bobkressig,Bob Kressig,0,51,Iowa,many,0,0,0,1
+Wed Mar 18 22:47:07 +0000 2020,RepWhitaker85,David Whitaker,0,40,Arkansas,covid-19,0,0,0,1
+Sun Mar 29 23:33:15 +0000 2020,McCrostie4Idaho,John McCrostie,0,5,Idaho,covid-19,0,0,0,1
+Tue Jan 19 20:30:13 +0000 2021,ElectLisaBarnes,Lisa Stone Barnes,1,0,North_Carolina,covid-19,1,1,1,1
+Tue Apr 14 15:19:26 +0000 2020,DonnaHowardTX,Donna Howard,0,1,Texas,covid-19,0,0,0,1
+Wed Jun 03 23:16:43 +0000 2020,wardports,Gerald W.R. Ward,0,3,New_Hampshire,covid-19,0,0,0,1
+Sun Mar 22 21:48:36 +0000 2020,gcmitts,Gina Mitten,0,7,Missouri,covid-19,0,0,0,1
+Mon Jul 27 21:04:00 +0000 2020,RepKayKhan,Kay Khan,2,0,Massachusetts,covid-19,0,0,0,1
+Mon Oct 19 18:37:55 +0000 2020,RepAnnWilliams,Rep. Ann Williams,0,22,Illinois,covid-19,0,0,0,1
+Thu Jun 11 02:38:59 +0000 2020,RepDietrich,Brenda Dietrich,0,2,Kansas,covid-19,0,0,0,1
+Thu Jun 11 22:28:14 +0000 2020,JohnBellNC,Rep. John Bell,0,3,North_Carolina,covid-19,0,0,0,1
+Thu Mar 21 17:56:31 +0000 2019,Dogan4Rep,Shamed Dogan,13,6,Missouri,world,0,0,0,1
+Fri Jul 03 18:05:54 +0000 2020,RepJamesFrank,James Frank,3,0,Texas,world,0,0,0,1
+Tue Jun 02 22:54:53 +0000 2020,KarinHousley,Karin Housley,83,18,Minnesota,world,0,0,0,1
+Sat Nov 24 06:16:24 +0000 2018,meaccoleman,MaryElizabethColeman,0,1,Missouri,world,0,0,0,1
+Wed Aug 05 14:37:16 +0000 2020,PadmaKuppaMI41,Rep. Padma Kuppa,3,0,Michigan,world,0,0,0,1
+Wed Feb 13 03:37:32 +0000 2019,RepScottHolcomb,Scott Holcomb,29,2,Georgia,world,0,0,0,1
+Tue Apr 07 23:58:50 +0000 2020,QuirkSilva65th,Sharon Quirk-Silva,0,6,California,world,0,0,0,1
+Wed Sep 26 10:29:10 +0000 2018,RepRogerBruce61,StateRep Roger Bruce,3,1,Georgia,world,0,0,0,1
+Sun May 10 20:46:30 +0000 2020,JoanneOsborne8,Joanne Osborne,6,1,Arizona,world,0,0,0,1
+Mon Jun 10 02:04:52 +0000 2019,RepBobbyDuBose,Bobby DuBose,3,0,Florida,world,0,0,0,1
+Sat Mar 01 04:45:36 +0000 2014,MarkHassOregon,Mark Hass,0,2,Oregon,kids,0,0,0,1
+Tue Apr 18 14:50:09 +0000 2017,LesleyJLopez,Del. Lesley Lopez,0,8,Maryland,kids,0,0,0,1
+Sat Sep 26 23:35:56 +0000 2020,Rios_Rebecca,Rebecca Rios,35,5,Arizona,kids,0,0,0,1
+Wed Nov 15 12:24:48 +0000 2017,RepDelozier,Sheryl M. Delozier,0,1,Pennsylvania,kids,0,0,0,1
+Tue Mar 25 14:01:41 +0000 2014,sorolismn,State Representative Maria Sorolis,0,0,Kentucky,kids,0,0,0,1
+Wed Jun 20 02:56:16 +0000 2018,MMohammedNC,Sen. Mujtaba Mohammed,31,10,North_Carolina,kids,0,0,0,1
+Mon Jun 02 19:40:56 +0000 2014,LindseyForPA,Lindsey Williams,0,9,Pennsylvania,kids,0,0,0,1
+Sun Oct 25 16:27:15 +0000 2020,WendyENThomas,Hon. Wendy E.N Thomas,1,0,New_Hampshire,kids,0,0,0,1
+Tue Jul 12 01:11:37 +0000 2011,SenJohnson,Jack Johnson,0,1,Tennessee,kids,0,0,0,1
+Thu Apr 25 00:56:21 +0000 2013,MayorGlover,Cedric B. Glover,0,1,Louisiana,kids,0,0,0,1
+Thu Aug 29 19:16:57 +0000 2019,ricktillisTN,Rick Tillis,0,9,Tennessee,like,0,0,0,1
+Tue Apr 26 18:40:24 +0000 2016,jimananich,Senator Jim Ananich,0,6,Michigan,like,0,0,0,1
+Sun Jun 16 18:01:45 +0000 2019,leonstav,Leon Stavrinakis,0,0,South_Carolina,like,0,0,0,1
+Thu Apr 21 22:51:11 +0000 2016,repjocasta,JoCasta Zamarripa,35,12,Wisconsin,like,0,0,0,1
+Thu Feb 04 15:26:43 +0000 2016,thatguyinhutch,Jason Probst,2,2,Kansas,like,0,0,0,1
+Mon Sep 16 17:52:18 +0000 2013,Michael_Howe2,Michael Howe,0,0,North_Dakota,like,0,0,0,1
+Sun Aug 21 18:44:33 +0000 2011,RepJoeDeshotel,Joe Deshotel,0,0,Texas,like,0,0,0,1
+Thu Nov 03 02:03:40 +0000 2016,JoeSanfelippo,Joe Sanfelippo,0,0,Wisconsin,like,0,0,0,1
+Wed Mar 07 14:50:14 +0000 2018,JasonOrtitay,Jason Ortitay,0,2,Pennsylvania,like,0,0,0,1
+Thu Aug 28 01:19:48 +0000 2014,dafna_m,DafnaMichaelsonJenet,3,0,Colorado,like,0,0,0,1
+Fri Sep 08 03:23:37 +0000 2017,leonlillie,Leon Lillie,0,5,Minnesota,|,0,0,0,1
+Wed Nov 01 18:31:02 +0000 2017,NYSenBenjamin,Senator Brian Benjamin,0,3,New_York,|,0,0,0,1
+Sat Aug 29 11:30:12 +0000 2015,SenatorCrowder,Larry Crowder,0,2,Colorado,|,0,0,0,1
+Fri Mar 21 16:27:47 +0000 2014,TMFtx,TMF,1,0,Texas,|,0,0,0,1
+Wed Jan 06 17:06:02 +0000 2021,TimJosephsonNH,Tim Josephson 😷,21,0,New_Hampshire,|,0,0,0,1
+Fri Jul 06 14:31:08 +0000 2018,StaedArt,State Rep Art Staed,1,1,Iowa,|,0,0,0,1
+Wed May 18 18:50:32 +0000 2016,LisaSubeck,Lisa Subeck,0,17,Wisconsin,|,0,0,0,1
+Fri Jun 29 21:14:44 +0000 2012,repcarolhall59,Carol Hall,0,0,Connecticut,|,0,0,0,1
+Wed Dec 09 19:14:21 +0000 2020,LivingstonLD22,David Livingston,0,2309,Arizona,|,0,0,0,1
+Fri Apr 11 18:16:22 +0000 2014,landgrafforjobs,Lois Landgraf,0,1,Colorado,|,0,0,0,1
+Sun Dec 06 01:55:15 +0000 2015,JamesSkoufis,James Skoufis,0,0,New_York,cause,0,0,0,1
+Fri Oct 28 16:09:46 +0000 2016,JulieCalley,Julie Calley,7,0,Michigan,cause,0,0,0,1
+Sat Aug 22 12:33:47 +0000 2020,WoodrowForCO,Rep. Steven Woodrow,3,0,Colorado,cause,0,0,0,1
+Fri May 01 18:37:10 +0000 2020,LCharkoudian,Lorig Charkoudian,0,0,Maryland,cause,0,0,0,1
+Sat May 20 17:08:45 +0000 2017,KarenKeiser1,Karen Keiser,0,0,Washington,cause,0,0,0,1
+Thu Oct 15 21:06:25 +0000 2020,SamuelWBell,Sam Bell,0,1,Rhode_Island,cause,0,0,0,1
+Sun Mar 15 02:11:18 +0000 2020,candie_sweetser,Candie G. Sweetser,0,5,New_Mexico,cause,0,0,0,1
+Sun Nov 18 04:34:01 +0000 2018,EdwardBerger1,Edward Berger,6,0,Kansas,cause,0,0,0,1
+Thu Oct 22 22:00:09 +0000 2020,SenatorRobHogg,Rob Hogg,18,7,Iowa,cause,0,0,0,1
+Wed Jan 13 02:31:08 +0000 2016,chloemaxmin,Chloe Maxmin,0,60,Maine,cause,0,0,0,1
+Sat May 30 20:05:31 +0000 2020,BriannaForCO,Rep Brianna Titone - COHD27,8,3,Colorado,make,0,0,0,1
+Fri Apr 27 23:44:41 +0000 2018,RepSheilaDills,Sheila Dills,0,1,Oklahoma,make,0,0,0,1
+Thu Aug 20 17:24:16 +0000 2020,derekkitchen,Senator Derek Kitchen,4,0,Utah,make,0,0,0,1
+Thu Mar 23 00:58:24 +0000 2017,CaryPigman,Cary Pigman,1,1,Florida,make,0,0,0,1
+Sat Aug 22 00:53:07 +0000 2020,JoeGruters,Joe Gruters,0,19535,Florida,make,0,0,0,1
+Sun Oct 18 14:50:19 +0000 2020,MattforMichigan,Matt Koleszar,348,185,Michigan,make,0,0,0,1
+Wed Jan 20 01:01:04 +0000 2021,laurafriedman43,Laura Friedman,6,0,California,make,0,0,0,1
+Sat Oct 03 23:22:10 +0000 2020,CareyHamilton1,Carey Hamilton,8,0,Indiana,make,0,0,0,1
+Wed Nov 18 02:43:34 +0000 2020,RafaelAnchia,Rafael Anchía,3,0,Texas,make,0,0,0,1
+Thu Jun 11 19:45:42 +0000 2020,NebraskaMegan,Senator Megan Hunt 😷,47,5,Nebraska,make,0,0,0,1
+Thu Sep 10 03:16:49 +0000 2020,RayRussellforNC,Ray Russell,16,1,North_Carolina,covid,0,0,0,1
+Sun Jul 05 23:14:41 +0000 2020,JimPatterson559,Jim Patterson,14,7,California,covid,0,0,0,1
+Thu Aug 20 22:53:13 +0000 2020,SSteckman,Sharon Steckman,0,0,Iowa,covid,0,0,0,1
+Tue May 05 14:48:22 +0000 2020,kimwilliamsde,Rep. Kim Williams DE,0,1,Delaware,covid,0,0,0,1
+Thu Sep 17 18:18:29 +0000 2020,SenMMason,Sen. Monty Mason,0,4960,Virginia,covid,0,0,0,1
+Sun Oct 25 19:12:47 +0000 2020,21KevinKelly,Kevin Kelly,0,0,Connecticut,covid,0,0,0,1
+Tue Oct 06 14:31:04 +0000 2020,JayWebberNJ,Jay Webber,30,5,New_Jersey,covid,0,0,0,1
+Fri Nov 13 21:34:18 +0000 2020,katiefryhester,Katie Fry Hester,6,1,Maryland,covid,0,0,0,1
+Thu Sep 10 11:52:24 +0000 2020,LindaTannerNH,Linda Tanner,1,0,New_Hampshire,covid,0,0,0,1
+Tue Dec 22 01:00:35 +0000 2020,TerenceEveritt,Terence J. Everitt,1,0,North_Carolina,covid,0,0,0,1
+Thu Oct 08 03:49:09 +0000 2020,pomnicho,JP Pomnichowski,0,63947,Montana,outbreak,0,0,0,1
+Fri Oct 16 14:07:35 +0000 2020,Sen_MimiStewart,Mimi Stewart,0,2346,New_Mexico,outbreak,0,0,0,1
+Thu Jul 16 12:03:37 +0000 2020,ShevrinJones,Shevrin Jones,28,5,Florida,outbreak,0,0,0,1
+Wed Dec 26 14:37:38 +0000 2012,dougrichey,Doug Richey,0,0,Missouri,outbreak,0,0,0,1
+Sun Mar 15 22:34:07 +0000 2020,HarveyforNY,Harvey Epstein 哈維 D. 艾普斯汀(男),1,1,New_York,outbreak,0,0,0,1
+Sat Aug 08 13:00:06 +0000 2020,SenFrankNiceley,Sen. Frank Niceley,2,1,Tennessee,outbreak,0,0,0,1
+Tue Mar 10 01:00:23 +0000 2020,SenDavidWatters,David Watters,0,4,New_Hampshire,outbreak,0,0,0,1
+Sat Feb 09 23:43:29 +0000 2019,almaforarizona,(((Rep.Alma Hernandez MPH)))🧼🤚🏽,4,0,Arizona,outbreak,1,1,1,1
+Tue Nov 24 15:42:51 +0000 2020,SenatorRezin,Sue Rezin,3,1,Illinois,outbreak,0,0,0,1
+Thu Mar 26 21:15:26 +0000 2020,RafaelAnchia,Rafael Anchía,10,2,Texas,outbreak,0,0,0,1
+Sun Jul 05 17:35:54 +0000 2020,mkorman,Marc Korman,1,0,Maryland,reported,0,0,0,1
+Tue Feb 04 21:45:29 +0000 2020,BuffyWicks,Buffy Wicks,0,4,California,reported,0,0,0,1
+Thu Dec 10 16:49:30 +0000 2020,SenatorRobHogg,Rob Hogg,6,0,Iowa,reported,0,0,0,1
+Mon May 11 21:55:37 +0000 2020,DelegateReznik,Kirill Reznik,5,2,Maryland,reported,0,0,0,1
+Tue Dec 10 09:08:28 +0000 2019,RepJamesFrank,James Frank,0,1451,Texas,reported,0,0,0,1
+Mon May 16 17:01:40 +0000 2016,RepDanMiller,RepDanMiller,0,1,Pennsylvania,reported,0,0,0,1
+Mon Jun 01 15:50:06 +0000 2020,SenatorSusanLee,Susan Lee,0,1,Maryland,reported,0,0,0,1
+Thu Jan 02 21:51:22 +0000 2020,MRanglinVassell,Rep.Marcia Ranglin,0,479,Rhode_Island,reported,0,0,0,1
+Tue Jan 12 03:13:56 +0000 2021,COSenWilliams,Angela Williams,0,2,Colorado,reported,0,0,0,1
+Mon Aug 17 00:17:09 +0000 2020,sueford06,Susan Ford,0,6430,New_Hampshire,reported,0,0,0,1
+Sat Aug 29 16:43:33 +0000 2020,ivyvann,Ivy Vann,1,0,New_Hampshire,yet,0,0,0,1
+Thu Nov 05 16:23:03 +0000 2020,marcussimon,Marcus Simon for Va,0,17,Virginia,yet,0,0,0,1
+Wed Oct 10 08:21:18 +0000 2018,gcmitts,Gina Mitten,0,1657,Missouri,yet,0,0,0,1
+Sat Nov 03 15:46:45 +0000 2012,hrehder,Holly Rehder,0,3,Missouri,yet,0,0,0,1
+Fri Dec 06 16:18:34 +0000 2019,CarlHeastie,Carl E. Heastie,3,3,New_York,yet,0,0,0,1
+Mon Sep 03 04:12:52 +0000 2018,AswLopez,Yvonne Marie Lopez,0,274,New_Jersey,yet,0,0,0,1
+Sat Jun 12 02:01:50 +0000 2010,johnfrey,John Frey,0,0,Connecticut,yet,0,0,0,1
+Tue Nov 17 22:51:01 +0000 2020,wardports,Gerald W.R. Ward,0,2270,New_Hampshire,yet,0,0,0,1
+Mon Feb 02 13:10:34 +0000 2015,danstec,Dan Stec,0,5,New_York,yet,0,0,0,1
+Wed Mar 20 17:01:18 +0000 2019,johnmcdonald108,John T. McDonald III,0,0,New_York,yet,0,0,0,1
+Mon Jul 27 02:28:28 +0000 2015,raymonddehn,Raymond Dehn,0,65,Minnesota,treatment,0,0,0,1
+Mon Jun 26 18:42:50 +0000 2017,RandyFrye3,Randy Frye,3,1,Indiana,treatment,0,0,0,1
+Thu Feb 21 22:34:30 +0000 2019,SenateHertzberg,Bob Hertzberg,0,6,California,treatment,0,0,0,1
+Wed Oct 07 00:26:01 +0000 2020,espinozadiego19,Diego Espinoza,0,117,Arizona,treatment,0,0,0,1
+Tue Feb 04 00:19:54 +0000 2020,DelegateReznik,Kirill Reznik,0,26,Maryland,treatment,0,0,0,1
+Sun Apr 22 10:40:24 +0000 2018,dinerdialogues,Didi Barrett,4,0,New_York,treatment,0,0,0,1
+Mon Sep 30 22:53:26 +0000 2019,JustinReady,Justin Ready,0,0,Maryland,treatment,0,0,0,1
+Mon Jan 11 00:51:28 +0000 2021,SenJasonLewis,Jason Lewis,1,0,Massachusetts,treatment,0,0,0,1
+Fri Jul 24 21:17:28 +0000 2020,DavidWeprin,David Weprin,1,0,New_York,treatment,0,0,0,1
+Tue Jun 25 17:40:19 +0000 2019,10SDDem,Gary Winfield,1,0,Connecticut,treatment,0,0,0,1
+Sat Jul 22 17:03:44 +0000 2017,NEWTFL,Wengay M. Newton Sr.,0,0,Florida,exemption,0,0,0,1
+Wed Mar 01 16:29:34 +0000 2017,MBCarozzaSenate,Mary Beth Carozza,2,1,Maryland,exemption,0,0,0,1
+Tue Jan 15 14:51:50 +0000 2019,LittleSenator,Matt Little,1,0,Minnesota,exemption,0,0,0,1
+Thu Apr 26 19:51:42 +0000 2018,TimJosephsonNH,Tim Josephson,0,0,New_Hampshire,exemption,0,0,0,1
+Mon Oct 23 13:39:15 +0000 2017,wjluneau,Jay Luneau,0,1,Louisiana,exemption,0,0,0,1
+Thu Nov 19 04:10:01 +0000 2020,MarkKeam,Mark Keam,7,1,Virginia,exemption,0,0,0,1
+Thu Jan 10 02:11:09 +0000 2019,neilparrott,Neil Conrad Parrott,1,0,Maryland,exemption,0,0,0,1
+Fri Apr 26 02:15:37 +0000 2013,Erikka_Storch,Erikka Storch,0,0,West_Virginia,exemption,0,0,0,1
+Wed May 17 13:53:48 +0000 2017,FarmerForFLSen,Senator Gary Farmer,0,4,Florida,exemption,0,0,0,1
+Wed Feb 29 15:23:23 +0000 2012,dougskaff,dougskaff,0,0,West_Virginia,exemption,0,0,0,1
+Sat Dec 01 12:27:11 +0000 2018,EFillerCorn,Eileen Filler-Corn,0,197,Virginia,death,0,0,0,1
+Wed Dec 16 15:58:19 +0000 2020,VoteGloriaJ,Gloria Johnson,0,464,Tennessee,death,0,0,0,1
+Thu Jun 04 17:36:29 +0000 2020,TJShopeforAZ,T.J. Shope,0,2999,Arizona,death,0,0,0,1
+Mon Feb 03 19:14:34 +0000 2020,AaronBernstine,Aaron Bernstine,0,0,Pennsylvania,death,0,0,0,1
+Thu Feb 15 17:05:24 +0000 2018,repwestrom,Rep. Susan Westrom,3,0,Kentucky,death,0,0,0,1
+Wed Jul 15 22:29:02 +0000 2020,jenforutah,Jen Dailey-Provost,46,13,Utah,death,0,0,0,1
+Wed Jul 29 19:58:21 +0000 2020,Repulery,Jordan Ulery,0,0,New_Hampshire,death,0,0,0,1
+Sat Jan 04 17:56:07 +0000 2020,DavidBuchwald,David Buchwald,10,1,New_York,death,0,0,0,1
+Fri Dec 11 04:41:02 +0000 2020,HarveyforNY,Harvey Epstein 哈維 D. 艾普斯汀(男),11,1,New_York,death,0,0,0,1
+Fri Aug 09 17:08:49 +0000 2019,TonyExum,"Rep. Tony Exum, Sr.",2,1,Colorado,death,0,0,0,1
+Tue Nov 03 22:18:53 +0000 2020,NMangione2018,Nino Mangione,0,17623,Maryland,save,0,0,0,1
+Thu Jun 25 17:48:16 +0000 2020,nwilliams23,Nicole Williams,0,3,Maryland,save,0,0,0,1
+Wed Jun 24 02:55:30 +0000 2015,mikeday4rep,Michael Day,0,3,Massachusetts,save,0,0,0,1
+Sat Apr 25 14:50:51 +0000 2020,Earl_Harris_Jr,"Earl L. Harris, Jr.",0,4,Indiana,save,0,0,0,1
+Tue Jul 19 15:45:13 +0000 2016,RepDuBois,Michelle DuBois,0,2,Massachusetts,save,0,0,0,1
+Fri May 17 22:53:20 +0000 2019,Ramos4Texas,Representative Ana-Maria Ramos,3,1,Texas,save,0,0,0,1
+Mon Jan 21 23:03:34 +0000 2019,SteveBerch15A,Steve Berch,2,1,Idaho,save,0,0,0,1
+Thu Aug 09 14:09:10 +0000 2018,Brooks4LINY,John Brooks,7,3,New_York,save,0,0,0,1
+Sat Jun 20 13:23:00 +0000 2020,christina4rep,Christina Minicucci,9,0,Massachusetts,save,0,0,0,1
+Wed May 27 01:36:16 +0000 2020,RepDavis35,Austin Davis,0,2,Pennsylvania,save,0,0,0,1
+Tue Jul 21 15:55:15 +0000 2015,JoinJoyner,Latoya Joyner,0,1,New_York,awareness,0,0,0,1
+Mon Feb 17 17:56:17 +0000 2020,rosemarybayer,Senator Rosemary Bayer,7,2,Michigan,awareness,0,0,0,1
+Wed Oct 07 19:37:41 +0000 2015,KennyYuko,Senator Kenny Yuko,3,3,Ohio,awareness,0,0,0,1
+Thu Feb 28 22:30:02 +0000 2019,RandiClites,Rep Randi Clites,9,0,Ohio,awareness,0,0,0,1
+Tue Aug 30 02:30:21 +0000 2016,BillMoen,Assemblyman Bill Moen,0,6,New_Jersey,awareness,0,0,0,1
+Wed Sep 02 19:35:48 +0000 2020,GayleManningOH,Gayle Manning,7,0,Ohio,awareness,0,0,0,1
+Tue Nov 26 18:49:21 +0000 2019,ChristyforCA25,Christy Smith,0,18,California,awareness,0,0,0,1
+Tue Sep 17 14:33:10 +0000 2019,SenatorLorettaW,Loretta Weinberg,1,0,New_Jersey,awareness,0,0,0,1
+Sat Jun 06 21:44:58 +0000 2015,Kimjeanpierre,Kimberly Jean Pierre,1,0,New_York,awareness,0,0,0,1
+Mon Jun 09 14:42:21 +0000 2014,jaylivingstone,Jay Livingstone,0,15,Massachusetts,awareness,0,0,0,1
+Sat Nov 07 14:42:34 +0000 2020,MalloryMcMorrow,Merry Mallory McMorrow 🎄🎅🦌,37,16,Michigan,dangerous,0,0,0,1
+Wed Jul 01 14:48:58 +0000 2020,SenatorOMara,Tom O'Mara,0,6,New_York,dangerous,0,0,0,1
+Sun Jan 03 02:18:13 +0000 2021,Sen_MimiStewart,Mimi Stewart,0,26,New_Mexico,dangerous,0,0,0,1
+Fri Jun 26 14:45:17 +0000 2020,RepKevinBoyle,Rep. Kevin J. Boyle,15,2,Pennsylvania,dangerous,0,0,0,1
+Mon May 11 12:27:59 +0000 2020,JoeGruters,Joe Gruters,0,1341,Florida,dangerous,0,0,0,1
+Thu Mar 19 12:21:42 +0000 2020,RepPaulMark,Rep. Paul W. Mark,2,1,Massachusetts,dangerous,0,0,0,1
+Thu Jul 18 22:04:00 +0000 2019,RepDylan,Dylan Fernandes,7,3,Massachusetts,dangerous,0,0,0,1
+Tue Sep 03 15:14:31 +0000 2019,theresagavarone,Senator Theresa Gavarone,10,1,Ohio,dangerous,0,0,0,1
+Tue Jul 31 12:53:00 +0000 2018,sdduba,Linda Duba,0,1995,South_Dakota,dangerous,0,0,0,1
+Sun Jun 18 02:22:38 +0000 2017,RobbyMillsforKY,Robby Mills,0,2,Kentucky,dangerous,0,0,0,1
+Fri Dec 11 19:16:25 +0000 2020,JRClemmons,John Ray Clemmons,37,7,Tennessee,masks,1,1,1,1
+Sat Apr 18 16:45:18 +0000 2020,repkatehogan,Kate Hogan,0,3,Massachusetts,masks,0,0,0,1
+Wed Mar 04 16:56:32 +0000 2020,wileynickel,Senator Wiley Nickel,0,128909,North_Carolina,masks,0,0,0,1
+Thu Jun 25 18:09:15 +0000 2020,ChristyClarkNC,Christy Clark,0,20,North_Carolina,masks,0,0,0,1
+Sun Jan 10 17:36:34 +0000 2021,kimwilliamsde,Rep. Kim Williams DE,0,1,Delaware,masks,0,0,0,1
+Fri Jul 31 01:38:57 +0000 2020,snordgren23,Sharon Nordgren,0,4,New_Hampshire,masks,0,0,0,1
+Thu Dec 24 02:58:57 +0000 2020,rephowardhunter,Howard Hunter,3,0,North_Carolina,masks,0,0,0,1
+Sun May 24 02:56:44 +0000 2020,lizthomsonnm,Liz Thomson,0,2,New_Mexico,masks,0,0,0,1
+Thu Mar 26 20:50:40 +0000 2020,SenClaireCelsi,Claire Celsi,0,0,Iowa,masks,0,0,0,1
+Fri Jul 10 02:18:47 +0000 2020,SenatorRobHogg,Rob Hogg,7,1,Iowa,masks,0,0,0,1
+Mon Apr 09 16:47:08 +0000 2018,TinaForKentucky,Tina Bojanowski,5,0,Kentucky,group,0,0,0,1
+Wed Aug 21 01:14:29 +0000 2019,agounardes,Andrew Gounardes,4,0,New_York,group,0,0,0,1
+Mon Feb 01 02:10:47 +0000 2021,DrPanMD,Dr. Richard Pan 🇺🇸,16,2,California,group,1,1,1,1
+Tue Jan 29 03:18:40 +0000 2019,riggs4missouri,Riggs For Missouri,0,0,Missouri,group,0,0,0,1
+Mon May 18 13:20:50 +0000 2020,RepMcClure,Lawrence McClure,0,4,Florida,group,0,0,0,1
+Thu Aug 16 14:22:01 +0000 2018,TylerAugust,Tyler August,5,1,Wisconsin,group,0,0,0,1
+Mon Apr 28 16:20:05 +0000 2014,dafna_m,DafnaMichaelsonJenet,0,0,Colorado,group,0,0,0,1
+Mon Jun 15 23:45:12 +0000 2020,RepAmyNielsen,Amy Nielsen,5,0,Iowa,group,0,0,0,1
+Thu Apr 12 23:52:35 +0000 2018,RepRushing,Laurie Rushing,0,0,Arkansas,group,0,0,0,1
+Tue Sep 13 12:21:53 +0000 2016,JerrySonnenberg,Jerry Sonnenberg,2,1,Colorado,group,0,0,0,1
+Thu Oct 15 12:23:53 +0000 2020,juliefornc,Rep. Julie von Haefen,0,63,North_Carolina,schedule,0,0,0,1
+Tue Feb 02 14:57:49 +0000 2021,SenatorAument,Sen. Ryan P. Aument,1,0,Pennsylvania,schedule,0,0,0,1
+Fri Feb 24 21:01:24 +0000 2017,ChrisJLarson,Chris Larson,0,24732,Wisconsin,schedule,0,0,0,1
+Mon Aug 17 23:33:24 +0000 2020,MattSimpson,Matt Simpson,0,2285,Alabama,schedule,0,0,0,1
+Fri Jan 08 14:51:15 +0000 2021,RepMikeCaruso,Mike Caruso,0,0,Florida,schedule,1,1,1,1
+Sat Sep 07 01:25:24 +0000 2019,KrizekForVA,Paul Krizek,1,0,Virginia,schedule,0,0,0,1
+Fri May 11 17:09:51 +0000 2018,Asm_Nazarian,Adrin Nazarian,0,4,California,schedule,0,0,0,1
+Mon May 29 13:46:52 +0000 2017,STLDonnaB,Donna Baringer,0,5,Missouri,schedule,0,0,0,1
+Mon Oct 05 14:17:00 +0000 2020,SenTonyWilliams,Anthony H. Williams,0,6,Pennsylvania,schedule,0,0,0,1
+Wed Oct 05 23:15:27 +0000 2011,Sorvillo4House,Jim Sorvillo,0,2,Arkansas,schedule,0,0,0,1
+Sat May 04 01:29:11 +0000 2019,TinaLiebling,Tina Liebling,39,9,Minnesota,disease,0,0,0,1
+Sat Mar 15 16:19:08 +0000 2014,dougskaff,dougskaff,2,2,West_Virginia,disease,0,0,0,1
+Wed May 20 18:26:18 +0000 2020,repsmitty,Smitty Pignatelli,0,0,Massachusetts,disease,0,0,0,1
+Sun Mar 15 14:27:42 +0000 2020,jamescita,Jamescita Peshlakai,0,17038,Arizona,disease,0,0,0,1
+Fri Jun 05 23:44:41 +0000 2020,Diego4Justice,Rep. Diego Rodriguez,0,42,Arizona,disease,0,0,0,1
+Fri Apr 24 13:19:22 +0000 2020,Martin4GA,Rep. Chuck Martin,0,0,Georgia,disease,0,0,0,1
+Mon Apr 29 23:13:38 +0000 2019,5boymom,kimberly moser,0,17,Kentucky,disease,0,0,0,1
+Tue Jan 19 20:08:54 +0000 2021,sueford06,Susan Ford,0,105,New_Hampshire,disease,0,0,0,1
+Fri Jul 03 21:21:02 +0000 2020,sueford06,Susan Ford,0,124,New_Hampshire,disease,0,0,0,1
+Mon Feb 12 20:24:37 +0000 2018,RichardBloom,Richard Bloom,0,0,California,disease,0,0,0,1
+Wed Mar 14 17:46:02 +0000 2018,AsmMuratsuchi,Asm. Al Muratsuchi,5,0,California,safety,0,0,0,1
+Wed Mar 14 19:06:02 +0000 2018,RepFrankDermody,Leader Frank Dermody,1,1,Pennsylvania,safety,0,0,0,1
+Wed Mar 18 21:50:06 +0000 2020,pattiminter4ky,Representative Patti Minter,7,2,Kentucky,safety,0,0,0,1
+Mon Jul 06 14:48:20 +0000 2020,CindyFriedmanMA,Cindy Friedman,0,6,Massachusetts,safety,0,0,0,1
+Wed Nov 27 21:56:42 +0000 2019,SenAkbari,Senator Raumesh Akbari,0,8,Tennessee,safety,0,0,0,1
+Tue Jul 09 22:22:49 +0000 2019,JamesTedisco,Senator Jim Tedisco,4,1,New_York,safety,0,0,0,1
+Thu Oct 01 14:10:13 +0000 2015,SenatorBrewster,Senator Jim Brewster,0,1,Pennsylvania,safety,0,0,0,1
+Sun Sep 03 20:37:40 +0000 2017,KarenMayneUT5,Karen Mayne,0,1,Utah,safety,0,0,0,1
+Mon Sep 23 20:13:02 +0000 2019,RepBradford,Rep. Matt Bradford,0,5,Pennsylvania,safety,0,0,0,1
+Mon Feb 04 18:04:37 +0000 2019,RepKellyCassidy,Rep. Kelly Cassidy,5,1,Illinois,safety,0,0,0,1
+Wed Oct 09 16:41:18 +0000 2019,BradTabke,Brad Tabke,0,17,Minnesota,know,0,0,0,1
+Wed Sep 02 01:52:26 +0000 2020,VictoriaLSteele,Victoria Steele,0,158,Arizona,know,0,0,0,1
+Sun Apr 05 14:58:32 +0000 2020,RuiXuKS,Rui Xu,133,5,Kansas,know,0,0,0,1
+Wed Apr 15 00:25:30 +0000 2020,jasonrapert,Jason Rapert,0,0,Arkansas,know,0,0,0,1
+Fri May 04 14:54:35 +0000 2018,RuthHardyVT,Ruth Hardy,0,2,Vermont,know,0,0,0,1
+Thu Jan 28 02:40:08 +0000 2016,jimananich,Senator Jim Ananich,22,18,Michigan,know,0,0,0,1
+Fri Sep 19 23:18:58 +0000 2014,NicoleCollier95,Nicole Collier,7,6,Texas,know,0,0,0,1
+Wed May 06 22:39:26 +0000 2020,AsmCervantes,Sabrina Cervantes,0,1,California,know,0,0,0,1
+Tue Dec 08 19:13:24 +0000 2020,MattLesser,Sen. Matt Lesser,0,0,Connecticut,know,0,0,0,1
+Sun May 03 00:15:26 +0000 2020,SaraGideon,Sara Gideon,0,260,Maine,know,0,0,0,1
+Tue Mar 06 17:39:04 +0000 2018,Sorvillo4House,Jim Sorvillo,0,1,Arkansas,animal,0,0,0,1
+Fri Aug 10 18:21:03 +0000 2018,SenatorBenson,Sen. Michelle Benson,0,24,Minnesota,animal,0,0,0,1
+Wed Nov 21 02:07:20 +0000 2018,MikeJRogers4,Mike Rogers,0,1,Maryland,animal,0,0,0,1
+Wed Apr 25 13:14:30 +0000 2018,DickersonforS20,Steve Dickerson,0,5,Tennessee,animal,0,0,0,1
+Tue Jul 31 01:41:46 +0000 2018,jilltolles,Jill Tolles,13,4,Nevada,animal,0,0,0,1
+Tue Nov 06 23:34:39 +0000 2018,KathyKLTran,Kathy Tran,5,1,Virginia,animal,0,0,0,1
+Wed Sep 25 04:33:51 +0000 2019,Annette_Taddeo,Annette Taddeo (She/Her/Ella),0,1058,Florida,animal,0,0,0,1
+Sun Sep 16 19:58:59 +0000 2018,wiikfor4,John Wiik,0,0,South_Dakota,animal,0,0,0,1
+Tue Mar 03 21:24:01 +0000 2020,SenGianaris,Sen. Mike Gianaris,14,0,New_York,animal,0,0,0,1
+Sun Apr 28 21:05:24 +0000 2019,Sorvillo4House,Jim Sorvillo,1,1,Arkansas,animal,0,0,0,1
+Wed Dec 16 17:02:11 +0000 2020,CharlieMcConkey,Charlie McConkey,0,1,Iowa,deaths,0,0,0,1
+Sun Apr 12 17:28:45 +0000 2020,DrPanMD,Dr. Richard Pan,0,7749,California,deaths,0,0,0,1
+Tue Jan 26 23:26:22 +0000 2021,PedersenJamie,Jamie Pedersen,2,0,Washington,deaths,0,0,0,1
+Sat Jan 23 19:08:48 +0000 2021,RepThierry146,Shawn Thierry,0,7,Texas,deaths,0,0,0,1
+Thu Mar 13 18:20:55 +0000 2014,ErikSimonson,Erik Simonson,0,5,Minnesota,deaths,0,0,0,1
+Thu Dec 17 17:15:00 +0000 2020,NancySkinnerCA,Nancy Skinner,0,0,California,deaths,0,0,0,1
+Wed Sep 11 21:55:47 +0000 2019,sdduba,Linda Duba,0,26129,South_Dakota,deaths,0,0,0,1
+Thu Oct 11 10:05:10 +0000 2018,kellyhastings1,Kelly Hastings,0,0,North_Carolina,deaths,0,0,0,1
+Tue Mar 17 01:55:34 +0000 2020,collins_neal,Rep. Neal Collins,2,0,South_Carolina,deaths,0,0,0,1
+Sun Oct 25 02:05:08 +0000 2020,d_ddunnn,David Dunn,0,861,Montana,deaths,0,0,0,1
+Mon Apr 13 01:01:10 +0000 2020,AHammoudMI,Abdullah Hammoud,0,1026,Michigan,misinformation,0,0,0,1
+Wed Nov 04 07:26:37 +0000 2020,MaryBorenSD16,Mary 🇺🇸 🗳 ✍🏻 🇺🇸,2,0,Oklahoma,misinformation,0,0,0,1
+Thu Aug 06 02:06:40 +0000 2020,poncho_nevarez,Poncho Nevárez,0,10,Texas,misinformation,0,0,0,1
+Fri Oct 30 11:52:28 +0000 2020,rosemarybayer,Senator Rosemary Bayer,0,186,Michigan,misinformation,0,0,0,1
+Sun Jul 23 19:38:35 +0000 2017,whitmire_john,John Whitmire,0,10,Texas,misinformation,0,0,0,1
+Wed Aug 19 23:18:09 +0000 2020,inhisfields,David Ralston,1,0,Georgia,misinformation,0,0,0,1
+Tue Mar 24 19:30:29 +0000 2020,DanielRBenson,Dan Benson,0,7866,New_Jersey,misinformation,0,0,0,1
+Sun Oct 25 17:07:12 +0000 2020,VoteGloriaJ,Gloria Johnson,0,0,Tennessee,misinformation,0,0,0,1
+Tue Sep 15 16:02:39 +0000 2020,RepDuerr,Davina Duerr,0,28,Washington,misinformation,0,0,0,1
+Tue Jan 26 00:46:17 +0000 2021,lizthomsonnm,Liz Thomson,0,6,New_Mexico,misinformation,0,0,0,1
+Wed Sep 26 22:21:24 +0000 2018,sdduba,Linda Duba,0,0,South_Dakota,widely,0,0,0,1
+Thu Nov 08 03:11:41 +0000 2018,SenSaraGelser,Sara Gelser,0,8204,Oregon,widely,0,0,0,1
+Thu Feb 08 20:44:51 +0000 2018,SenatorSoules,William Soules,0,9,New_Mexico,widely,0,0,0,1
+Tue Jan 12 23:24:46 +0000 2021,bobkressig,Bob Kressig,2,0,Iowa,widely,1,1,1,1
+Tue Mar 31 10:29:33 +0000 2020,jeffroy,Jeffrey N. Roy,4,1,Massachusetts,widely,0,0,0,1
+Thu Nov 26 05:39:31 +0000 2020,SenSaraGelser,Sara Gelser,0,8,Oregon,widely,0,0,0,1
+Tue Oct 13 14:17:55 +0000 2020,ZachWahls,Zach Wahls,2,0,Iowa,widely,0,0,0,1
+Wed Apr 08 02:36:29 +0000 2020,MaineSocialist,Rep. Mike🌹,0,0,Maine,widely,0,0,0,1
+Fri May 24 21:31:18 +0000 2019,davepinto,Dave Pinto,44,17,Minnesota,widely,0,0,0,1
+Wed Sep 16 19:00:58 +0000 2020,senatorjen,Jen Jordan,0,3129,Georgia,widely,1,1,1,1
+Wed Jun 03 15:48:01 +0000 2015,AsmAutumnBurke,Autumn R. Burke,0,10,California,effective,0,0,0,1
+Sat May 02 18:32:54 +0000 2020,BenHueso,Ben Hueso,0,4,California,effective,0,0,0,1
+Thu Jul 25 23:50:48 +0000 2019,Rep_Jimmy,Jimmy Anderson,8,0,Wisconsin,effective,0,0,0,1
+Thu Jun 23 18:45:17 +0000 2011,MarkNakashima,Mark Nakashima,0,1,Hawaii,effective,0,0,0,1
+Thu Feb 04 22:18:19 +0000 2021,wardports,Gerald W.R. Ward,0,3142,New_Hampshire,effective,0,0,0,1
+Thu May 16 02:18:44 +0000 2019,SenatorMcCray,Cory McCray,0,4,Maryland,effective,0,0,0,1
+Thu May 14 06:25:59 +0000 2020,MelanieforNM,Melanie Stansbury,0,62,New_Mexico,effective,0,0,0,1
+Thu Nov 05 16:10:48 +0000 2020,MonicaDuran24,Monica Duran,0,19,Colorado,effective,0,0,0,1
+Fri May 22 23:24:50 +0000 2020,MichaelleSolage,Michaëlle Solages,3,2,New_York,effective,0,0,0,1
+Fri Mar 06 13:53:34 +0000 2020,ltgovmcnally,Randy McNally,0,1,Tennessee,effective,0,0,0,1
+Mon Apr 02 23:13:28 +0000 2018,KariDziedzic,Sen Kari Dziedzic,0,1,Minnesota,autism,0,0,0,1
+Mon May 18 22:21:33 +0000 2015,HuntForNCHouse,Rachel Hunt,0,25,North_Carolina,autism,0,0,0,1
+Tue Apr 02 11:24:51 +0000 2019,TRWhelan,Rep. Tim Whelan,17,7,Massachusetts,autism,0,0,0,1
+Fri Feb 07 04:29:48 +0000 2014,Portantino,Anthony Portantino,0,40,California,autism,0,0,0,1
+Thu Apr 02 12:12:10 +0000 2015,DewMac52,Dewey McClain,0,0,Georgia,autism,0,0,0,1
+Wed Sep 20 01:02:56 +0000 2017,jonhoadley,Jon Hoadley,0,71404,Michigan,autism,0,0,0,1
+Mon Apr 04 14:16:04 +0000 2016,AsmMontesano,Michael Montesano,1,2,New_York,autism,0,0,0,1
+Fri Apr 06 20:10:47 +0000 2018,SenatorRobach,Senator Joe Robach,2,1,New_York,autism,0,0,0,1
+Wed Aug 14 14:07:48 +0000 2019,TRWhelan,Rep. Tim Whelan,4,1,Massachusetts,autism,0,0,0,1
+Fri Mar 30 23:47:18 +0000 2018,jimabeler,Jim Abeler,2,1,Minnesota,autism,0,0,0,1
+Tue Dec 01 03:30:18 +0000 2020,LizBrownUS,Liz Brown,0,0,Indiana,@who,0,0,0,1
+Wed Apr 15 19:23:56 +0000 2020,jamelholley,Jamel Holley ♍🔌,1277,525,New_Jersey,@who,0,0,0,1
+Wed Jul 24 08:43:17 +0000 2019,DrPanMD,Dr. Richard Pan,0,69,California,@who,1,1,1,1
+Tue Sep 10 12:13:34 +0000 2019,MikeSchlossberg,Mike Schlossberg 😷,0,90,Pennsylvania,@who,0,0,0,1
+Sat Apr 18 23:26:34 +0000 2020,RepAlanClemmons,Alan Clemmons,0,5122,South_Carolina,@who,0,0,0,1
+Mon Mar 09 13:35:43 +0000 2020,DavidCarlucci,David Carlucci,4,7,New_York,@who,0,0,0,1
+Fri Oct 23 01:11:39 +0000 2020,RepMaryFranson,Tim Walz is leading us into poverty,22,4,Minnesota,@who,0,0,0,1
+Wed Mar 11 20:33:34 +0000 2020,ZachWahls,Zach Wahls,0,0,Iowa,@who,0,0,0,1
+Thu Mar 12 14:07:56 +0000 2020,patgardner,Pat Gardner,0,0,Georgia,@who,0,0,0,1
+Fri Aug 07 21:34:58 +0000 2020,MikeConnollyMA,Mike Connolly,17,9,Massachusetts,@who,0,0,0,1
+Wed Jul 08 11:11:59 +0000 2020,MindyForMA,Mindy Domb,0,1,Massachusetts,develop,0,0,0,1
+Wed Sep 23 14:52:19 +0000 2020,SenSantarsiero,Steve Santarsiero,4,2,Pennsylvania,develop,0,0,0,1
+Mon Aug 10 01:23:39 +0000 2020,Sdimaso,Serena DiMaso,0,6,New_Jersey,develop,0,0,0,1
+Sun Oct 04 13:28:43 +0000 2020,sueford06,Susan Ford,0,10385,New_Hampshire,develop,0,0,0,1
+Thu Nov 14 18:57:23 +0000 2019,RepKHoward,Rep. Kristine Howard,0,1,Pennsylvania,develop,0,0,0,1
+Fri Jun 05 12:38:30 +0000 2020,NCHouseSpeaker,Speaker Tim Moore,9,6,North_Carolina,develop,0,0,0,1
+Sun Mar 15 13:52:20 +0000 2020,RepKarenKwan,Karen Kwan,21,6,Utah,develop,0,0,0,1
+Fri Aug 07 12:42:06 +0000 2020,SenJohnYudichak,Sen. John Yudichak,1,0,Pennsylvania,develop,0,0,0,1
+Thu Feb 13 22:19:52 +0000 2014,PeteLeeColorado,Senator Pete Lee,0,0,Colorado,develop,0,0,0,1
+Tue Oct 08 16:40:02 +0000 2019,RepChapman,Mike Chapman,1,0,Washington,develop,0,0,0,1
+Thu Mar 14 23:56:45 +0000 2019,rkerickson,Renee Erickson,0,0,Kansas,law,0,0,0,1
+Fri May 29 22:57:11 +0000 2020,rebekahwarren,Rebekah Warren,7,0,Michigan,law,0,0,0,1
+Thu Sep 10 22:53:59 +0000 2020,Burrows4TX,Dustin Burrows,0,26,Texas,law,0,0,0,1
+Mon Jun 24 16:14:25 +0000 2019,RepPashinski,Eddie Day Pashinski,0,6,Pennsylvania,law,0,0,0,1
+Wed Jun 03 00:58:41 +0000 2020,VictoriaLSteele,Victoria Steele,0,25,Arizona,law,0,0,0,1
+Wed Oct 14 02:32:31 +0000 2015,RussellWFry,Rep. Russell Fry,0,0,South_Carolina,law,0,0,0,1
+Tue Sep 08 15:45:13 +0000 2020,ByronDonalds,Byron Donalds,152,45,Florida,law,0,0,0,1
+Wed Jan 15 17:58:03 +0000 2020,repdottieb4mo,Dottie Bailey,0,4,Missouri,law,0,0,0,1
+Fri Feb 05 01:13:19 +0000 2016,triston_cole,Triston Cole,0,0,Michigan,law,0,0,0,1
+Sat Oct 27 03:48:56 +0000 2018,BillMoen,Assemblyman Bill Moen,0,1142,New_Jersey,law,0,0,0,1
+Fri Jan 25 00:36:25 +0000 2019,Earl_Harris_Jr,"Earl L. Harris, Jr.",0,3,Indiana,getting,0,0,0,1
+Tue Mar 11 17:48:30 +0000 2014,Electalrobinson,Albert Robinson,0,0,Kentucky,getting,0,0,0,1
+Tue Aug 25 23:53:46 +0000 2020,PriceForDel95,Delegate Cia Price,7,2,Virginia,getting,0,0,0,1
+Sat Jun 20 16:50:29 +0000 2020,poncho_nevarez,Poncho Nevárez,3,0,Texas,getting,0,0,0,1
+Sun Mar 08 21:33:14 +0000 2020,DanDaley,Dan Daley,0,0,Florida,getting,0,0,0,1
+Sat Dec 03 21:33:48 +0000 2016,ChuckMcGrady,Rep. Chuck McGrady,1,0,North_Carolina,getting,0,0,0,1
+Mon Mar 30 20:20:37 +0000 2020,stewartcatheyjr,"Stewart Cathey, Jr",0,17673,Louisiana,getting,0,0,0,1
+Wed Apr 15 21:07:25 +0000 2020,SenatorKnopp,Tim Knopp,1,0,Oregon,getting,0,0,0,1
+Sat Jan 23 17:41:21 +0000 2021,K_Boggs18,Rep. Kristin Boggs,0,0,Ohio,getting,1,1,1,1
+Tue Aug 04 13:20:19 +0000 2020,Sen_MimiStewart,Mimi Stewart,0,14,New_Mexico,getting,0,0,0,1
+Thu Feb 19 06:10:57 +0000 2015,JM_Montgomery,John Montgomery,0,1,Oklahoma,cancer,0,0,0,1
+Sat Sep 22 13:19:17 +0000 2018,toddahunter,Todd Hunter,11,0,Texas,cancer,0,0,0,1
+Thu Aug 20 20:01:53 +0000 2020,frostnhstaterep,Sherry Frost 🆘 🏳️‍🌈🖤,30,9,New_Hampshire,cancer,0,0,0,1
+Thu Jun 06 21:09:18 +0000 2019,Jilchrest,Jillian Gilchrest,0,9,Connecticut,cancer,0,0,0,1
+Sun Nov 13 03:35:53 +0000 2016,inhisfields,David Ralston,0,0,Georgia,cancer,0,0,0,1
+Thu Jun 20 17:09:01 +0000 2019,DickGottfried,Richard Gottfried,0,22,New_York,cancer,0,0,0,1
+Tue Oct 11 22:48:30 +0000 2016,Steve_Glazer,Steve Glazer,10,0,California,cancer,0,0,0,1
+Wed Dec 11 17:30:34 +0000 2019,McMahonforNYS,Assemblymember Karen McMahon,17,3,New_York,cancer,0,0,0,1
+Wed Dec 27 18:41:49 +0000 2017,Cunning_Jordan,Jordan Cunningham,2,0,California,cancer,0,0,0,1
+Thu Mar 08 20:08:19 +0000 2018,TRWhelan,Rep. Tim Whelan,0,13,Massachusetts,cancer,0,0,0,1
+Mon Jul 27 22:17:21 +0000 2020,BrittMiller4AD5,Assemblywoman Brittney Miller,0,16,Nevada,find,0,0,0,1
+Thu Aug 06 04:39:59 +0000 2020,RafaelAnchia,Rafael Anchía,0,709,Texas,find,0,0,0,1
+Wed Jun 21 19:30:23 +0000 2017,JustinBoydAR,Justin Boyd 4 AR,0,15,Arkansas,find,0,0,0,1
+Fri Apr 24 18:14:26 +0000 2020,BucyForTexas,Rep. John Bucy III,5,3,Texas,find,0,0,0,1
+Mon Mar 16 04:54:31 +0000 2020,Biaggi4NY,Alessandra Biaggi,0,20824,New_York,find,0,0,0,1
+Wed Feb 04 16:57:49 +0000 2015,beckynutt3,Becky Nutt,0,9,Arizona,find,0,0,0,1
+Fri Mar 20 18:32:13 +0000 2020,CandicePierucci,Candice B. Pierucci,14,11,Utah,find,0,0,0,1
+Thu Jan 02 14:22:11 +0000 2020,RepDavidCook,David Cook,2,1,Arizona,find,0,0,0,1
+Thu Oct 15 13:50:57 +0000 2020,C_Herring,Charniele Herring,0,0,Virginia,find,0,0,0,1
+Wed Nov 09 00:59:32 +0000 2016,Rios_Rebecca,Rebecca Rios,0,67,Arizona,find,0,0,0,1
+Mon Mar 18 23:19:34 +0000 2019,RuiXuKS,Rui Xu,1,1,Kansas,yes,0,0,0,1
+Fri Feb 26 02:39:58 +0000 2016,JeffWeninger,Jeff Weninger,1,0,Arizona,yes,0,0,0,1
+Fri Oct 23 02:23:26 +0000 2020,yuhline,Yuh-Line Niou,12,1,New_York,yes,0,0,0,1
+Thu Mar 30 14:05:04 +0000 2017,repkoenig,Adam Koenig,0,1,Kentucky,yes,0,0,0,1
+Fri Dec 02 23:08:12 +0000 2011,JayWalkerSky,Jay Walker,0,0,Maryland,yes,0,0,0,1
+Sat Aug 01 17:47:43 +0000 2020,ForHD65,Michelle Beckley,0,0,Texas,yes,0,0,0,1
+Wed Jan 15 03:37:26 +0000 2020,JayerWilliamson,Jayer Williamson,2,0,Florida,yes,0,0,0,1
+Thu Nov 26 21:59:24 +0000 2020,KarinDerry4Iowa,Former State Rep Karin Derry,1,0,Iowa,yes,0,0,0,1
+Wed Apr 16 23:18:23 +0000 2014,MarkoLiias,𝐌𝐚𝐫𝐤𝐨 𝐋𝐢𝐢𝐚𝐬 🏳️‍🌈,0,0,Washington,yes,0,0,0,1
+Thu May 16 01:23:51 +0000 2019,DLHoskins,"Senator Denny Hoskins, CPA",0,4,Missouri,yes,0,0,0,1
+Sun Oct 11 15:17:53 +0000 2020,AnnaForFlorida,Rep. Anna V. Eskamani 🔨,0,3,Florida,needed,0,0,0,1
+Sun Apr 30 16:56:39 +0000 2017,RepJerryHertaus,Rep. Jerry Hertaus,1,2,Minnesota,needed,1,1,1,1
+Tue Mar 31 19:32:40 +0000 2020,karlabigham,Sen. Karla Bigham,9,1,Minnesota,needed,0,0,0,1
+Fri May 29 02:34:07 +0000 2015,RepStanley,Tom Stanley,0,2,Massachusetts,needed,0,0,0,1
+Sat Jun 01 15:56:28 +0000 2019,KrizekForVA,Paul Krizek,2,0,Virginia,needed,0,0,0,1
+Thu Jul 23 00:54:01 +0000 2020,wardports,Gerald W.R. Ward,0,5,New_Hampshire,needed,0,0,0,1
+Fri Nov 20 22:20:23 +0000 2020,SenErikaGeiss,State Senator Erika Geiss (SD06),7,4,Michigan,needed,0,0,0,1
+Tue Jun 27 14:53:27 +0000 2017,zellnor,Zellnor Y. Myrie,4,2,New_York,needed,0,0,0,1
+Tue Apr 21 03:45:23 +0000 2020,rob_bryan,Rob Bryan,0,5,North_Carolina,needed,0,0,0,1
+Thu May 07 15:06:45 +0000 2020,shedop,Dollyne Sherman,0,6873,Indiana,needed,0,0,0,1
+Wed Jul 03 15:30:01 +0000 2019,CunninghamNCRep,Carla Cunningham,0,2,North_Carolina,advocates,0,0,0,1
+Wed Jan 23 21:09:37 +0000 2019,TimTKacena,Rep. Tim Kacena,6,0,Iowa,advocates,0,0,0,1
+Tue Nov 19 03:59:30 +0000 2019,Reuvencarlyle,Sen. Reuven Carlyle,6,0,Washington,advocates,0,0,0,1
+Thu Aug 29 02:42:26 +0000 2019,CnDelarosa,Carmen De La Rosa,20,5,New_York,advocates,0,0,0,1
+Mon Apr 10 15:48:55 +0000 2017,RepDuBois,Michelle DuBois,2,2,Massachusetts,advocates,0,0,0,1
+Tue Apr 10 11:42:19 +0000 2018,AndyManar,Andy Manar,10,3,Illinois,advocates,0,0,0,1
+Sat Feb 22 00:21:11 +0000 2020,RepCarlaCPiluso,Carla C. Piluso,3,0,Oregon,advocates,0,0,0,1
+Thu May 05 18:20:29 +0000 2016,valoupis,Vance Aloupis,0,4,Florida,advocates,0,0,0,1
+Mon Apr 02 23:40:45 +0000 2018,SenQuezada29,Sen. Martín Quezada,2,2,Arizona,advocates,0,0,0,1
+Wed May 29 19:24:31 +0000 2019,Michael_Cusick,Michael Cusick,7,0,New_York,advocates,0,0,0,1
+Wed Jan 01 23:10:35 +0000 2020,MariaChappelleN,MariaChappelleNadal🇵🇷,1,3,Missouri,comes,0,0,0,1
+Wed Dec 05 19:46:45 +0000 2018,SenNanOrrock,Nan Orrock,0,0,Georgia,comes,0,0,0,1
+Sun Oct 22 05:13:33 +0000 2017,wielechowski,Bill Wielechowski,10,2,Alaska,comes,0,0,0,1
+Fri Dec 15 01:22:40 +0000 2017,McCrostie4Idaho,John McCrostie,0,1,Idaho,comes,0,0,0,1
+Thu May 30 03:47:46 +0000 2019,ShemiaForOregon,Shemia Fagan for OR Secretary of State,0,591,Oregon,comes,0,0,0,1
+Wed Sep 02 17:36:35 +0000 2020,MickeyDollens,Rep. Mickey Dollens,508,86,Oklahoma,comes,0,0,0,1
+Tue May 16 13:31:05 +0000 2017,Jo_Comerford,Jo Comerford,0,14277,Massachusetts,comes,0,0,0,1
+Fri Apr 14 23:04:46 +0000 2017,cperone7,Rep. Chris Perone,16,9,Connecticut,comes,0,0,0,1
+Sat Apr 27 15:13:52 +0000 2019,JenLongdon,Rep. Jennifer Longdon,0,25,Arizona,comes,0,0,0,1
+Fri Oct 18 15:15:44 +0000 2019,MPowersNorrell,SC Rep Mandy Powers Norrell,0,3,South_Carolina,comes,0,0,0,1
+Tue Jul 28 19:47:24 +0000 2020,SheilaRuth,Sheila Ruth,9,5,Maryland,human,0,0,0,1
+Wed Mar 06 07:26:37 +0000 2019,laurafriedman43,Laura Friedman,7,2,California,human,0,0,0,1
+Sat Dec 05 00:30:13 +0000 2020,repkatehogan,Kate Hogan,0,42,Massachusetts,human,0,0,0,1
+Mon Oct 14 16:22:42 +0000 2019,LontineHD1,Susan Lontine,10,2,Colorado,human,0,0,0,1
+Sun Aug 31 12:42:16 +0000 2014,SheriGilligan,Sheri Gilligan,0,8,Georgia,human,0,0,0,1
+Sat Feb 03 06:10:10 +0000 2018,Pittman4HD99,Representative Ajay Pittman,0,807,Oklahoma,human,0,0,0,1
+Sun Jan 27 14:13:48 +0000 2019,RepDittrich,Rep. Barbara Dittrich,1,0,Wisconsin,human,0,0,0,1
+Fri Jan 18 17:36:03 +0000 2019,RepJoeWebster,Rep. Joe Webster,0,0,Pennsylvania,human,0,0,0,1
+Mon Nov 11 05:43:48 +0000 2019,dwayne_bohac,Dwayne Bohac,0,0,Texas,human,0,0,0,1
+Sat Feb 03 14:31:53 +0000 2018,inhisfields,David Ralston,0,72,Georgia,human,0,0,0,1
+Wed May 13 01:37:09 +0000 2020,votewarren,Warren Petersen,0,1,Arizona,say,0,0,0,1
+Mon Aug 10 17:01:31 +0000 2020,wardports,Gerald W.R. Ward,0,15504,New_Hampshire,say,0,0,0,1
+Wed Sep 16 17:00:45 +0000 2020,ddreyer,David Dreyer,18,3,Georgia,say,0,0,0,1
+Thu Mar 29 02:24:56 +0000 2018,shanemassey,Shane Massey,0,0,South_Carolina,say,0,0,0,1
+Sun May 01 15:47:24 +0000 2016,SoniaChangDiaz,Sonia Chang-Díaz,3,2,Massachusetts,say,0,0,0,1
+Wed Apr 12 16:09:03 +0000 2017,VinceMazzeo,Assemblyman Vince Mazzeo,0,5,New_Jersey,say,0,0,0,1
+Wed Apr 18 16:44:49 +0000 2018,FaithWinterCO,Sen. Faith Winter,0,37,Colorado,say,0,0,0,1
+Wed Apr 15 17:06:09 +0000 2020,SenatorCarlson,Sen. Jim Carlson,1,0,Minnesota,say,1,1,1,1
+Thu Aug 27 03:18:33 +0000 2020,LivingstonLD22,David Livingston,0,1138,Arizona,say,0,0,0,1
+Sat Nov 07 17:30:35 +0000 2020,biggib44,Thomas Giblin,0,0,New_Jersey,say,0,0,0,1
+Wed Nov 08 02:15:35 +0000 2017,ScottDibble,Scott Dibble,0,31870,Minnesota,take,0,0,0,1
+Thu Nov 23 03:50:00 +0000 2017,AsmRodriguez52,Freddie Rodriguez,5,0,California,take,0,0,0,1
+Fri Nov 01 22:58:47 +0000 2019,RuiXuKS,Rui Xu,19,0,Kansas,take,0,0,0,1
+Sat Dec 16 04:15:34 +0000 2017,RepStickland,Jonathan Stickland,2,0,Texas,take,0,0,0,1
+Tue Mar 17 18:13:52 +0000 2020,TonyVargas,Senator Tony Vargas,1,1,Nebraska,take,0,0,0,1
+Thu Jun 27 15:59:10 +0000 2019,LuisSepulvedaNY,Luis Sepúlveda,0,1851,New_York,take,0,0,0,1
+Thu Jan 17 21:23:22 +0000 2019,leslieherod,Leslie Herod,1,1,Colorado,take,0,0,0,1
+Fri Sep 04 19:46:48 +0000 2020,Sierra4AZ,Rep. Lorenzo Sierra,0,2,Arizona,take,0,0,0,1
+Mon Mar 30 00:07:53 +0000 2020,GraigMeyer,Rep. Graig Meyer,14,7,North_Carolina,take,0,0,0,1
+Tue May 01 00:16:43 +0000 2018,GlenforNevada,Glen Leavitt,0,4,Nevada,take,0,0,0,1
+Wed Oct 04 15:27:39 +0000 2017,Sam4District14,Sam J. Creekmore IV,2,0,Mississippi,hosting,0,0,0,1
+Mon Sep 02 20:58:24 +0000 2019,MarthaMugler,Delegate Martha Mugler,11,3,Virginia,hosting,0,0,0,1
+Fri Feb 07 16:42:18 +0000 2020,SenJasonLewis,Jason Lewis,4,1,Massachusetts,hosting,0,0,0,1
+Thu Sep 19 04:41:14 +0000 2019,JillHVogel,Jill Vogel,13,6,Virginia,hosting,0,0,0,1
+Wed Sep 02 18:18:41 +0000 2020,shedop,Dollyne Sherman,3,0,Indiana,hosting,0,0,0,1
+Fri Jan 27 00:34:25 +0000 2017,RepMJDaley,Mary Jo Daley,4,1,Pennsylvania,hosting,0,0,0,1
+Thu Aug 23 02:43:03 +0000 2018,RepStanLambert,Stan Lambert,10,0,Texas,hosting,0,0,0,1
+Fri Dec 07 19:29:24 +0000 2018,MatsonForHouse,State Rep Heather Matson,7,0,Iowa,hosting,0,0,0,1
+Fri May 27 15:28:06 +0000 2016,DianaDiZoglio,Diana DiZoglio,5,2,Massachusetts,hosting,0,0,0,1
+Thu Jun 27 01:48:03 +0000 2019,donderoloopnv,Senator Marilyn Dondero Loop,0,0,Nevada,hosting,0,0,0,1
+Fri Aug 07 12:16:46 +0000 2020,MatMuratore,Mathew Muratore,3,0,Massachusetts,august,0,0,0,1
+Wed Jul 08 02:02:57 +0000 2020,PaulaBrown2018,Committee to Elect Paula Brown,0,4,Missouri,august,0,0,0,1
+Fri Aug 14 13:11:29 +0000 2020,BrettParker4KS,Brett Parker,0,3,Kansas,august,0,0,0,1
+Thu Apr 02 16:18:23 +0000 2020,RepMyers,Rep. Lakeshia Myers,0,4,Wisconsin,august,0,0,0,1
+Wed Jul 01 19:52:59 +0000 2020,JacksonforNC,Darren Jackson,5,0,North_Carolina,august,0,0,0,1
+Thu Sep 24 00:24:24 +0000 2020,Willcsmithjr,Senator Will Smith (District 20),0,7614,Maryland,august,0,0,0,1
+Tue Aug 25 12:44:58 +0000 2020,LindaStewartFL,Linda Stewart,1,1,Florida,august,0,0,0,1
+Sat Aug 15 05:26:21 +0000 2020,RepTarver,Rep. Tarver II,0,1919,Illinois,august,0,0,0,1
+Mon Aug 17 02:17:50 +0000 2020,senatorjen,Jen Jordan,100,36,Georgia,august,0,0,0,1
+Sat Aug 08 00:53:38 +0000 2020,RepPatBoyd,Pat Boyd,0,1,Connecticut,august,0,0,0,1
+Sat Aug 22 17:54:18 +0000 2020,RepJoeWebster,Rep. Joe Webster,2,0,Pennsylvania,contact,0,0,0,1
+Tue Oct 08 22:35:13 +0000 2019,AdamGrayCA,Assemblymember Gray,2,0,California,contact,0,0,0,1
+Tue Oct 09 22:15:39 +0000 2018,KansenChu,Kansen Chu,2,3,California,contact,0,0,0,1
+Fri Nov 15 22:22:00 +0000 2019,rebekahwarren,Rebekah Warren,3,1,Michigan,contact,1,1,1,1
+Mon Mar 09 20:27:03 +0000 2020,RepRabb,Rep. Chris Rabb,0,77,Pennsylvania,contact,0,0,0,1
+Fri Oct 02 12:31:43 +0000 2020,repkatehogan,Kate Hogan,0,7,Massachusetts,contact,0,0,0,1
+Fri Jul 27 20:35:04 +0000 2018,rebekahwarren,Rebekah Warren,4,2,Michigan,contact,0,0,0,1
+Wed Mar 20 11:32:04 +0000 2019,RepKateKlunk,Rep. Kate Klunk,0,1,Pennsylvania,contact,0,0,0,1
+Tue Aug 22 00:32:55 +0000 2017,tjsnh,Timothy Smith,0,31243,New_Hampshire,contact,0,0,0,1
+Tue Jan 26 22:52:29 +0000 2021,karlabigham,Sen. Karla Bigham,0,48,Minnesota,contact,0,0,0,1
+Wed Oct 16 00:51:27 +0000 2019,LaborPrez,mark king,0,287,New_Hampshire,pharmaceutical,0,0,0,1
+Wed May 30 21:44:18 +0000 2018,PBaumbachDE,Paul S Baumbach,0,61708,Delaware,pharmaceutical,0,0,0,1
+Thu Sep 26 22:55:52 +0000 2019,HCantrellMN,Hunter Cantrell,0,1,Minnesota,pharmaceutical,0,0,0,1
+Sun Sep 22 23:15:19 +0000 2019,DrPanMD,Dr. Richard Pan,0,10,California,pharmaceutical,0,0,0,1
+Fri Mar 20 19:00:00 +0000 2020,SenatorMensch,Senator Bob Mensch,0,0,Pennsylvania,pharmaceutical,0,0,0,1
+Thu Sep 12 15:25:33 +0000 2019,Renee_Unterman,Renee Unterman,13,6,Georgia,pharmaceutical,0,0,0,1
+Sun May 03 20:42:07 +0000 2020,EatonSenator,Senator Chris Eaton,0,11,Minnesota,pharmaceutical,0,0,0,1
+Tue Jul 07 00:37:08 +0000 2020,SaraGideon,Sara Gideon,596,176,Maine,pharmaceutical,0,0,0,1
+Fri Mar 20 14:24:54 +0000 2020,MarjorieDecker,Marjorie Decker,13,4,Massachusetts,pharmaceutical,0,0,0,1
+Tue Sep 01 17:22:34 +0000 2020,CindyFriedmanMA,Cindy Friedman,0,9,Massachusetts,pharmaceutical,0,0,0,1
+Thu Jan 14 01:05:25 +0000 2021,AsmCottie,Assemblywoman Cottie Petrie-Norris,9,2,California,#vaccine,1,1,1,1
+Mon Dec 14 20:42:46 +0000 2020,Dalessandro4AZ,Representative-Elect & Senator Andrea Dalessandro,0,16,Arizona,#vaccine,1,1,1,1
+Fri Jan 15 20:10:41 +0000 2021,RKarabinchak,Asm. Rob Karabinchak,0,4,New_Jersey,#vaccine,1,1,1,1
+Thu Dec 24 15:27:52 +0000 2020,Cohen4AD29,Lesley Cohen,0,4,Nevada,#vaccine,1,1,1,1
+Tue Dec 22 16:59:41 +0000 2020,RichforRepLD29,Rich Andrade,0,16,Arizona,#vaccine,1,1,1,1
+Tue Jan 05 22:11:43 +0000 2021,JRClemmons,John Ray Clemmons,45,27,Tennessee,#vaccine,1,1,1,1
+Sat Jan 09 18:15:07 +0000 2021,SenLisaBoscola,Senator Lisa Boscola,2,5,Pennsylvania,#vaccine,1,1,1,1
+Wed Jan 13 20:59:42 +0000 2021,mciccolo,Rep. Michelle Ciccolo,2,2,Massachusetts,#vaccine,1,1,1,1
+Thu Feb 04 21:52:18 +0000 2021,MindyForMA,Mindy Domb,2,0,Massachusetts,#vaccine,1,1,1,1
+Thu Sep 05 17:52:35 +0000 2019,DrPanMD,Dr. Richard Pan,0,10,California,#vaccine,1,1,1,1
+Mon Jun 24 01:35:46 +0000 2019,DrPanMD,Dr. Richard Pan,14,6,California,anti-vax,1,1,1,1
+Tue Dec 22 16:33:06 +0000 2020,DrPanMD,Dr. Richard Pan 🇺🇸,0,0,California,anti-vax,1,1,1,1
+Sat Sep 21 13:50:50 +0000 2019,GregReed21234,Greg Reed,0,580,Alabama,anti-vax,1,1,1,1
+Wed Jun 12 23:42:27 +0000 2019,ChrisHurstVA,Delegate Chris Hurst,54,4,Virginia,anti-vax,1,1,1,1
+Sat Jun 15 18:13:11 +0000 2019,JamesGrantFL,James Grant,14,5,Florida,anti-vax,1,1,1,1
+Tue Feb 12 21:16:22 +0000 2019,derekkitchen,Senator Derek Kitchen,0,412,Utah,anti-vax,1,1,1,1
+Sun Jan 10 05:13:35 +0000 2021,DrPanMD,Dr. Richard Pan 🇺🇸,14,2,California,anti-vax,1,1,1,1
+Sun Dec 08 19:52:23 +0000 2019,DrPanMD,Dr. Richard Pan,63,12,California,anti-vax,1,1,1,1
+Sun Jun 28 15:49:10 +0000 2020,DrPanMD,Dr. Richard Pan,50,15,California,anti-vax,1,1,1,1
+Sun Dec 08 02:18:30 +0000 2019,DrPanMD,Dr. Richard Pan,0,70,California,anti-vax,1,1,1,1
+Wed Jul 08 20:39:14 +0000 2020,RafaelAnchia,Rafael Anchía,4,1,Texas,anti-vaxxer,1,1,1,1
+Fri Jan 26 00:21:38 +0000 2018,SarahforHD134,Sarah Davis,3,0,Texas,anti-vaxxer,1,1,1,1
+Wed Jan 16 20:50:53 +0000 2019,RepFreiberg,Mike Freiberg,0,815,Minnesota,anti-vaxxer,1,1,1,1
+Thu Sep 24 13:33:15 +0000 2020,GeneforTexas,Gene Wu,24,4,Texas,anti-vaxxer,1,1,1,1
+Thu Oct 15 15:05:02 +0000 2020,ForrestBennett,Forrest Bennett,192,40,Oklahoma,anti-vaxxer,1,1,1,1
+Sat Jun 16 03:51:25 +0000 2018,RepFreiberg,Mike Freiberg,0,2,Minnesota,anti-vaxxer,1,1,1,1
+Sun Jul 05 18:33:57 +0000 2020,JamesSkoufis,James Skoufis,30,6,New_York,anti-vaxxer,1,1,1,1
+Sun Jan 31 21:15:34 +0000 2021,DrPanMD,Dr. Richard Pan 🇺🇸,59,19,California,anti-vaxxer,1,1,1,1
+Sat Dec 21 20:25:45 +0000 2019,DrPanMD,Dr. Richard Pan,207,33,California,anti-vaxxer,1,1,1,1
+Fri Oct 02 04:02:14 +0000 2020,DrPanMD,Dr. Richard Pan,8,1,California,anti-vaxxer,1,1,1,1
+Sun Nov 10 16:22:22 +0000 2019,jillpcarter,State Senator Jill P. Carter,0,33,Maryland,blood,0,0,0,1
+Sat Jul 25 16:13:00 +0000 2020,SenatorLaura,Laura Murphy,0,0,Illinois,blood,0,0,0,1
+Wed Aug 19 12:01:14 +0000 2020,hinsonashley,Ashley Hinson,33,12,Iowa,blood,0,0,0,1
+Tue Sep 24 13:49:46 +0000 2019,AnaHdzTx,Ana Hernandez,6,1,Texas,blood,0,0,0,1
+Wed Mar 25 21:20:50 +0000 2020,AsmGrayson,Tim Grayson,2,0,California,blood,0,0,0,1
+Mon Apr 20 19:28:47 +0000 2020,raghibct,Raghib Allie-Brennan,2,1,Connecticut,blood,0,0,0,1
+Tue Sep 09 03:02:42 +0000 2014,GreggAmore1,Gregg Amore,1,0,Rhode_Island,blood,0,0,0,1
+Sat May 04 15:39:35 +0000 2019,SenatorBrewster,Senator Jim Brewster,1,0,Pennsylvania,blood,0,0,0,1
+Wed Mar 18 14:55:54 +0000 2015,MikeMcrider700,Mike Crider,0,1,Indiana,blood,0,0,0,1
+Thu Oct 01 19:12:24 +0000 2020,SonyaAndersonMO,Sonya Anderson,0,3,Missouri,blood,0,0,0,1
+Sat Oct 14 10:20:59 +0000 2017,repkatehogan,Kate Hogan,0,45,Massachusetts,without,0,0,0,1
+Mon Oct 12 01:40:44 +0000 2020,RepGalonski,Rep. Tavia Galonski,0,56956,Ohio,without,0,0,0,1
+Thu Jan 07 01:12:03 +0000 2021,yuhline,Yuh-Line Niou,25,1,New_York,without,0,0,0,1
+Thu Sep 03 21:43:52 +0000 2020,AsmCarrillo,Wendy Carrillo,0,5,California,without,0,0,0,1
+Mon Aug 12 13:36:14 +0000 2019,RepDaveWilliams,Rep. Dave Williams,0,258,Colorado,without,0,0,0,1
+Fri Nov 15 20:50:48 +0000 2013,RepAndyJ,Andy Josephson,0,3,Alaska,without,0,0,0,1
+Sat Dec 31 22:26:19 +0000 2016,JPMarzullo,JP Marzullo,0,27,New_Hampshire,without,0,0,0,1
+Sun Dec 20 20:54:54 +0000 2020,DeborahJGlick,(((Deborah Glick))),0,6368,New_York,without,0,0,0,1
+Sun Aug 04 15:41:18 +0000 2019,SteveYeagerNV,Steve Yeager,11,0,Nevada,without,0,0,0,1
+Sat Aug 26 20:12:53 +0000 2017,MarcLevine,Marc Levine,2,2,California,without,0,0,0,1
+Tue Dec 08 02:35:11 +0000 2020,JoseJavierJJR,Sen. José Javier Rodríguez,59,16,Florida,data,0,0,0,1
+Thu Oct 15 17:38:39 +0000 2020,shedop,Dollyne Sherman,1,0,Indiana,data,0,0,0,1
+Sat Sep 26 20:35:44 +0000 2020,BrianTurnerNC,Brian Turner,0,29,North_Carolina,data,0,0,0,1
+Fri Apr 17 18:40:04 +0000 2020,WalterTMosley,Walter T. Mosley #WeStillCantBreathe,2,0,New_York,data,0,0,0,1
+Thu May 02 20:14:33 +0000 2019,MelanieforNM,Melanie Stansbury,12,0,New_Mexico,data,0,0,0,1
+Wed Mar 25 20:51:44 +0000 2020,MPowersNorrell,SC Rep Mandy Powers Norrell,0,6,South_Carolina,data,0,0,0,1
+Thu Oct 01 11:29:47 +0000 2020,MikeConnollyMA,Mike Connolly,36,15,Massachusetts,data,0,0,0,1
+Fri Apr 13 15:31:10 +0000 2018,MarkColeVA,Del. Mark Cole,0,4,Virginia,data,0,0,0,1
+Sat Jul 11 20:38:34 +0000 2020,RobinComey,Robin Comey,0,190,Connecticut,data,0,0,0,1
+Mon Oct 26 03:37:42 +0000 2020,TinaForKentucky,Tina Bojanowski,0,11,Kentucky,data,0,0,0,1
+Fri Oct 02 13:17:25 +0000 2020,RafaelAnchia,Rafael Anchía,0,536,Texas,#flu,1,1,1,1
+Tue Dec 04 20:14:20 +0000 2018,NicoleCollier95,Nicole Collier,3,0,Texas,#flu,1,1,1,1
+Mon Feb 12 19:10:24 +0000 2018,BryanTownsendDE,Sen. Bryan Townsend,0,4,Delaware,#flu,0,0,0,1
+Tue Nov 19 21:23:33 +0000 2019,ForHD65,Michelle Beckley,2,0,Texas,#flu,1,1,1,1
+Wed Oct 14 21:19:58 +0000 2020,RafaelAnchia,Rafael Anchía,0,457,Texas,#flu,1,1,1,1
+Fri Sep 04 17:22:59 +0000 2020,AngieChenButton,Angie Chen Button,1,0,Texas,#flu,1,1,1,1
+Tue Sep 26 15:25:41 +0000 2017,SenTomlinson,Tommy Tomlinson,0,9,Pennsylvania,#flu,1,1,1,1
+Thu Dec 03 17:21:23 +0000 2020,senatorduff,"Bob Duff, Senate Majority Leader, CT",0,3,Connecticut,#flu,1,1,1,1
+Thu Oct 17 17:59:26 +0000 2013,StirpeAl,"Al Stirpe, Assembly",0,0,New_York,#flu,1,1,1,1
+Thu Mar 26 16:01:50 +0000 2020,DrPanMD,Dr. Richard Pan,0,219,California,test,0,0,0,1
+Fri Feb 16 15:27:32 +0000 2018,Mel_Ponder,Mel Ponder,0,353,Florida,test,0,0,0,1
+Tue Jul 28 14:37:08 +0000 2020,RepMattKrause,Matt Krause,4,0,Texas,test,0,0,0,1
+Sun Dec 04 06:15:46 +0000 2016,vfong,Vince Fong,0,900,California,test,0,0,0,1
+Wed May 01 21:08:28 +0000 2019,kimwilliamsde,Rep. Kim Williams DE,1,0,Delaware,test,0,0,0,1
+Tue Jul 21 19:27:40 +0000 2020,SenatorRobHogg,Rob Hogg,1,1,Iowa,test,0,0,0,1
+Sun May 10 00:27:27 +0000 2020,JuliaCarmel__,Julia Salazar,14,1,New_York,test,0,0,0,1
+Tue Sep 22 02:24:03 +0000 2020,EatonSenator,Senator Chris Eaton,0,8,Minnesota,test,0,0,0,1
+Sat Mar 14 18:24:37 +0000 2020,leachfortexas,Jeff Leach,20,4,Texas,test,0,0,0,1
+Sat Jul 25 00:34:47 +0000 2020,SteveBradford,Steven Bradford,12,2,California,test,0,0,0,1
+Fri Jul 13 18:33:53 +0000 2018,gregrazer,Greg Razer,5,1,Missouri,theyre,0,0,0,1
+Wed Feb 26 03:17:29 +0000 2020,NikaElugardo,Nika Elugardo,0,1734,Massachusetts,theyre,0,0,0,1
+Sat Sep 12 00:14:36 +0000 2020,VoteGloriaJ,Gloria Johnson,28,11,Tennessee,theyre,0,0,0,1
+Thu Feb 20 04:00:15 +0000 2020,SummerForPA,Summer Lee,21,3,Pennsylvania,theyre,0,0,0,1
+Thu Aug 22 02:12:19 +0000 2013,matthewmaddock,Matt Maddock,0,0,Michigan,theyre,0,0,0,1
+Tue Oct 22 14:46:58 +0000 2019,LizLinehanforCT,Liz Linehan,0,0,Connecticut,theyre,0,0,0,1
+Fri Dec 25 14:02:18 +0000 2009,TylerAugust,Tyler August,0,0,Wisconsin,theyre,0,0,0,1
+Wed Jan 17 19:48:27 +0000 2018,mjzalewski,Michael J. Zalewski,2,0,Illinois,theyre,0,0,0,1
+Sat Feb 23 17:22:57 +0000 2019,SummerForPA,Summer Lee,0,0,Pennsylvania,theyre,0,0,0,1
+Fri Aug 21 15:04:35 +0000 2020,sueford06,Susan Ford,0,661,New_Hampshire,theyre,0,0,0,1
+Wed Jul 22 15:47:40 +0000 2020,AnnaForFlorida,Rep. Anna V. Eskamani 🔨,6,0,Florida,can,0,0,0,1
+Tue Aug 22 13:18:44 +0000 2017,AndradeRep40,"Jaime M Andrade, Jr.",0,1,Illinois,can,0,0,0,1
+Sat Apr 04 21:47:43 +0000 2020,GatesLucasNH,Gates Lucas,0,1,New_Hampshire,can,0,0,0,1
+Thu May 09 13:25:55 +0000 2019,RepAngelaRomero,Angela Romero,0,5,Utah,can,0,0,0,1
+Sun Oct 20 14:38:16 +0000 2019,kristypagan,Kristy Pagan,1,0,Michigan,can,0,0,0,1
+Wed Jan 08 20:14:48 +0000 2020,senatorblood,Senator Carol Blood,1,0,Nebraska,can,0,0,0,1
+Wed Jun 19 11:38:21 +0000 2019,BRachelson,Barbara Rachelson,0,1,Vermont,can,0,0,0,1
+Tue Aug 18 15:13:14 +0000 2020,teresa_fedor,State Senator Teresa Fedor,0,6,Ohio,can,0,0,0,1
+Fri Oct 13 20:10:41 +0000 2017,MarieWaldron75,Marie Waldron,2,2,California,can,0,0,0,1
+Sat Feb 16 00:19:57 +0000 2019,lizthomsonnm,Liz Thomson,0,34,New_Mexico,can,0,0,0,1
+Fri Oct 18 01:09:13 +0000 2019,ilike_mike,Mike McGuire,19,5,California,million,0,0,0,1
+Tue Jul 21 15:59:36 +0000 2020,1willbond,Will Bond,0,11,Arkansas,million,0,0,0,1
+Mon Jan 25 21:54:02 +0000 2021,Dlesgar,Daneya Esgar,67,7,Colorado,million,0,0,0,1
+Sat Nov 21 14:58:59 +0000 2020,JimHendren1,Jim Hendren,0,5,Arkansas,million,0,0,0,1
+Mon Mar 30 19:47:59 +0000 2020,DiegoBernalTX,Diego Bernal,0,237,Texas,million,0,0,0,1
+Sun Jan 27 21:52:06 +0000 2013,MarkObenshain,Mark Obenshain,0,4,Virginia,million,0,0,0,1
+Thu Apr 06 23:59:40 +0000 2017,willsforiowa,Wills for Iowa,0,5,Iowa,million,0,0,0,1
+Wed Aug 26 05:26:36 +0000 2020,JonBramnick,Jon Bramnick,263,77,New_Jersey,million,0,0,0,1
+Sat Jan 02 23:26:05 +0000 2021,NebraskaMegan,Senator Megan Hunt 😷,0,349,Nebraska,million,0,0,0,1
+Mon Feb 10 14:00:53 +0000 2020,mwilsonGA,Matthew Wilson,20,3,Georgia,million,0,0,0,1
+Wed Oct 10 15:26:25 +0000 2018,RyanFattman,Ryan Fattman,0,8,Massachusetts,stop,0,0,0,1
+Tue Nov 13 06:23:57 +0000 2018,Juanita_Brent,Juanita Brent,1,0,Ohio,stop,0,0,0,1
+Tue Sep 24 03:47:03 +0000 2019,CASenatorJim,Senator Jim Nielsen,0,7,California,stop,0,0,0,1
+Sat Apr 04 03:39:16 +0000 2020,declanoscanlon,Declan O'Scanlon,0,0,New_Jersey,stop,0,0,0,1
+Sat Aug 22 16:45:46 +0000 2020,SeanMRyan149,Assemblyman Sean Ryan,2,0,New_York,stop,0,0,0,1
+Sat Aug 22 19:35:49 +0000 2020,LivingstonLD22,David Livingston,0,951,Arizona,stop,0,0,0,1
+Sat Feb 17 10:59:39 +0000 2018,JayDReedy,State Rep. Jay Dean Reedy,0,7,Tennessee,stop,0,0,0,1
+Fri May 01 17:56:12 +0000 2020,DanFeltesNH,Dan Feltes,31,17,New_Hampshire,stop,0,0,0,1
+Fri Jan 24 21:48:31 +0000 2020,bradhoylman,Senator Brad Hoylman,5,1,New_York,stop,0,0,0,1
+Sat Aug 19 16:37:38 +0000 2017,EllenBSpiegel,Ellen Spiegel,49,15,Nevada,stop,0,0,0,1
+Thu Apr 16 01:51:49 +0000 2020,riggs4missouri,Riggs For Missouri,0,41,Missouri,distancing,0,0,0,1
+Sat Mar 28 00:59:28 +0000 2020,drarambulaAD31,Dr. Joaquin Arambula,0,16,California,distancing,0,0,0,1
+Tue Aug 04 14:33:46 +0000 2020,SenDanFeyen,Sen. Dan Feyen,0,12,Wisconsin,distancing,0,0,0,1
+Tue Oct 06 21:41:15 +0000 2020,SenHannahBeth,Hannah-Beth Jackson,7,2,California,distancing,0,0,0,1
+Mon Apr 20 17:30:56 +0000 2020,BrettParker4KS,Brett Parker,0,2545,Kansas,distancing,0,0,0,1
+Sat Mar 21 16:27:38 +0000 2020,VictoriaLSteele,Victoria Steele,0,1,Arizona,distancing,0,0,0,1
+Mon Apr 13 19:09:16 +0000 2020,EmilyRandallWA,Emily Randall,0,0,Washington,distancing,0,0,0,1
+Wed Apr 15 17:12:24 +0000 2020,DavidBuchwald,David Buchwald,9,1,New_York,distancing,0,0,0,1
+Fri Sep 04 17:22:49 +0000 2020,WillABarclay,Will Barclay,0,0,New_York,distancing,0,0,0,1
+Sun Mar 29 16:20:01 +0000 2020,martincarbaugh,Martin Carbaugh,0,498,Indiana,distancing,0,0,0,1
+Mon Feb 18 13:11:44 +0000 2019,Nick_Mosby,Nick J. Mosby,0,3,Maryland,policy,0,0,0,1
+Mon Aug 28 10:49:42 +0000 2017,JOELLE4milford,JOELLE Martin,0,4,New_Hampshire,policy,0,0,0,1
+Wed Apr 27 15:05:49 +0000 2016,FourPriceTX,Four Price,12,2,Texas,policy,0,0,0,1
+Fri Mar 22 14:16:58 +0000 2019,RepEdThompson,Ed Thompson,7,2,Texas,policy,0,0,0,1
+Fri Apr 14 00:46:17 +0000 2017,KarenMayneUT5,Karen Mayne,0,4,Utah,policy,0,0,0,1
+Sun Oct 11 12:00:03 +0000 2015,Sueserino4ny,Sue Serino,0,0,New_York,policy,0,0,0,1
+Tue Jun 09 03:46:18 +0000 2020,TomLackey36,Assemblyman Lackey,16,4,California,policy,0,0,0,1
+Thu Apr 05 22:06:25 +0000 2018,D7_Tim_Reed,Rep. Tim Reed,4,0,South_Dakota,policy,0,0,0,1
+Wed Sep 25 18:48:50 +0000 2019,Boyd4OH_D9,Janine Boyd,0,9,Ohio,policy,0,0,0,1
+Sat Nov 09 21:44:37 +0000 2019,NikaElugardo,Nika Elugardo,0,5,Massachusetts,policy,0,0,0,1
+Mon Jan 25 01:35:01 +0000 2021,DanHowell10,Dan,0,21999,Tennessee,call,0,0,0,1
+Wed Apr 22 16:13:22 +0000 2020,StaedArt,State Rep Art Staed,0,2,Iowa,call,0,0,0,1
+Mon Nov 23 20:11:06 +0000 2020,WendyENThomas,Hon. Wendy E.N Thomas,1,0,New_Hampshire,call,0,0,0,1
+Thu Oct 01 00:59:09 +0000 2015,corymccray,Cory McCray,0,2,Maryland,call,0,0,0,1
+Thu Apr 09 15:58:59 +0000 2020,RepJoeMarino,Joe Marino III,3,2,Louisiana,call,0,0,0,1
+Wed Jul 15 15:47:18 +0000 2020,Morrison4MN,Kelly Morrison,0,18,Minnesota,call,0,0,0,1
+Tue Mar 17 21:33:46 +0000 2020,EddieforTexas,Rep. Eddie Rodriguez,0,124,Texas,call,0,0,0,1
+Fri Dec 28 14:46:14 +0000 2018,travisfitzwater,Travis Fitzwater 🇺🇸,5,1,Missouri,call,0,0,0,1
+Fri Jun 26 19:07:44 +0000 2020,YvannaCancela,Yvanna Cancela,0,39,Nevada,call,0,0,0,1
+Mon Feb 20 15:22:43 +0000 2017,KarleeMacer,Karlee Macer,0,7,Indiana,call,0,0,0,1
+Thu Aug 27 03:13:13 +0000 2020,JustinBamberg,"Justin Bamberg, Esq.",20,7,South_Carolina,part,0,0,0,1
+Wed May 24 02:52:17 +0000 2017,MaryBentley73,Mary Bentley,4,0,Arkansas,part,0,0,0,1
+Thu Jul 16 13:02:44 +0000 2020,LianaCassar,Representative Liana Cassar,0,30,Rhode_Island,part,0,0,0,1
+Wed Jan 08 00:33:14 +0000 2020,RepMcClinton,Joanna McClinton,0,2,Pennsylvania,part,0,0,0,1
+Thu Apr 16 00:22:50 +0000 2020,ricktillisTN,Rick Tillis,0,0,Tennessee,part,0,0,0,1
+Sun Apr 19 13:17:42 +0000 2020,TommyVitolo,Tommy Vitolo,2,0,Massachusetts,part,0,0,0,1
+Tue Aug 18 17:42:28 +0000 2020,SenJasonLewis,Jason Lewis,2,0,Massachusetts,part,0,0,0,1
+Tue Jan 12 03:53:13 +0000 2021,AChaparro33,Assemblywoman Chaparro,0,7,New_Jersey,part,0,0,0,1
+Thu Dec 02 11:28:39 +0000 2010,RichardNStark,Richard Stark,0,0,Florida,part,0,0,0,1
+Thu Nov 12 20:29:42 +0000 2020,MariManoogian,Mari Manoogian,0,6,Michigan,part,0,0,0,1
+Tue Apr 16 21:40:21 +0000 2019,JoseJavierJJR,José Javier Rodríguez,0,5,Florida,rates,0,0,0,1
+Sun Apr 26 14:18:57 +0000 2020,DarshunKendrick,Dar'shun Kendrick,1,0,Georgia,rates,0,0,0,1
+Sat May 11 13:04:26 +0000 2013,KevinPriola,Kevin Priola 🇺🇸,0,8,Colorado,rates,0,0,0,1
+Mon Nov 25 12:44:29 +0000 2019,colinschmitt,Colin Schmitt,0,1,New_York,rates,0,0,0,1
+Mon Aug 26 21:31:14 +0000 2019,Adamant4Detroit,Senator Adam Hollier,0,2,Michigan,rates,0,0,0,1
+Fri Nov 29 03:35:12 +0000 2019,juliebrixie,Julie Brixie,0,2315,Michigan,rates,0,0,0,1
+Fri Mar 20 14:53:18 +0000 2020,debbie_mayfield,Debbie Mayfield,0,0,Florida,rates,0,0,0,1
+Tue Jan 24 20:22:14 +0000 2017,FrankBigelowCA,Frank Bigelow,0,13,California,rates,0,0,0,1
+Fri Jul 19 22:54:56 +0000 2013,JasonFischerFL,Rep. Jason Fischer,0,0,Florida,rates,0,0,0,1
+Sat Mar 03 03:16:45 +0000 2018,RepDavidCook,David Cook,4,1,Arizona,rates,0,0,0,1
+Mon Nov 02 01:16:00 +0000 2020,DrPanMD,Dr. Richard Pan 🇺🇸,3,0,California,@cmadocs,0,0,0,1
+Thu Jun 25 19:42:45 +0000 2020,DrPanMD,Dr. Richard Pan,0,9,California,@cmadocs,0,0,0,1
+Sun Apr 21 04:15:14 +0000 2019,DrPanMD,Dr. Richard Pan,9,2,California,@cmadocs,1,1,1,1
+Wed May 22 19:26:13 +0000 2019,LorenaAD80,Lorena Gonzalez,0,21,California,@cmadocs,1,1,1,1
+Tue Nov 19 19:04:12 +0000 2019,Scott_Wiener,Senator Scott Wiener,48,14,California,@cmadocs,0,0,0,1
+Thu Jul 25 22:19:14 +0000 2019,DrPanMD,Dr. Richard Pan,0,26,California,@cmadocs,1,1,1,1
+Wed Apr 24 19:17:16 +0000 2019,SenatorUmberg,Senator Tom Umberg,0,7,California,@cmadocs,0,0,0,1
+Wed Jun 10 18:17:03 +0000 2020,SusanEggman,Susan Eggman,0,1,California,@cmadocs,0,0,0,1
+Mon Jan 11 19:11:10 +0000 2021,AsmAguiarCurry,Cecilia Aguiar-Curry,7,3,California,@cmadocs,0,0,0,1
+Mon Mar 23 13:02:33 +0000 2020,DrPanMD,Dr. Richard Pan,93,44,California,@cmadocs,1,1,1,1
+Sun Mar 22 18:20:38 +0000 2020,FarmerForFLSen,Senator Gary Farmer,0,165,Florida,thats,0,0,0,1
+Tue Jun 06 21:11:07 +0000 2017,ChrisSprowls,Chris Sprowls,16,7,Florida,thats,0,0,0,1
+Tue Aug 25 22:26:00 +0000 2020,JennMcClellanVA,Jennifer McClellan,0,12,Virginia,thats,0,0,0,1
+Fri Apr 24 22:46:03 +0000 2020,jasonrapert,Jason Rapert,18,1,Arkansas,thats,0,0,0,1
+Thu Mar 12 02:42:04 +0000 2020,snordgren23,Sharon Nordgren,0,3898,New_Hampshire,thats,0,0,0,1
+Mon Mar 16 22:04:47 +0000 2020,hockeyref33,Chris Millea,1,0,Rhode_Island,thats,0,0,0,1
+Thu Oct 17 13:57:23 +0000 2019,mannyfornh,Rep. Manny Espitia,0,584,New_Hampshire,thats,0,0,0,1
+Thu Sep 08 04:39:43 +0000 2016,RepDanMiller,RepDanMiller,0,0,Pennsylvania,thats,0,0,0,1
+Thu Jul 30 13:02:36 +0000 2009,HeathClarkGA,Heath Clark,0,0,Georgia,thats,0,0,0,1
+Sat Jan 16 18:20:36 +0000 2021,TerryCanales40,Terry Canales,0,0,Texas,thats,0,0,0,1
+Wed Mar 14 18:28:21 +0000 2018,cindycreem,Cynthia Creem,7,2,Massachusetts,activists,0,0,0,1
+Tue Jul 31 18:07:24 +0000 2018,JCarrollFoy,Jennifer Carroll Foy,26,3,Virginia,activists,0,0,0,1
+Wed May 09 21:46:12 +0000 2018,Juanita_Brent,Juanita Brent,0,4,Ohio,activists,0,0,0,1
+Mon Mar 02 21:53:46 +0000 2020,GregLeding,Greg Leding,25,2,Arkansas,activists,0,0,0,1
+Mon Dec 28 14:29:34 +0000 2020,electjacklewis,Jack Patrick Lewis,0,0,Massachusetts,activists,0,0,0,1
+Tue Mar 03 22:04:22 +0000 2020,CharleneforAZ,Charlene Fernandez,71,35,Arizona,activists,0,0,0,1
+Thu Aug 22 16:26:57 +0000 2019,DrPanMD,Dr. Richard Pan,0,11,California,activists,1,1,1,1
+Sat Aug 10 20:21:52 +0000 2019,SusanEggman,Susan Eggman,0,360,California,activists,0,0,0,1
+Thu May 01 09:25:48 +0000 2014,WernerHorn2,Werner Horn,0,6,New_Hampshire,activists,0,0,0,1
+Tue Jul 02 23:15:54 +0000 2019,RepDuBois,Michelle DuBois,0,1960,Massachusetts,activists,0,0,0,1
+Fri Aug 28 18:40:00 +0000 2020,WillABarclay,Will Barclay,2,1,New_York,potential,0,0,0,1
+Tue Jan 26 01:33:20 +0000 2021,DickSaslaw,Senator Dick Saslaw,2,0,Virginia,potential,0,0,0,1
+Wed Jun 19 16:50:04 +0000 2019,BoshartDavisAg,Shelly Boshart Davis,0,21,Oregon,potential,0,0,0,1
+Fri Dec 18 17:24:29 +0000 2020,rhhackett,Robert Hackett,0,0,Ohio,potential,0,0,0,1
+Thu Feb 20 13:39:14 +0000 2020,MMohammedNC,Sen. Mujtaba Mohammed,0,146,North_Carolina,potential,0,0,0,1
+Thu Apr 05 23:59:09 +0000 2018,DanBlueNC,Dan Blue,11,1,North_Carolina,potential,0,0,0,1
+Thu Nov 12 17:54:45 +0000 2020,SenatorAument,Sen. Ryan P. Aument,0,1,Pennsylvania,potential,0,0,0,1
+Fri Aug 21 22:36:28 +0000 2020,WendyENThomas,Wendy E.N Thomas NH State Rep,0,5,New_Hampshire,potential,0,0,0,1
+Mon Oct 12 08:19:33 +0000 2020,ElectSamSearcy,Senator Sam Searcy,13,5,North_Carolina,potential,0,0,0,1
+Wed May 22 22:36:12 +0000 2019,KrisSchultzNH,St Rep Kris Schultz,1,0,New_Hampshire,potential,0,0,0,1
+Thu Apr 09 22:51:59 +0000 2020,RepLamar,Rep. London Lamar,0,59,Tennessee,#coronavirus,0,0,0,1
+Wed Sep 23 14:20:00 +0000 2020,MindyForMA,Mindy Domb,0,1,Massachusetts,#coronavirus,0,0,0,1
+Tue May 05 23:36:07 +0000 2020,P2Hannley,Pam Powers Hannley,1,2,Arizona,#coronavirus,0,0,0,1
+Tue May 12 20:17:21 +0000 2020,RepJanel,Rep. Janel Brandtjen,0,67,Wisconsin,#coronavirus,0,0,0,1
+Mon Mar 30 18:46:51 +0000 2020,RuiXuKS,Rui Xu,0,1,Kansas,#coronavirus,0,0,0,1
+Thu Mar 19 17:06:51 +0000 2020,RepSainato,Rep. Chris Sainato,0,1,Pennsylvania,#coronavirus,0,0,0,1
+Wed Apr 15 21:51:22 +0000 2020,LindaStewartFL,Linda Stewart,0,0,Florida,#coronavirus,0,0,0,1
+Wed Mar 25 04:45:19 +0000 2020,SenOtondo,Lisa Otondo,0,159,Arizona,#coronavirus,0,0,0,1
+Wed Mar 18 20:35:44 +0000 2020,SenatorPatBates,Senator Pat Bates,1,0,California,#coronavirus,0,0,0,1
+Fri Mar 20 20:32:31 +0000 2020,BorrisLMiles,Texas State Senator Borris L. Miles,1,1,Texas,#coronavirus,0,0,0,1
+Tue Feb 02 13:46:24 +0000 2021,proven4oklahoma,Rep. Melissa Provenzano,0,12,Oklahoma,receive,0,0,0,1
+Tue Feb 25 21:03:14 +0000 2020,AngieHatton16,Angie Hatton,0,42,Kentucky,receive,0,0,0,1
+Fri Apr 03 18:28:22 +0000 2020,LizBrownUS,Liz Brown,0,7,Indiana,receive,0,0,0,1
+Wed Apr 26 17:26:58 +0000 2017,RepCaltagirone,Tom Caltagirone,25,14,Pennsylvania,receive,0,0,0,1
+Tue Apr 07 18:25:50 +0000 2020,ChristyClarkNC,Christy Clark,0,11,North_Carolina,receive,0,0,0,1
+Mon Sep 28 15:38:12 +0000 2020,RepHarris,Jordan A. Harris,4,1,Pennsylvania,receive,0,0,0,1
+Mon Nov 11 01:33:07 +0000 2019,GabrielAcevero,Del. Gabriel Acevero,0,842,Maryland,receive,0,0,0,1
+Fri Apr 19 13:16:12 +0000 2013,MattMorgan29A,Matt Morgan,0,0,Maryland,receive,0,0,0,1
+Wed Mar 20 14:23:55 +0000 2019,GoNCRichardson,Rep Billy Richardson,0,6,North_Carolina,receive,0,0,0,1
+Wed Jun 05 19:30:49 +0000 2019,DelGlennDavis,Delegate Glenn Davis,9,1,Virginia,receive,0,0,0,1
+Fri Oct 09 15:25:35 +0000 2020,JazzforMaryland,Delegate Jazz Lewis,0,136,Maryland,threats,0,0,0,1
+Sun Oct 25 20:32:03 +0000 2020,carterforva,Lee J. Carter,0,738,Virginia,threats,0,0,0,1
+Fri Jan 29 03:50:58 +0000 2021,LivingstonLD22,David Livingston,0,669,Arizona,threats,0,0,0,1
+Tue Mar 24 18:20:10 +0000 2020,SavannahLMaddox,Savannah Maddox,0,0,Kentucky,threats,0,0,0,1
+Wed Jun 27 16:45:33 +0000 2018,TJShopeforAZ,T.J. Shope,0,3623,Arizona,threats,0,0,0,1
+Wed May 20 16:12:03 +0000 2020,WVUFLU,Shawn Fluharty,69,7,West_Virginia,threats,0,0,0,1
+Wed Dec 02 16:36:29 +0000 2020,TrammellBob,Bob Trammell,0,62,Georgia,threats,0,0,0,1
+Wed Jul 10 04:10:18 +0000 2013,reptreystewart,"Rep. Harold """"""""""""""""Trey"""""""""""""""" Stewart",0,0,Maine,threats,0,0,0,1
+Wed Feb 13 03:00:34 +0000 2013,LanaTheis,Lana Theis,0,0,Michigan,threats,0,0,0,1
+Wed Mar 15 15:03:21 +0000 2017,sorolismn,State Representative Maria Sorolis,0,1,Kentucky,profit,0,0,0,1
+Sat Sep 01 06:22:04 +0000 2018,LorenaAD80,Lorena Gonzalez,0,8,California,profit,0,0,0,1
+Sun Apr 12 05:08:24 +0000 2020,saraehoward1,Sara Howard,0,20516,Nebraska,profit,0,0,0,1
+Fri Mar 20 02:24:17 +0000 2020,DiegoBernalTX,Diego Bernal,0,53635,Texas,profit,0,0,0,1
+Tue Jun 30 17:21:52 +0000 2020,JoeGruters,Joe Gruters,0,3004,Florida,profit,0,0,0,1
+Mon Jul 15 23:45:40 +0000 2019,DebLavender,Deb Lavender,0,6,Missouri,profit,0,0,0,1
+Fri Jun 12 18:40:25 +0000 2020,NebraskaMegan,Senator Megan Hunt 😷,79,3,Nebraska,profit,0,0,0,1
+Mon Apr 06 17:20:18 +0000 2020,HuntForNCHouse,Rachel Hunt,0,15,North_Carolina,profit,0,0,0,1
+Wed Sep 25 12:09:05 +0000 2019,RepJoeWebster,Rep. Joe Webster,1,0,Pennsylvania,profit,0,0,0,1
+Tue Jan 08 07:35:08 +0000 2019,KevinMcCartyCA,Kevin McCarty,0,11,California,profit,0,0,0,1
+Sun May 28 02:54:12 +0000 2017,MarieWaldron75,Marie Waldron,6,1,California,shots,0,0,0,1
+Thu Nov 14 02:58:25 +0000 2019,BryanTownsendDE,Sen. Bryan Townsend,10,3,Delaware,shots,1,1,1,1
+Sun Sep 06 05:47:39 +0000 2020,RCProudie,Raychel Proudie,4,1,Missouri,shots,0,0,0,1
+Mon Aug 07 22:28:52 +0000 2017,ByronDonalds,Byron Donalds,21,4,Florida,shots,0,0,0,1
+Tue Apr 30 22:13:13 +0000 2019,MMohammedNC,Sen. Mujtaba Mohammed,0,675,North_Carolina,shots,0,0,0,1
+Fri Mar 15 20:27:38 +0000 2019,Rob_Bradley,Rob Bradley,31,2,Florida,shots,0,0,0,1
+Wed Jan 13 03:37:03 +0000 2016,MartiIowa,Marti Anderson,1,0,Iowa,shots,0,0,0,1
+Thu Jun 06 02:11:01 +0000 2013,BlakeMiguezLA,Blake Miguez,0,1,Louisiana,shots,0,0,0,1
+Fri Dec 11 17:42:13 +0000 2020,MichelleGorelow,Assemblywoman Michelle Gorelow,5,0,Nevada,shots,1,1,1,1
+Mon Apr 30 20:03:28 +0000 2018,SenatorHolmes,Senator Linda Holmes,5,1,Illinois,hpv,1,1,1,1
+Tue Feb 04 04:34:45 +0000 2020,RepDietrich,Brenda Dietrich,0,5,Kansas,hpv,1,1,1,1
+Wed Mar 11 22:51:36 +0000 2015,dsfrockt,David Frockt,0,3,Washington,hpv,0,0,0,1
+Sun Feb 04 23:14:10 +0000 2018,JustinBoydAR,Justin Boyd 4 AR,0,213,Arkansas,hpv,0,0,0,1
+Sat Apr 18 16:08:15 +0000 2015,MonicaForSenate,Monica R Martinez,0,0,New_York,hpv,0,0,0,1
+Wed Jan 22 23:26:40 +0000 2020,SarahforHD134,Sarah Davis,1,0,Texas,hpv,1,1,1,1
+Thu Jan 21 16:23:09 +0000 2021,tanulewicz,Teri Anulewicz,5,0,Georgia,hpv,1,1,1,1
+Fri Sep 20 20:59:11 +0000 2013,RepGeranTarr,Rep. Geran Tarr,0,0,Alaska,hpv,1,1,1,1
+Fri Sep 09 12:22:05 +0000 2016,bethbernsteinsc,Rep Beth Bernstein,0,1,South_Carolina,hpv,1,1,1,1
+Thu Aug 21 15:47:48 +0000 2014,RepWheatley,Jake Wheatley,0,0,Pennsylvania,hpv,0,0,0,1
+Fri Dec 09 20:19:51 +0000 2016,edbraunstein,Ed Braunstein,0,5,New_York,holocaust,0,0,0,1
+Sun Jan 28 14:42:39 +0000 2018,RobEcklund,Rep. Rob Ecklund,0,29624,Minnesota,holocaust,0,0,0,1
+Sun Feb 24 00:18:50 +0000 2019,michudall,Michelle Udall,0,3,Arizona,holocaust,0,0,0,1
+Mon Jan 27 16:24:18 +0000 2020,kellyflood,Kelly Flood,0,10940,Kentucky,holocaust,0,0,0,1
+Mon Apr 22 00:56:59 +0000 2019,Singer4BoCo,Jonathan Singer,9,5,Colorado,holocaust,0,0,0,1
+Tue Apr 21 16:03:30 +0000 2020,BenDiamondFL,Ben Diamond,1,1,Florida,holocaust,0,0,0,1
+Wed Jan 27 18:06:34 +0000 2021,nily,Nily Rozic 李羅莎,0,1,New_York,holocaust,0,0,0,1
+Fri Nov 13 20:15:07 +0000 2020,KeithPerryFL,Keith Perry,0,357,Florida,holocaust,0,0,0,1
+Wed Jan 27 20:59:58 +0000 2021,JohnFMcKeon,John F. McKeon,0,0,New_Jersey,holocaust,0,0,0,1
+Tue Dec 04 15:29:57 +0000 2018,HannahKellyMO,Hannah Kelly,0,2,Missouri,holocaust,0,0,0,1
+Sun Feb 11 23:46:36 +0000 2018,SarahforHD134,Sarah Davis,4,0,Texas,@peterhotez,0,0,0,1
+Tue Dec 03 09:09:02 +0000 2019,DrPanMD,Dr. Richard Pan,1,0,California,@peterhotez,1,1,1,1
+Mon Aug 17 12:36:44 +0000 2020,senatorjen,Jen Jordan,0,51,Georgia,@peterhotez,0,0,0,1
+Tue May 05 18:17:47 +0000 2020,SarahforHD134,Sarah Davis,20,1,Texas,@peterhotez,0,0,0,1
+Mon Oct 26 11:07:49 +0000 2020,JudithZaffirini,Judith Zaffirini,2,0,Texas,@peterhotez,0,0,0,1
+Fri Mar 16 01:55:08 +0000 2018,SarahforHD134,Sarah Davis,0,10,Texas,@peterhotez,1,1,1,1
+Fri Jun 26 12:13:28 +0000 2020,James_E_White,Rep. James White,0,0,Texas,@peterhotez,0,0,0,1
+Sat Apr 25 17:53:23 +0000 2020,DrPanMD,Dr. Richard Pan,0,22,California,@peterhotez,1,1,1,1
+Mon Sep 25 03:00:01 +0000 2017,SarahforHD134,Sarah Davis,1,0,Texas,@peterhotez,0,0,0,1
+Tue Jun 12 21:38:40 +0000 2018,SarahforHD134,Sarah Davis,0,7,Texas,@peterhotez,1,1,1,1
+Thu Sep 06 15:04:45 +0000 2018,ScottDibble,Scott Dibble,0,3742,Minnesota,clinics,0,0,0,1
+Wed Apr 08 18:34:36 +0000 2020,BeeForGeorgia,Bee Nguyen 🐝,51,9,Georgia,clinics,0,0,0,1
+Mon Dec 28 14:10:55 +0000 2020,DanaCJones,Dana Jones 😷,0,16,Maryland,clinics,0,0,0,1
+Fri Feb 22 21:41:59 +0000 2019,juliefahey,Rep. Julie Fahey,4,2,Oregon,clinics,0,0,0,1
+Thu May 21 23:07:44 +0000 2015,SenatorCrowder,Larry Crowder,0,1,Colorado,clinics,0,0,0,1
+Thu Sep 17 17:59:15 +0000 2020,AsmMuratsuchi,Asm. Al Muratsuchi,0,38,California,clinics,1,1,1,1
+Thu Jan 05 19:41:54 +0000 2017,CindyKirchhofer,Cindy Kirchhofer,8,1,Indiana,clinics,0,0,0,1
+Thu Oct 15 00:42:26 +0000 2020,SenatorPeters,Senator Doug Peters,0,1,Maryland,clinics,1,1,1,1
+Fri Mar 27 02:23:54 +0000 2015,ChicagoTM,Theresa Mah,0,79,Illinois,clinics,0,0,0,1
+Sun Jul 21 03:06:53 +0000 2019,BryanTerry4TN,Dr. Bryan Terry,0,8,Tennessee,clinics,0,0,0,1
+Fri Nov 08 12:46:30 +0000 2019,JuliaKirt,Julia Kirt,0,0,Oklahoma,studies,0,0,0,1
+Wed Jan 29 03:53:39 +0000 2014,KenIvoryUT,Ken Ivory,0,0,Utah,studies,0,0,0,1
+Fri Sep 20 19:43:19 +0000 2019,BenAllenCA,Ben Allen,0,1,California,studies,0,0,0,1
+Tue Feb 02 20:38:52 +0000 2021,declanoscanlon,Declan O'Scanlon,0,0,New_Jersey,studies,0,0,0,1
+Wed Jun 21 00:44:18 +0000 2017,LeaderTownsend,Jim Townsend,0,1,New_Mexico,studies,0,0,0,1
+Sun Jun 24 13:52:04 +0000 2018,SenDTSimmons,Sen. Derrick Simmons,0,1619,Mississippi,studies,0,0,0,1
+Wed Jul 18 13:27:03 +0000 2018,senator_scott,Paul Scott,0,1,Oklahoma,studies,0,0,0,1
+Wed Sep 18 01:40:13 +0000 2019,CandicePierucci,Candice B. Pierucci,9,0,Utah,studies,0,0,0,1
+Tue Jun 12 19:16:27 +0000 2018,EddieforTexas,Rep. Eddie Rodriguez,0,4,Texas,studies,0,0,0,1
+Wed Mar 13 20:31:52 +0000 2019,briancinavt,Brian Cina,7,5,Vermont,studies,0,0,0,1
+Tue Nov 10 14:31:13 +0000 2020,wardports,Gerald W.R. Ward,0,2789,New_Hampshire,polio,1,1,1,1
+Tue Nov 17 16:44:40 +0000 2020,DeborahJGlick,(((Deborah Glick))),0,704,New_York,polio,1,1,1,1
+Tue Nov 25 16:14:30 +0000 2014,gregrazer,Greg Razer,0,48,Missouri,polio,0,0,0,1
+Sat Apr 04 03:52:42 +0000 2015,SenatorHarkins,Senator Josh Harkins,0,218,Mississippi,polio,0,0,0,1
+Mon Jan 18 20:27:38 +0000 2021,MariManoogian,Mari Manoogian,0,640,Michigan,polio,1,1,1,1
+Wed Jan 20 03:09:30 +0000 2021,rattijulia,Julia Ratti,0,7019,Nevada,polio,1,1,1,1
+Wed Oct 05 18:35:31 +0000 2016,SteinerVicky,Vicky Steiner,0,0,North_Dakota,polio,0,0,0,1
+Thu Jul 04 15:28:52 +0000 2019,mikeyoung44,Mike Young,0,22,Indiana,polio,1,1,1,1
+Sat Feb 16 04:24:18 +0000 2019,lizthomsonnm,Liz Thomson,8,1,New_Mexico,polio,1,1,1,1
+Fri Feb 15 15:22:37 +0000 2019,JeffreyDinowitz,Jeffrey Dinowitz,18,2,New_York,polio,1,1,1,1
+Sun Feb 09 00:06:43 +0000 2020,karlabigham,Sen. Karla Bigham,7,1,Minnesota,drugs,0,0,0,1
+Sun Nov 08 16:03:34 +0000 2020,tonylovasco,Rep. Tony Lovasco (MO-64),0,0,Missouri,drugs,0,0,0,1
+Wed Oct 25 14:49:45 +0000 2017,ESHforOregon,Sen. Steiner Hayward,3,2,Oregon,drugs,0,0,0,1
+Thu Dec 05 22:27:10 +0000 2019,JohnnyGarrett4,Johnny Garrett,1,1,Tennessee,drugs,0,0,0,1
+Wed Apr 17 21:35:02 +0000 2019,Barber4StateRep,Christine Barber,4,1,Massachusetts,drugs,0,0,0,1
+Mon Sep 17 01:47:16 +0000 2012,jimabeler,Jim Abeler,0,0,Minnesota,drugs,0,0,0,1
+Fri Oct 20 16:39:30 +0000 2017,Cunning_Jordan,Jordan Cunningham,4,4,California,drugs,0,0,0,1
+Sat Oct 27 14:20:08 +0000 2018,SenatorJohnBell,Senator John Bell,0,14,Virginia,drugs,0,0,0,1
+Fri Aug 14 21:54:36 +0000 2020,DaleZornSenate,Dale W. Zorn,0,0,Michigan,drugs,0,0,0,1
+Wed Nov 20 19:09:37 +0000 2019,SenShilling,Jennifer Shilling,0,1,Wisconsin,drugs,0,0,0,1
+Thu Dec 05 21:14:45 +0000 2019,DrPanMD,Dr. Richard Pan,0,11,California,#measles,1,1,1,1
+Mon Aug 19 14:49:43 +0000 2019,DrPanMD,Dr. Richard Pan,0,4,California,#measles,0,0,0,1
+Thu Sep 12 17:33:34 +0000 2019,DrPanMD,Dr. Richard Pan,0,20,California,#measles,0,0,0,1
+Mon Oct 19 04:00:01 +0000 2020,DrPanMD,Dr. Richard Pan,58,19,California,#measles,1,1,1,1
+Thu Aug 29 13:08:30 +0000 2019,DrPanMD,Dr. Richard Pan,0,54,California,#measles,0,0,0,1
+Tue Nov 19 17:57:31 +0000 2019,DrPanMD,Dr. Richard Pan,0,20,California,#measles,1,1,1,1
+Sat Jul 20 09:46:44 +0000 2019,DrPanMD,Dr. Richard Pan,0,43,California,#measles,1,1,1,1
+Thu Aug 29 00:01:27 +0000 2019,DrPanMD,Dr. Richard Pan,0,2,California,#measles,1,1,1,1
+Thu Feb 19 16:56:48 +0000 2015,NMRepArmstrong,Debbie Armstrong,0,31,New_Mexico,#measles,1,1,1,1
+Fri Dec 27 17:46:18 +0000 2019,ForHD65,Michelle Beckley,0,14,Texas,#measles,0,0,0,1
+Tue Sep 03 15:29:25 +0000 2019,DrPanMD,Dr. Richard Pan,27,7,California,unvaccinated,1,1,1,1
+Tue May 14 19:59:02 +0000 2019,KevinThomasNY,Senator Kevin Thomas,0,24,New_York,unvaccinated,1,1,1,1
+Tue Oct 16 03:55:55 +0000 2018,ESHforOregon,Sen. Steiner Hayward,0,85,Oregon,unvaccinated,1,1,1,1
+Tue Apr 09 21:09:13 +0000 2019,JeffreyDinowitz,Jeffrey Dinowitz,0,2,New_York,unvaccinated,1,1,1,1
+Thu Mar 26 01:18:58 +0000 2020,d_ddunnn,David Dunn,0,31,Montana,unvaccinated,1,1,1,1
+Mon May 04 02:21:08 +0000 2020,d_ddunnn,David Dunn,0,1940,Montana,unvaccinated,1,1,1,1
+Sun Mar 10 02:54:59 +0000 2019,GregReed21234,Greg Reed,0,974,Alabama,unvaccinated,1,1,1,1
+Sat Mar 30 10:48:02 +0000 2019,Adamant4Detroit,Senator Adam Hollier,4,1,Michigan,unvaccinated,1,1,1,1
+Thu May 23 21:10:15 +0000 2019,DrPanMD,Dr. Richard Pan,2,0,California,unvaccinated,1,1,1,1
+Thu Jun 27 16:51:06 +0000 2019,PhilSteck,Phil Steck,2,0,New_York,unvaccinated,1,1,1,1
+Wed Oct 07 21:33:19 +0000 2020,rosemarybayer,Senator Rosemary Bayer,7,2,Michigan,wearing,0,0,0,1
+Sat Feb 02 00:16:37 +0000 2019,jarvisdortch,Jarvis Dortch,0,1476,Mississippi,wearing,0,0,0,1
+Fri Feb 26 16:36:30 +0000 2016,Sully_720,Representative Tom Sullivan,2,1,Colorado,wearing,0,0,0,1
+Fri Jul 24 16:32:31 +0000 2020,derekkitchen,Senator Derek Kitchen,20,1,Utah,wearing,0,0,0,1
+Mon Apr 02 16:28:06 +0000 2018,BeeForGeorgia,Bee Nguyen 🐝,44,2,Georgia,wearing,0,0,0,1
+Wed Apr 08 02:44:57 +0000 2020,CandicePierucci,Candice B. Pierucci,0,31,Utah,wearing,0,0,0,1
+Mon Dec 07 16:12:56 +0000 2020,BillPostOregon,Bill Post 🏝,0,6831,Oregon,wearing,0,0,0,1
+Wed Jul 08 14:27:49 +0000 2020,RepAStoddard,Andrew Stoddard,0,48,Utah,wearing,0,0,0,1
+Tue Jul 21 02:08:02 +0000 2020,JennMcClellanVA,Jennifer McClellan,0,36,Virginia,wearing,0,0,0,1
+Sun Nov 05 00:27:50 +0000 2017,MarkSicklesVA,Mark Sickles,4,1,Virginia,wearing,0,0,0,1
+Sun Mar 29 18:24:24 +0000 2020,KrizekForVA,Paul Krizek,3,0,Virginia,antivaxxers,1,1,1,1
+Sat Sep 14 02:04:22 +0000 2019,bradhoylman,Senator Brad Hoylman,0,27,New_York,antivaxxers,1,1,1,1
+Thu Feb 04 02:51:00 +0000 2021,DrPanMD,Dr. Richard Pan 🇺🇸,54,17,California,antivaxxers,1,1,1,1
+Sat Mar 14 23:46:45 +0000 2020,bradhoylman,Senator Brad Hoylman,34,6,New_York,antivaxxers,1,1,1,1
+Wed Jul 22 13:41:38 +0000 2020,DrPanMD,Dr. Richard Pan,0,15,California,antivaxxers,1,1,1,1
+Tue Feb 02 02:02:19 +0000 2021,DrPanMD,Dr. Richard Pan 🇺🇸,0,21,California,antivaxxers,1,1,1,1
+Wed Feb 03 18:51:56 +0000 2021,DrPanMD,Dr. Richard Pan 🇺🇸,0,42,California,antivaxxers,1,1,1,1
+Mon Jun 17 16:07:43 +0000 2019,DrPanMD,Dr. Richard Pan,0,17,California,antivaxxers,1,1,1,1
+Mon Dec 23 17:40:07 +0000 2019,DrPanMD,Dr. Richard Pan,0,50,California,antivaxxers,1,1,1,1
+Thu May 23 21:04:03 +0000 2019,DrPanMD,Dr. Richard Pan,83,23,California,antivaxxers,1,1,1,1
+Mon Feb 26 03:10:30 +0000 2018,JustinBoydAR,Justin Boyd 4 AR,0,36,Arkansas,m,0,0,0,1
+Thu May 31 19:24:07 +0000 2018,tubanoiz,Mike France,0,10,Connecticut,m,0,0,0,1
+Mon Aug 08 20:02:07 +0000 2016,SenLyleHillyard,Senator Lyle Hillyard,0,1,Utah,m,0,0,0,1
+Mon Nov 23 05:38:47 +0000 2020,PedersenJamie,Jamie Pedersen,0,3620,Washington,m,0,0,0,1
+Tue Nov 06 14:50:01 +0000 2018,Matt_Pouliot,Matt Pouliot,0,0,Maine,m,0,0,0,1
+Mon May 06 23:09:21 +0000 2019,SenRonLatz,Ron Latz,7,0,Minnesota,m,0,0,0,1
+Thu Sep 06 03:03:02 +0000 2018,RepPoppe,Jeanne Poppe,0,5,Minnesota,m,0,0,0,1
+Thu May 10 17:12:48 +0000 2018,DavilaAssembly,Maritza Davila,0,4,New_York,m,0,0,0,1
+Thu Dec 03 19:53:03 +0000 2020,GeneralRoth,Senator Richard Roth,3,0,California,m,0,0,0,1
+Sat Jun 15 02:13:35 +0000 2019,realChuckOwen,Charles “Chuck” Owen,0,0,Louisiana,m,0,0,0,1
+Sat Dec 28 20:46:53 +0000 2019,Cohen4AD29,Lesley Cohen,0,0,Nevada,@ameracadpeds,0,0,0,1
+Fri Oct 23 03:12:54 +0000 2020,RenittaShannon,Rep. Renitta Shannon,0,10871,Georgia,@ameracadpeds,0,0,0,1
+Sun Sep 08 00:53:00 +0000 2019,Evan_Low,Evan Low,0,38,California,@ameracadpeds,1,1,1,1
+Sun Feb 09 23:29:29 +0000 2020,DrPanMD,Dr. Richard Pan,0,37,California,@ameracadpeds,1,1,1,1
+Sat Dec 05 03:29:49 +0000 2015,KateMcGeeAZ,Kate Brophy McGee,5,1,Arizona,@ameracadpeds,0,0,0,1
+Sun Sep 08 00:41:30 +0000 2019,DrPanMD,Dr. Richard Pan,0,6,California,@ameracadpeds,0,0,0,1
+Wed Nov 18 18:11:33 +0000 2020,JulianCyr,Julian Cyr,0,5,Massachusetts,@ameracadpeds,0,0,0,1
+Fri Feb 09 17:44:35 +0000 2018,JeffreyDinowitz,Jeffrey Dinowitz,1,1,New_York,@ameracadpeds,1,1,1,1
+Sat Dec 12 18:06:54 +0000 2020,DrPanMD,Dr. Richard Pan 🇺🇸,26,3,California,@ameracadpeds,1,1,1,1
+Fri Feb 07 00:38:48 +0000 2020,DrPanMD,Dr. Richard Pan,144,41,California,@ameracadpeds,1,1,1,1
+Fri Aug 09 15:29:36 +0000 2019,gregrazer,Greg Razer,0,3,Missouri,breaking,0,0,0,1
+Tue Oct 13 23:33:38 +0000 2020,MayorGlover,Cedric B. Glover,0,4276,Louisiana,breaking,0,0,0,1
+Fri Jan 29 21:28:18 +0000 2021,DonnaHowardTX,Donna Howard,28,11,Texas,breaking,1,1,1,1
+Thu Jul 09 08:55:06 +0000 2020,DavidMichel007,David Michel,0,10283,Connecticut,breaking,0,0,0,1
+Thu Mar 31 16:23:47 +0000 2016,SenDennisDeBar,Dennis DeBar Jr,0,2,Mississippi,breaking,0,0,0,1
+Wed Aug 31 00:28:27 +0000 2016,anitere_flores,Sen. Anitere Flores,0,53,Florida,breaking,0,0,0,1
+Sat Jan 04 00:33:48 +0000 2020,ddreyer,David Dreyer,0,11,Georgia,breaking,0,0,0,1
+Wed Oct 07 03:37:52 +0000 2020,SenatorNasheed,Jamilah Nasheed,0,51,Missouri,breaking,0,0,0,1
+Sat Oct 05 02:15:53 +0000 2019,DavidChiu,David Chiu,8,1,California,breaking,0,0,0,1
+Sat Nov 07 12:43:32 +0000 2020,SamuelWBell,Sam Bell,1,0,Rhode_Island,breaking,0,0,0,1
+Wed Jan 29 15:12:27 +0000 2020,SenSantarsiero,Steve Santarsiero,0,1,Pennsylvania,preventable,0,0,0,1
+Wed Dec 11 13:35:56 +0000 2019,MarjorieDecker,Marjorie Decker,0,1,Massachusetts,preventable,1,1,1,1
+Thu Oct 22 14:48:45 +0000 2020,mcqueenfornm,Matthew McQueen,0,113,New_Mexico,preventable,0,0,0,1
+Wed Dec 11 19:08:05 +0000 2019,laurafriedman43,Laura Friedman,0,578,California,preventable,0,0,0,1
+Thu Aug 08 08:50:11 +0000 2019,RAlexAndradeFL,Alex Andrade,0,30,Florida,preventable,0,0,0,1
+Thu Feb 14 17:19:55 +0000 2019,Senatorcosta,Senator Jay Costa,4,3,Pennsylvania,preventable,0,0,0,1
+Mon May 06 17:55:35 +0000 2019,JeffreyDinowitz,Jeffrey Dinowitz,20,5,New_York,preventable,1,1,1,1
+Fri Sep 11 23:19:58 +0000 2020,lizthomsonnm,Liz Thomson,0,4,New_Mexico,preventable,0,0,0,1
+Fri Jul 03 18:32:33 +0000 2020,SenateHertzberg,Bob Hertzberg,0,89,California,preventable,0,0,0,1
+Thu Apr 18 06:42:50 +0000 2019,SenSaldana,Senator Saldaña,5,0,Washington,preventable,1,1,1,1
+Mon Jan 07 16:50:51 +0000 2019,RepChrisWelch,Emanuel Chris Welch,0,36,Illinois,appointment,0,0,0,1
+Mon Oct 21 14:34:34 +0000 2013,michaeldembrow,Sen. Michael Dembrow,2,6,Oregon,appointment,0,0,0,1
+Tue Sep 15 21:34:55 +0000 2020,senatorjacqui,Jacqueline Collins,0,0,Illinois,appointment,0,0,0,1
+Tue Mar 17 18:29:37 +0000 2020,AnnaMKaplan,Senator Anna M. Kaplan,0,0,New_York,appointment,0,0,0,1
+Thu May 18 18:33:53 +0000 2017,manningstl,Sen James Manning Jr,0,44,Oregon,appointment,0,0,0,1
+Fri Mar 13 18:42:09 +0000 2020,RepDanFrankel,State Rep. Dan Frankel,0,0,Pennsylvania,appointment,0,0,0,1
+Wed Nov 23 18:04:10 +0000 2016,joemacphoto,Joe McDonald,1,1,Minnesota,appointment,0,0,0,1
+Fri Jan 29 01:27:57 +0000 2021,nwilliams23,Nicole Williams,0,11,Maryland,appointment,1,1,1,1
+Tue Aug 21 21:08:50 +0000 2018,jarvisdortch,Jarvis Dortch,8,6,Mississippi,appointment,0,0,0,1
+Tue Nov 10 20:38:38 +0000 2020,leslieherod,Leslie Herod,0,7,Colorado,appointment,0,0,0,1
+Sat Oct 24 20:20:23 +0000 2020,JoyceWoodhouse,Joyce Woodhouse,0,12,Nevada,@joebiden,0,0,0,1
+Sat Nov 07 16:56:52 +0000 2020,MichaelKGarrett,Sen. Michael Garrett,5,1,North_Carolina,@joebiden,0,0,0,1
+Sat Nov 07 20:22:17 +0000 2020,MindyForMA,Mindy Domb,6,1,Massachusetts,@joebiden,0,0,0,1
+Fri Jan 31 15:48:30 +0000 2020,MDonahueforIA,Molly Donahue,8,0,Iowa,@joebiden,0,0,0,1
+Tue Nov 03 08:15:50 +0000 2020,DrPanMD,Dr. Richard Pan 🇺🇸,26,5,California,@joebiden,0,0,0,1
+Fri Nov 13 00:59:51 +0000 2020,JoelCarterMS,"Senator Joel R. Carter, Jr.",1,0,Mississippi,@joebiden,0,0,0,1
+Thu Jan 21 01:32:36 +0000 2021,repsmitty,Smitty Pignatelli,6,0,Massachusetts,@joebiden,0,0,0,1
+Thu Aug 30 19:39:04 +0000 2018,DWGregoire,Danielle Gregoire,0,1168,Massachusetts,@joebiden,0,0,0,1
+Tue Oct 13 02:35:49 +0000 2020,brigidekelly,Brigid Kelly,1,0,Ohio,@joebiden,0,0,0,1
+Sun Jul 26 20:05:49 +0000 2020,LauraTelerski,Rep. Laura Telerski,52,13,New_Hampshire,@joebiden,0,0,0,1
+Thu Sep 24 16:37:59 +0000 2020,DrPanMD,Dr. Richard Pan,0,10,California,pan,1,1,1,1
+Mon Dec 19 22:00:45 +0000 2011,AlecGarnett,Alec Garnett,0,0,Colorado,pan,0,0,0,1
+Thu Nov 22 23:01:03 +0000 2018,stokesbary,Drew Stokesbary,1,0,Washington,pan,0,0,0,1
+Sun Aug 11 16:42:20 +0000 2019,NMalliotakis,Nicole Malliotakis,838,224,New_York,pan,0,0,0,1
+Tue Apr 07 23:01:33 +0000 2020,afugate,Andy Fugate - OK House District 94,6,3,Oklahoma,pan,0,0,0,1
+Sun Jan 17 03:59:26 +0000 2021,Cunning_Jordan,Jordan Cunningham,5,1,California,pan,0,0,0,1
+Thu Oct 04 01:17:34 +0000 2018,ChicagoTM,Theresa Mah,0,4,Illinois,pan,0,0,0,1
+Sat Jan 30 21:51:54 +0000 2021,Rep_Jimmy,Jimmy Anderson,1,0,Wisconsin,pan,0,0,0,1
+Mon Dec 09 03:06:57 +0000 2019,jbeckerfinn,Jamie Becker-Finn,0,4691,Minnesota,pan,0,0,0,1
+Sun Nov 22 17:37:12 +0000 2015,repvos,Robin Vos,0,7,Wisconsin,pan,0,0,0,1
+Tue Dec 13 15:20:05 +0000 2016,DelMaggie43,Del. Maggie McIntosh,1,0,Maryland,researchers,0,0,0,1
+Sun Jan 17 16:41:24 +0000 2021,LivingstonLD22,David Livingston,0,215,Arizona,researchers,0,0,0,1
+Fri Feb 08 12:17:29 +0000 2019,BrianKElder,Rep. Brian K. Elder,0,2,Michigan,researchers,0,0,0,1
+Thu Dec 10 18:42:56 +0000 2015,waldron4ok,John Waldron,0,0,Oklahoma,researchers,0,0,0,1
+Wed Apr 08 20:24:15 +0000 2020,RepAlicePeisch,Alice Peisch,0,21,Massachusetts,researchers,0,0,0,1
+Wed Feb 19 20:08:01 +0000 2020,SamuelWBell,Sam Bell,0,4335,Rhode_Island,researchers,0,0,0,1
+Sun Aug 20 21:34:21 +0000 2017,CherrishPryor,Cherrish Pryor,0,0,Indiana,researchers,0,0,0,1
+Mon Nov 30 03:45:23 +0000 2020,Biaggi4NY,Alessandra Biaggi,0,165,New_York,researchers,0,0,0,1
+Sat Dec 12 03:44:20 +0000 2020,1980reagan,Rep. David McSweeney,0,11,Illinois,researchers,1,1,1,1
+Tue Dec 03 17:20:55 +0000 2019,SteveBerch15A,Steve Berch,0,6,Idaho,researchers,0,0,0,1
+Tue Mar 03 23:52:08 +0000 2020,DeGraziaforAZ,Rep. Domingo DeGrazia,44,22,Arizona,cost,0,0,0,1
+Mon May 27 20:27:02 +0000 2019,EdieHooton,Edie Hooton,17,3,Colorado,cost,0,0,0,1
+Thu Aug 09 22:42:35 +0000 2018,RenittaShannon,Rep. Renitta Shannon,2,1,Georgia,cost,0,0,0,1
+Thu Feb 15 19:50:29 +0000 2018,stevenoroho,Senator Steven Oroho,9,5,New_Jersey,cost,0,0,0,1
+Sat Sep 28 10:32:30 +0000 2019,SenGloriaButler,Gloria S Butler,0,8,Georgia,cost,0,0,0,1
+Mon Dec 16 12:14:55 +0000 2019,JeffEllington62,Jeff Ellington,0,0,Indiana,cost,0,0,0,1
+Wed Apr 24 03:04:26 +0000 2019,ChristineDrazan,Christine Drazan,5,1,Oregon,cost,0,0,0,1
+Thu Feb 27 00:19:53 +0000 2020,MiaForRep,Mia Ackerman,12,2,Rhode_Island,cost,0,0,0,1
+Fri Mar 10 12:03:09 +0000 2017,JChipmanMO120th,Jason Chipman,0,84,Missouri,cost,0,0,0,1
+Wed May 08 14:13:15 +0000 2019,DavidCrowleyWI,David C. Crowley,82,47,Wisconsin,cost,0,0,0,1
+Thu Jun 22 13:06:09 +0000 2017,MMohammedNC,Sen. Mujtaba Mohammed,0,8,North_Carolina,18,0,0,0,1
+Wed May 27 03:25:58 +0000 2020,tonylovasco,Rep. Tony Lovasco (MO-64),19,5,Missouri,18,0,0,0,1
+Sat Aug 26 22:12:35 +0000 2017,BamCarney,Bam Carney,0,48731,Kentucky,18,0,0,0,1
+Tue Aug 20 00:00:52 +0000 2019,JamesPerryNC,Senator Jim Perry,0,0,North_Carolina,18,0,0,0,1
+Fri Mar 01 14:02:21 +0000 2019,KWindham85,Kevin Windham,3,0,Missouri,18,0,0,0,1
+Wed Aug 01 17:31:06 +0000 2018,lorisaine,Lori,0,13,Colorado,18,0,0,0,1
+Fri Aug 14 17:39:25 +0000 2020,RepZabel,Rep. Mike Zabel,1,0,Pennsylvania,18,0,0,0,1
+Fri Mar 13 20:48:30 +0000 2020,Scott_Wiener,Senator Scott Wiener,256,73,California,18,0,0,0,1
+Thu Sep 12 02:10:27 +0000 2019,DonnaHowardTX,Donna Howard,6,2,Texas,18,0,0,0,1
+Mon Jun 11 12:59:32 +0000 2018,teresa_fedor,State Senator Teresa Fedor,71,46,Ohio,18,0,0,0,1
+Thu Dec 03 23:10:21 +0000 2020,tanzister,Teresa  Tanzi,0,2,Rhode_Island,questions,0,0,0,1
+Wed Sep 19 10:16:03 +0000 2018,1willbond,Will Bond,0,36,Arkansas,questions,0,0,0,1
+Thu May 07 15:20:45 +0000 2020,JoeDanielsen17,Joe Danielsen,0,0,New_Jersey,questions,0,0,0,1
+Tue Dec 10 16:04:10 +0000 2019,Zenzinger_AtoZ,Rachel Zenzinger,0,1,Colorado,questions,0,0,0,1
+Fri Feb 27 17:08:22 +0000 2015,KarleeMacer,Karlee Macer,0,8,Indiana,questions,0,0,0,1
+Mon Sep 05 05:04:46 +0000 2011,johnfrey,John Frey,0,0,Connecticut,questions,0,0,0,1
+Sun Mar 15 01:49:51 +0000 2020,RobinComey,Robin Comey,0,0,Connecticut,questions,0,0,0,1
+Fri Apr 10 14:26:13 +0000 2020,205JackWilliams,Jack Williams,0,9,Alabama,questions,0,0,0,1
+Wed Apr 29 15:21:02 +0000 2020,Book4Senate,Lauren Book,0,2,Florida,questions,0,0,0,1
+Mon May 11 19:36:40 +0000 2020,ltgovmcnally,Randy McNally,0,15,Tennessee,questions,0,0,0,1
+Wed Jan 31 13:47:24 +0000 2018,_RyanWinkler,Ryan Winkler,9,1,Minnesota,records,0,0,0,1
+Mon Jul 27 15:01:48 +0000 2020,Annette_Taddeo,Annette Taddeo (She/Her/Ella),8,6,Florida,records,0,0,0,1
+Fri Sep 11 20:10:29 +0000 2020,BRVermont,Barbara Rachelson,2,0,Vermont,records,0,0,0,1
+Sat Jun 23 14:35:48 +0000 2018,RepMcClinton,Joanna McClinton,4,3,Pennsylvania,records,0,0,0,1
+Sat Jan 04 18:35:06 +0000 2020,JackieCinMHT,"Rep. Jackie Chretien, PhD",6,1,New_Hampshire,records,0,0,0,1
+Wed May 29 22:59:15 +0000 2019,SenatorSheehan,Senator Sheehan,0,4,Rhode_Island,records,0,0,0,1
+Thu Jul 09 15:42:28 +0000 2015,RepShankland,Katrina Shankland,0,9,Wisconsin,records,0,0,0,1
+Sun Dec 20 23:51:15 +0000 2020,AnnaForFlorida,Rep. Anna V. Eskamani 🔨,3,0,Florida,records,0,0,0,1
+Thu Apr 20 00:34:31 +0000 2017,JimHaadsma,Jim Haadsma,1,0,Michigan,records,0,0,0,1
+Sat Mar 14 15:41:15 +0000 2020,Sen_MimiStewart,Mimi Stewart,0,51,New_Mexico,records,0,0,0,1
+Mon Jun 15 17:46:52 +0000 2020,leslieherod,Leslie Herod,514,4,Colorado,#coleg,0,0,0,1
+Sun Nov 22 21:11:39 +0000 2020,LontineHD1,Susan Lontine,0,1,Colorado,#coleg,0,0,0,1
+Thu Jan 14 18:18:53 +0000 2016,LontineHD1,Susan Lontine,1,0,Colorado,#coleg,0,0,0,1
+Sat Mar 26 19:39:28 +0000 2016,RepJeniArndt,Jeni Arndt,0,6,Colorado,#coleg,0,0,0,1
+Fri Jan 03 17:14:01 +0000 2020,SteveFenberg,Steve Fenberg,19,1,Colorado,#coleg,0,0,0,1
+Sat Apr 27 19:43:41 +0000 2019,Bri4CO,Representative Bri Buentello,0,3,Colorado,#coleg,0,0,0,1
+Tue Apr 30 18:34:32 +0000 2013,RepSonnenberg,Jerry Sonnenberg,0,0,Colorado,#coleg,0,0,0,1
+Fri Nov 07 22:52:33 +0000 2014,Dlesgar,Daneya Esgar,0,4,Colorado,#coleg,0,0,0,1
+Fri Jan 25 17:25:14 +0000 2019,Dylan_RobertsCO,Rep. Dylan Roberts,9,5,Colorado,#coleg,0,0,0,1
+Mon Feb 12 17:21:26 +0000 2018,SteveFenberg,Steve Fenberg,10,2,Colorado,#coleg,0,0,0,1
+Mon Aug 10 20:48:29 +0000 2020,KarinDerry4Iowa,Representative Karin Derry,0,11,Iowa,widespread,0,0,0,1
+Tue Dec 01 08:32:42 +0000 2020,EWReschke,E. Werner Reschke 🇺🇸,0,11895,Oregon,widespread,0,0,0,1
+Sun Dec 13 15:49:11 +0000 2020,LindseyForPA,Lindsey Williams,0,1337,Pennsylvania,widespread,1,1,1,1
+Wed Dec 09 16:01:06 +0000 2020,RenittaShannon,Rep. Renitta Shannon,4,0,Georgia,widespread,0,0,0,1
+Fri Dec 04 14:49:59 +0000 2020,WoodrowForCO,Rep. Steven Woodrow,8,1,Colorado,widespread,0,0,0,1
+Wed Jun 24 17:01:41 +0000 2020,DavidChiu,David Chiu,42,7,California,widespread,0,0,0,1
+Sun Jan 03 14:32:33 +0000 2021,KimpsonForSC,Sen. Marlon Kimpson,0,1482,South_Carolina,widespread,0,0,0,1
+Fri May 08 01:31:10 +0000 2020,SenatorAument,Sen. Ryan P. Aument,0,3,Pennsylvania,widespread,0,0,0,1
+Wed Mar 11 14:02:37 +0000 2020,mikeyoung44,Mike Young,1,0,Indiana,widespread,0,0,0,1
+Sat May 14 05:26:23 +0000 2016,ASL4Justice4all,Antoinette Sedillo L,0,4,New_Mexico,widespread,0,0,0,1
+Sat Mar 23 00:53:46 +0000 2019,Danielle_4PA,Danielle Friel Otten,7,3,Pennsylvania,companies,0,0,0,1
+Sun Mar 29 16:04:23 +0000 2020,WalterFTimilty,Walter F. Timilty,0,379,Massachusetts,companies,0,0,0,1
+Mon Mar 23 19:16:27 +0000 2020,votelandry,Mandie Landry Ⓜ️,29,6,Louisiana,companies,0,0,0,1
+Wed Aug 05 13:56:40 +0000 2020,NCHouseSpeaker,Speaker Tim Moore,4,2,North_Carolina,companies,0,0,0,1
+Tue Jun 23 14:40:33 +0000 2015,KarenMayneUT5,Karen Mayne,0,0,Utah,companies,0,0,0,1
+Fri Oct 25 15:07:18 +0000 2019,AswTimberlake,Britnee Timberlake,0,4,New_Jersey,companies,0,0,0,1
+Tue Apr 07 15:02:23 +0000 2020,SenatorBrowne,Sen. Pat Browne,3,3,Pennsylvania,companies,0,0,0,1
+Mon Sep 04 03:01:09 +0000 2017,SenDanFeyen,Sen. Dan Feyen,0,6,Wisconsin,companies,0,0,0,1
+Thu May 31 14:24:01 +0000 2012,don4georgia,Don Parsons,0,0,Georgia,companies,0,0,0,1
+Mon May 28 00:46:20 +0000 2018,KarenKeiser1,Karen Keiser,1,3,Washington,companies,0,0,0,1
+Sat Jan 30 16:51:56 +0000 2021,KarinDerry4Iowa,Former State Rep Karin Derry,7,1,Iowa,mask,0,0,0,1
+Sat May 23 22:12:52 +0000 2020,JeremyAllenMoss,Sen. Jeremy Moss 🏳️‍🌈,0,4,Michigan,mask,0,0,0,1
+Sun Nov 15 23:25:32 +0000 2020,RepHoheisel,Rep. Nick Hoheisel,0,0,Kansas,mask,0,0,0,1
+Tue Jul 28 01:19:29 +0000 2020,VoteGloriaJ,Gloria Johnson,0,24,Tennessee,mask,0,0,0,1
+Thu Jan 28 21:36:07 +0000 2021,danielforaz,Representative Daniel Hernandez Jr,0,7,Arizona,mask,0,0,0,1
+Fri Jul 24 13:00:01 +0000 2020,anitere_flores,Sen. Anitere Flores,6,4,Florida,mask,0,0,0,1
+Wed Aug 12 19:00:01 +0000 2020,SeanMRyan149,Assemblyman Sean Ryan,5,1,New_York,mask,0,0,0,1
+Fri Jul 03 15:13:49 +0000 2020,drarambulaAD31,Dr. Joaquin Arambula,0,60,California,mask,0,0,0,1
+Sun Nov 22 17:35:02 +0000 2020,CatalinaCruzNY,"Catalina Cruz, Esq.",62,1,New_York,mask,0,0,0,1
+Thu Jun 11 15:03:40 +0000 2020,Cassandra4NH,Cassandra Levesque,0,0,New_Hampshire,mask,0,0,0,1
+Sun Mar 29 22:58:29 +0000 2020,SRachelMay,Rachel May,20,1,New_York,allow,0,0,0,1
+Thu Jun 29 19:19:21 +0000 2017,Blake_Filippi,Rep. Blake Filippi,3,0,Rhode_Island,allow,0,0,0,1
+Fri Jan 24 16:10:48 +0000 2020,stephaniehowse,Stephanie Howse,4,2,Ohio,allow,0,0,0,1
+Fri Nov 22 03:37:35 +0000 2019,repMorrison,Tom Morrison,9,2,Illinois,allow,0,0,0,1
+Sun Mar 29 14:57:43 +0000 2020,Jo_Comerford,Jo Comerford,0,7,Massachusetts,allow,0,0,0,1
+Fri Jul 13 10:41:26 +0000 2018,JasonOrtitay,Jason Ortitay,0,9,Pennsylvania,allow,0,0,0,1
+Thu Feb 01 12:48:42 +0000 2018,ChrisSprowls,Chris Sprowls,0,11,Florida,allow,0,0,0,1
+Mon Oct 07 19:13:57 +0000 2019,JoeGruters,Joe Gruters,0,1,Florida,allow,0,0,0,1
+Thu Jan 14 18:43:54 +0000 2021,HarryBBronson,Harry B. Bronson,1,0,New_York,allow,0,0,0,1
+Sun Aug 05 13:42:37 +0000 2018,hammond4nevada,Scott Hammond,0,11,Nevada,allow,0,0,0,1
+Sat Dec 21 18:48:13 +0000 2019,RepDevinCarney,Devin Carney,1,0,Connecticut,probably,0,0,0,1
+Mon Oct 08 01:34:07 +0000 2018,DeniseforAR,Denise Garner,16,0,Arkansas,probably,0,0,0,1
+Wed Nov 02 01:14:21 +0000 2016,jasoncstephens,Jason Stephens,0,8,Ohio,probably,0,0,0,1
+Fri Oct 25 21:03:35 +0000 2019,ScottWilkCA,Scott Wilk,0,3,California,probably,0,0,0,1
+Mon Jul 22 16:13:06 +0000 2019,DaveBentz,Rep. David Bentz,4,1,Delaware,probably,0,0,0,1
+Sun May 26 13:32:47 +0000 2019,Shawan4Freedom,Jeff Shawan,1,0,Missouri,probably,0,0,0,1
+Fri Jul 17 12:38:52 +0000 2020,MRanglinVassell,Rep.Marcia Ranglin,0,0,Rhode_Island,probably,0,0,0,1
+Sat Jul 12 23:00:42 +0000 2014,WillisTGriffith,Willis Griffith,2,0,New_Hampshire,probably,0,0,0,1
+Mon Jan 25 16:26:02 +0000 2021,Justinhumphrey,Justin Humphrey,0,0,Oklahoma,probably,0,0,0,1
+Mon Oct 05 15:54:50 +0000 2020,mkorman,Marc Korman,2,0,Maryland,probably,0,0,0,1
+Thu Sep 12 15:18:05 +0000 2019,JamesTedisco,Senator Jim Tedisco,7,3,New_York,administration,0,0,0,1
+Thu Jan 03 19:33:50 +0000 2019,JeremyAllenMoss,Sen. Jeremy Moss 🏳️‍🌈,49,8,Michigan,administration,0,0,0,1
+Sat Feb 23 01:33:36 +0000 2019,AsmAguiarCurry,Cecilia Aguiar-Curry,7,4,California,administration,0,0,0,1
+Tue Sep 01 16:31:56 +0000 2020,Kennedy4CO,Rep. Chris Kennedy,17,7,Colorado,administration,0,0,0,1
+Sun Jun 10 15:32:11 +0000 2018,RenittaShannon,Rep. Renitta Shannon,0,1335,Georgia,administration,0,0,0,1
+Sat Feb 22 17:55:58 +0000 2020,SarahUnsicker,Sarah Unsicker,0,55,Missouri,administration,0,0,0,1
+Thu Jan 24 11:15:33 +0000 2019,GarryRSmith,Garry Smith,0,0,South_Carolina,administration,0,0,0,1
+Thu Feb 06 02:24:23 +0000 2020,MarcosCrespo85,Marcos Crespo,0,140,New_York,administration,0,0,0,1
+Thu Jan 21 17:15:35 +0000 2021,JamieEldridgeMA,Jamie Eldridge,0,10909,Massachusetts,administration,0,0,0,1
+Tue Sep 24 19:19:40 +0000 2019,marcussimon,Marcus Simon,0,1233,Virginia,administration,0,0,0,1
+Thu Jun 11 23:19:50 +0000 2020,StaedArt,State Rep Art Staed,11,4,Iowa,us,0,0,0,1
+Sat Apr 18 01:58:08 +0000 2020,repdottieb4mo,Dottie Bailey,0,0,Missouri,us,0,0,0,1
+Wed Sep 05 02:26:22 +0000 2018,lgwillner,Lisa Willner,0,7,Kentucky,us,0,0,0,1
+Sun Aug 05 04:31:14 +0000 2018,RepWhitaker85,David Whitaker,0,1,Arkansas,us,0,0,0,1
+Fri Nov 10 00:59:04 +0000 2017,jdunnington,Rep Jason Dunnington,1,0,Oklahoma,us,0,0,0,1
+Tue Jul 21 14:45:44 +0000 2020,Biaggi4NY,Alessandra Biaggi,2290,481,New_York,us,0,0,0,1
+Sun Oct 11 21:49:15 +0000 2020,JennOMara4PA,Jennifer O'Mara,4,0,Pennsylvania,us,0,0,0,1
+Thu Jan 28 23:40:17 +0000 2021,VoteGloriaJ,Gloria Johnson,0,14,Tennessee,us,0,0,0,1
+Wed Jul 01 03:56:46 +0000 2020,CandicePierucci,Candice B. Pierucci,5,0,Utah,us,0,0,0,1
+Wed Apr 08 19:12:25 +0000 2020,jbeckerfinn,Jamie Becker-Finn,0,2,Minnesota,us,0,0,0,1
+Fri Nov 08 15:42:55 +0000 2019,TerryCanales40,Terry Canales,3,0,Texas,spread,0,0,0,1
+Thu Mar 19 19:23:12 +0000 2020,RafaelAnchia,Rafael Anchía,0,26,Texas,spread,0,0,0,1
+Sun Mar 29 18:08:33 +0000 2020,JohnMarty,Senator John Marty,4,2,Minnesota,spread,0,0,0,1
+Thu May 28 02:33:16 +0000 2020,RepCarolMoss,Carol Moss,13,0,Utah,spread,0,0,0,1
+Thu Nov 05 21:42:03 +0000 2020,VoteSuz,Suzanne Harrison,0,60,Utah,spread,0,0,0,1
+Thu Oct 08 19:06:49 +0000 2020,RepMegFroe,RepMegFroe,0,1627,Colorado,spread,0,0,0,1
+Sun Jan 24 22:49:57 +0000 2021,JamieEldridgeMA,Jamie Eldridge,0,5459,Massachusetts,spread,0,0,0,1
+Sun Mar 01 00:29:37 +0000 2020,RepMitchell32,Representative Tiffiny Mitchell,0,13,Oregon,spread,0,0,0,1
+Wed Oct 07 01:30:12 +0000 2020,sueford06,Susan Ford,0,91,New_Hampshire,spread,0,0,0,1
+Fri Apr 03 18:47:01 +0000 2020,SenLisaBoscola,Senator Lisa Boscola,1,1,Pennsylvania,spread,0,0,0,1
+Mon Sep 28 15:54:28 +0000 2020,Sen_MimiStewart,Mimi Stewart,0,7363,New_Mexico,1,0,0,0,1
+Thu Jan 07 18:41:09 +0000 2016,SenJohnnyRay,Johnny Ray Salling,0,13,Maryland,1,0,0,0,1
+Fri Nov 29 22:30:15 +0000 2019,DebraHeffernan,Debra Heffernan,0,156,Delaware,1,0,0,0,1
+Sun Oct 30 06:08:28 +0000 2011,johnfrey,John Frey,0,0,Connecticut,1,0,0,0,1
+Tue Jul 21 17:06:47 +0000 2020,gaylegoldin,Gayle Goldin,0,15,Rhode_Island,1,0,0,0,1
+Mon Apr 29 17:33:14 +0000 2019,Sean_J_OBrien,Senator Sean O'Brien,3,2,Ohio,1,0,0,0,1
+Mon Oct 24 16:10:15 +0000 2016,SenatorArgall,Senator David Argall,0,0,Pennsylvania,1,0,0,0,1
+Fri Jan 10 18:28:17 +0000 2020,bethbernsteinsc,Rep Beth Bernstein,9,8,South_Carolina,1,0,0,0,1
+Fri Jun 12 02:02:49 +0000 2015,RobVescovo,Rob Vescovo,0,3,Missouri,1,0,0,0,1
+Wed Dec 12 16:07:04 +0000 2018,AsmRodriguez52,Freddie Rodriguez,2,0,California,1,0,0,0,1
+Fri Apr 10 19:05:59 +0000 2020,KateMcGeeAZ,Kate Brophy McGee,0,0,Arizona,may,0,0,0,1
+Tue Jan 07 17:05:05 +0000 2014,Sorvillo4House,Jim Sorvillo,0,0,Arkansas,may,0,0,0,1
+Thu Jan 14 14:48:42 +0000 2021,WillHaskellCT,Will Haskell,4,0,Connecticut,may,1,1,1,1
+Tue Nov 17 20:37:05 +0000 2020,DeniseGarlick,Rep. Denise Garlick,0,3,Massachusetts,may,0,0,0,1
+Tue Jan 29 20:33:19 +0000 2019,ChuckMcGrady,Rep. Chuck McGrady,1,0,North_Carolina,may,0,0,0,1
+Sun Apr 16 14:00:58 +0000 2017,SenDaveWallace,Sen. Dave Wallace,2,0,Arkansas,may,0,0,0,1
+Sat Jul 04 13:50:45 +0000 2020,davideadkins,David Adkins,0,4,New_Mexico,may,0,0,0,1
+Thu Sep 24 16:57:50 +0000 2020,AnnaForFlorida,Rep. Anna V. Eskamani 🔨,0,5,Florida,may,0,0,0,1
+Sat Feb 15 15:51:43 +0000 2020,LaurenArthurMO,Lauren Arthur,0,0,Missouri,may,0,0,0,1
+Sun Jul 27 16:45:31 +0000 2014,JohnJagler,John Jagler,0,1,Wisconsin,may,0,0,0,1
+Thu Apr 04 21:47:34 +0000 2019,SenRobCowles,Rob Cowles,2,0,Wisconsin,learn,0,0,0,1
+Wed Jul 06 21:30:00 +0000 2016,SenatorElliott,Senator Chris Elliott,0,2,Alabama,learn,0,0,0,1
+Wed Jan 16 16:31:49 +0000 2019,LLCoolK_4,Kimberly A. Lightford,2,0,Illinois,learn,0,0,0,1
+Sat Dec 16 02:02:53 +0000 2017,Kipke,Nic Kipke,7,2,Maryland,learn,0,0,0,1
+Wed Mar 25 20:52:09 +0000 2020,Victoria4Texas,Victoria Neave,0,49,Texas,learn,0,0,0,1
+Thu Apr 02 15:45:01 +0000 2020,SenErikaGeiss,State Senator Erika Geiss (SD06),2,2,Michigan,learn,0,0,0,1
+Thu Sep 17 14:37:48 +0000 2020,Willcsmithjr,Senator Will Smith (District 20),0,1,Maryland,learn,0,0,0,1
+Tue Jan 01 19:04:18 +0000 2019,FrankRyanCPA,Frank Ryan,0,16,Pennsylvania,learn,0,0,0,1
+Thu Mar 19 17:14:03 +0000 2020,anne_claflin,Anne Claflin,0,4,Minnesota,learn,0,0,0,1
+Tue Nov 19 19:15:44 +0000 2019,AsmCervantes,Sabrina Cervantes,0,2,California,learn,0,0,0,1
+Thu May 03 02:00:53 +0000 2012,DrDeanBurke,Dr. Dean Burke,0,0,Georgia,put,0,0,0,1
+Wed Sep 30 23:59:50 +0000 2020,erickallen,Rep. Erick Allen,38,8,Georgia,put,0,0,0,1
+Mon May 04 23:51:52 +0000 2020,Renee_Unterman,Renee Unterman,0,9,Georgia,put,0,0,0,1
+Sun Dec 08 00:30:21 +0000 2019,MaineSocialist,Rep. Mike🌹,1,1,Maine,put,0,0,0,1
+Fri Nov 22 20:21:25 +0000 2019,JimPatterson559,Jim Patterson,20,11,California,put,0,0,0,1
+Tue Sep 25 19:00:00 +0000 2018,hennessey4nh,Martha S. Hennessey,0,3995,New_Hampshire,put,0,0,0,1
+Sun Oct 06 13:52:08 +0000 2019,mangelucc,Michael Angelucci,0,92,West_Virginia,put,0,0,0,1
+Fri Sep 25 02:27:16 +0000 2020,DeborahJGlick,(((Deborah Glick))),0,0,New_York,put,0,0,0,1
+Thu Jan 11 00:40:38 +0000 2018,JayerWilliamson,Jayer Williamson,9,3,Florida,put,0,0,0,1
+Fri Jun 26 14:21:00 +0000 2015,RepFinney,Gail Finney,0,3,Kansas,put,0,0,0,1
+Wed Aug 26 23:30:52 +0000 2020,Dalessandro4AZ,Senator Andrea Dalessandro,0,29,Arizona,want,0,0,0,1
+Wed May 30 15:24:15 +0000 2018,Juanita_Brent,Juanita Brent,10,3,Ohio,want,0,0,0,1
+Thu Aug 24 01:58:57 +0000 2017,RepWeinstein,Rep. Casey Weinstein,0,31831,Ohio,want,0,0,0,1
+Fri May 31 02:30:28 +0000 2019,tonyhwang,Tony Hwang,0,10,Connecticut,want,0,0,0,1
+Sun Feb 05 04:31:29 +0000 2017,NatashaMarcusNC,Senator Natasha Marcus,0,30115,North_Carolina,want,0,0,0,1
+Sat Jul 06 01:19:51 +0000 2019,1980reagan,Rep. David McSweeney,354,305,Illinois,want,0,0,0,1
+Wed Jan 16 02:16:03 +0000 2019,KarlBrabenec,Karl Brabenec,0,973,New_York,want,0,0,0,1
+Thu Oct 29 02:39:26 +0000 2020,AnnaForFlorida,Rep. Anna V. Eskamani 🔨,111,18,Florida,want,0,0,0,1
+Sat Feb 23 13:02:08 +0000 2019,JoeGruters,Joe Gruters,0,1040,Florida,want,0,0,0,1
+Thu Mar 12 00:46:30 +0000 2015,Jennifer_Pawlik,Jennifer Pawlik,0,16,Arizona,want,0,0,0,1
+Wed Dec 21 18:42:10 +0000 2016,SenFitzgerald,Scott Fitzgerald,0,1,Wisconsin,season,0,0,0,1
+Sat Oct 03 12:50:35 +0000 2020,tlamar44,Trey Lamar,0,327,Mississippi,season,0,0,0,1
+Sat May 18 02:20:47 +0000 2019,cs_bounds,C. Scott Bounds,20,1,Mississippi,season,0,0,0,1
+Thu Sep 01 21:22:28 +0000 2016,ColinBonini,Colin Bonini,2,1,Delaware,season,0,0,0,1
+Sat Dec 07 23:56:26 +0000 2013,JoelKrautter,Joel Krautter,0,0,Montana,season,0,0,0,1
+Wed Mar 13 05:01:27 +0000 2013,KirkHaston35IU,Kirk Haston,0,0,Tennessee,season,0,0,0,1
+Sun Sep 30 13:11:02 +0000 2018,gmccortney,Greg McCortney,8,0,Oklahoma,season,0,0,0,1
+Sun Dec 22 01:56:32 +0000 2019,AsmBlancaRubio,Assemblywoman Rubio,15,2,California,season,0,0,0,1
+Tue Sep 27 20:17:28 +0000 2016,RNHCKS,Ron Hicks,0,27,Missouri,season,0,0,0,1
+Sat Aug 31 18:35:39 +0000 2019,RepStanLambert,Stan Lambert,6,0,Texas,season,0,0,0,1
+Thu Nov 26 20:21:25 +0000 2020,LivingstonLD22,David Livingston,0,0,Arizona,religious,0,0,0,1
+Fri Aug 14 02:43:51 +0000 2015,mikewilson2018,Mike Wilson,0,25,Kentucky,religious,0,0,0,1
+Fri Feb 21 21:24:58 +0000 2020,jasonrapert,Jason Rapert,6,0,Arkansas,religious,0,0,0,1
+Wed Mar 14 14:21:05 +0000 2018,jelliottsc,Jason Elliott,23,4,South_Carolina,religious,0,0,0,1
+Fri Jan 29 00:27:28 +0000 2021,delsandy,Sandy Rosenberg,0,0,Maryland,religious,0,0,0,1
+Wed Aug 01 21:38:51 +0000 2018,BRVermont,Barbara Rachelson,0,16752,Vermont,religious,0,0,0,1
+Fri Jun 26 20:52:09 +0000 2015,repkalexander,Kimberly Alexander,0,0,Georgia,religious,0,0,0,1
+Fri Aug 28 02:42:36 +0000 2020,Danielle_4PA,Danielle Friel Otten,0,28140,Pennsylvania,religious,0,0,0,1
+Sun Mar 26 20:43:59 +0000 2017,StaedArt,State Rep Art Staed,1,0,Iowa,religious,0,0,0,1
+Wed Oct 17 18:51:38 +0000 2018,SonyaAndersonMO,Sonya Anderson,0,1245,Missouri,religious,0,0,0,1
+Mon Aug 26 21:19:04 +0000 2019,RobinComey,Robin Comey,3,0,Connecticut,require,0,0,0,1
+Sat Feb 29 15:22:52 +0000 2020,MaryLynnMagar,MaryLynn Magar,0,5,Florida,require,0,0,0,1
+Mon Jun 04 13:18:46 +0000 2018,shannonerickson1,shannonerickson,2,0,South_Carolina,require,0,0,0,1
+Fri Apr 03 11:44:28 +0000 2020,ilike_mike,Mike McGuire,12,3,California,require,0,0,0,1
+Mon Jan 13 19:30:51 +0000 2020,SenatorAument,Sen. Ryan P. Aument,0,0,Pennsylvania,require,0,0,0,1
+Fri Mar 16 15:48:28 +0000 2018,Ingridburnett,Ingrid Burnett,0,15,Missouri,require,0,0,0,1
+Tue Jan 14 04:28:16 +0000 2020,Boyd4OH_D9,Janine Boyd,5,2,Ohio,require,0,0,0,1
+Thu Jan 16 17:17:25 +0000 2020,SenHannahBeth,Hannah-Beth Jackson,5,0,California,require,0,0,0,1
+Tue Apr 28 00:30:35 +0000 2020,ErinForYall,Erin Zwiener,153,21,Texas,require,0,0,0,1
+Tue Oct 29 00:01:02 +0000 2019,skbird77,State Representative Shannon Bird,0,93,Colorado,require,0,0,0,1
+Thu Jan 18 02:56:49 +0000 2018,RepVernonJones,Vernon Jones,0,22,Georgia,making,0,0,0,1
+Wed Aug 30 10:53:44 +0000 2017,tonyhwang,Tony Hwang,0,2,Connecticut,making,0,0,0,1
+Sat Jul 20 14:32:43 +0000 2019,LoranneAusley,Loranne Ausley,17,1,Florida,making,0,0,0,1
+Sat Jan 05 22:44:01 +0000 2019,PaulRoseTN,Senator Paul Rose,11,1,Tennessee,making,0,0,0,1
+Thu Nov 30 01:31:41 +0000 2017,JChipmanMO120th,Jason Chipman,2,0,Missouri,making,0,0,0,1
+Tue May 27 15:39:13 +0000 2014,RepDavidLinsky,David P. Linsky,0,5,Massachusetts,making,0,0,0,1
+Wed Nov 07 05:46:28 +0000 2018,SeeSammiRun,Sammi Brown,139,23,West_Virginia,making,0,0,0,1
+Wed Jul 20 14:10:22 +0000 2016,RepGainey,Ed Gainey,1,0,Pennsylvania,making,0,0,0,1
+Sun Jan 08 00:28:02 +0000 2012,wes_kitchens,Wes Kitchens,0,0,Alabama,making,0,0,0,1
+Wed Sep 17 02:45:46 +0000 2014,KayLyme,Karen Whitsett,0,1,Michigan,making,0,0,0,1
+Thu Jul 16 12:14:02 +0000 2020,ChrisLatvala,Chris Latvala,0,8,Florida,department,0,0,0,1
+Mon Jul 13 17:36:46 +0000 2020,EmilyVirginOK,Emily Virgin,0,8,Oklahoma,department,0,0,0,1
+Tue Jun 04 22:51:27 +0000 2019,DavidCarlucci,David Carlucci,0,2,New_York,department,1,1,1,1
+Fri Jan 08 02:29:05 +0000 2021,RepPatBoyd,Pat Boyd,0,0,Connecticut,department,1,1,1,1
+Mon Jun 01 19:35:49 +0000 2020,RepJoeWebster,Rep. Joe Webster,1,0,Pennsylvania,department,0,0,0,1
+Tue Feb 02 22:38:21 +0000 2021,DavidHaleyKS,David Haley,0,0,Kansas,department,0,0,0,1
+Tue Jan 09 14:51:04 +0000 2018,senatorblood,Senator Carol Blood,0,0,Nebraska,department,0,0,0,1
+Tue Aug 14 23:36:40 +0000 2018,ChuckBasye47,Chuck Basye,5,2,Missouri,department,0,0,0,1
+Fri Mar 27 04:54:11 +0000 2020,assemblymanmike,Mike Miller,0,181,New_York,department,0,0,0,1
+Sat Apr 04 13:27:49 +0000 2020,RepJimDotson,Jim Dotson,0,7,Arkansas,department,0,0,0,1
+Mon Nov 16 17:28:13 +0000 2020,karlarosehanson,Karla Rose Hanson,2,0,North_Dakota,report,0,0,0,1
+Thu Jan 30 20:06:38 +0000 2014,repwestrom,Rep. Susan Westrom,1,0,Kentucky,report,0,0,0,1
+Wed Feb 12 21:03:35 +0000 2014,MarcTLombardo,Marc Lombardo,0,4,Massachusetts,report,0,0,0,1
+Tue Nov 24 23:34:15 +0000 2020,PedersenJamie,Jamie Pedersen,0,96,Washington,report,0,0,0,1
+Wed Dec 05 17:58:50 +0000 2018,SteveDraz,Steve Drazkowski,1,0,Minnesota,report,0,0,0,1
+Tue Dec 03 17:24:58 +0000 2019,MikeWChip,MikeWChip,0,0,Rhode_Island,report,0,0,0,1
+Wed Aug 26 18:07:07 +0000 2020,BRVermont,Barbara Rachelson,1,0,Vermont,report,0,0,0,1
+Sat Feb 14 19:03:32 +0000 2015,hrehder,Holly Rehder,0,0,Missouri,report,0,0,0,1
+Fri Nov 02 05:46:07 +0000 2018,GaelTarleton,Gael Tarleton,0,17,Washington,report,0,0,0,1
+Sun Nov 04 13:27:08 +0000 2018,GarryRSmith,Garry Smith,0,0,South_Carolina,report,0,0,0,1
+Tue Jan 14 12:29:38 +0000 2014,repwhipps,Susannah Whipps,0,1,Massachusetts,low,0,0,0,1
+Wed Jan 06 23:29:50 +0000 2021,EricaCCrawley,Rep. Erica C. Crawley,0,2236,Ohio,low,0,0,0,1
+Thu Jan 28 02:09:03 +0000 2021,DrShewmake,Sharon Shewmake,16,2,Washington,low,0,0,0,1
+Sat Aug 22 22:24:21 +0000 2020,Mskriebe,Sen. Kathleen Riebe,6,1,Utah,low,0,0,0,1
+Sat Jan 11 02:30:50 +0000 2020,JKonfrst,Jennifer Konfrst,0,2,Iowa,low,0,0,0,1
+Thu Oct 04 22:52:30 +0000 2018,MattShaheen,Matt Shaheen,10,1,Texas,low,0,0,0,1
+Tue Jul 25 14:24:12 +0000 2017,LizBrownUS,Liz Brown,0,39,Indiana,low,0,0,0,1
+Wed Aug 28 14:10:07 +0000 2013,arroyowatch,Carmen Arroyo Watch,0,0,New_York,low,0,0,0,1
+Tue Jul 07 12:33:07 +0000 2015,_ShannonFrancis,Shannon Francis,0,1,Kansas,low,0,0,0,1
+Fri Mar 20 00:36:34 +0000 2020,carterforva,Lee J. Carter,0,60,Virginia,low,0,0,0,1
+Thu Oct 24 15:06:50 +0000 2019,RepFueLee,Fue Lee,0,2,Minnesota,experts,0,0,0,1
+Wed Apr 29 12:38:44 +0000 2020,RepTKlarides,Themis Klarides,2,2,Connecticut,experts,0,0,0,1
+Sat Apr 18 01:39:52 +0000 2020,senatorjen,Jen Jordan,0,6,Georgia,experts,0,0,0,1
+Mon Jun 22 20:27:50 +0000 2020,Senatorcosta,Senator Jay Costa,4,4,Pennsylvania,experts,0,0,0,1
+Mon Aug 14 23:22:38 +0000 2017,TimAsheVT,Tim Ashe,0,1,Vermont,experts,0,0,0,1
+Wed Sep 04 02:23:41 +0000 2019,LeeSchoenbeck,Lee Schoenbeck,0,2,South_Dakota,experts,0,0,0,1
+Thu Dec 03 22:02:20 +0000 2020,RepDuBois,Michelle DuBois,0,0,Massachusetts,experts,0,0,0,1
+Wed Jun 03 13:53:23 +0000 2020,DonnaHowardTX,Donna Howard,20,13,Texas,experts,0,0,0,1
+Thu May 21 15:41:59 +0000 2020,SamforGeorgia,Sam Park,10,2,Georgia,experts,0,0,0,1
+Mon Sep 21 21:07:12 +0000 2020,ArtFierro79,Art Fierro,0,24,Texas,experts,0,0,0,1
+Sun Jan 31 21:00:42 +0000 2021,DrPanMD,Dr. Richard Pan 🇺🇸,56,13,California,@vaccinatecal,1,1,1,1
+Mon Feb 01 03:29:14 +0000 2021,DrPanMD,Dr. Richard Pan 🇺🇸,0,12,California,@vaccinatecal,1,1,1,1
+Wed Aug 28 16:27:05 +0000 2019,DrPanMD,Dr. Richard Pan,0,2,California,@vaccinatecal,1,1,1,1
+Tue Feb 18 03:10:07 +0000 2020,DrPanMD,Dr. Richard Pan,55,14,California,@vaccinatecal,1,1,1,1
+Sun Jan 31 16:53:55 +0000 2021,DrPanMD,Dr. Richard Pan 🇺🇸,0,25,California,@vaccinatecal,1,1,1,1
+Sat Jun 22 20:01:15 +0000 2019,DrPanMD,Dr. Richard Pan,59,7,California,@vaccinatecal,1,1,1,1
+Wed Aug 28 14:04:33 +0000 2019,DrPanMD,Dr. Richard Pan,0,5,California,@vaccinatecal,1,1,1,1
+Wed May 22 19:17:26 +0000 2019,DrPanMD,Dr. Richard Pan,85,21,California,@vaccinatecal,1,1,1,1
+Wed May 22 20:58:47 +0000 2019,DrPanMD,Dr. Richard Pan,7,3,California,@vaccinatecal,1,1,1,1
+Tue Jan 02 15:16:00 +0000 2018,GilBlairLaw,Gil Blair,0,0,Ohio,injury,0,0,0,1
+Sat Oct 14 14:59:32 +0000 2017,GraigMeyer,Rep. Graig Meyer,2,0,North_Carolina,injury,0,0,0,1
+Mon Aug 17 21:19:47 +0000 2020,JeremyMcPike,Jeremy McPike,163,30,Virginia,injury,0,0,0,1
+Mon Apr 06 19:20:03 +0000 2020,RepBSW,Barbara Smith Warner,5,4,Oregon,injury,0,0,0,1
+Mon May 04 21:45:13 +0000 2020,mcqueenfornm,Matthew McQueen,0,2,New_Mexico,injury,0,0,0,1
+Sun Sep 27 13:45:46 +0000 2020,DrPanMD,Dr. Richard Pan,0,129,California,injury,0,0,0,1
+Thu Mar 19 14:44:01 +0000 2020,KyleBiedermann,Kyle Biedermann,4,0,Texas,injury,0,0,0,1
+Thu Jun 06 10:14:58 +0000 2019,NCHouseSpeaker,Speaker Tim Moore,9,10,North_Carolina,injury,0,0,0,1
+Fri Mar 13 21:40:13 +0000 2020,rattijulia,Julia Ratti,0,5,Nevada,injury,0,0,0,1
+Thu May 30 00:18:28 +0000 2019,docpetit_art,Doc Petit,0,4,Connecticut,injury,0,0,0,1
+Tue Aug 25 12:44:52 +0000 2020,rebekahwarren,Rebekah Warren,3,0,Michigan,#vaccination,1,1,1,1
+Tue Jan 19 21:11:27 +0000 2021,SenLisaBoscola,Senator Lisa Boscola,2,1,Pennsylvania,#vaccination,1,1,1,1
+Wed Dec 02 14:05:54 +0000 2020,MindyForMA,Mindy Domb,2,0,Massachusetts,#vaccination,1,1,1,1
+Tue Jan 19 17:35:24 +0000 2021,RepHarris,Jordan A. Harris,12,3,Pennsylvania,#vaccination,1,1,1,1
+Thu Jan 21 23:10:34 +0000 2021,ChipLaMarca,Chip LaMarca❗️,2,0,Florida,#vaccination,1,1,1,1
+Wed Jan 13 22:09:20 +0000 2021,DrPanMD,Dr. Richard Pan 🇺🇸,0,9,California,#vaccination,1,1,1,1
+Mon Dec 14 18:05:47 +0000 2020,RepPerryWarren,Rep. Perry Warren,0,0,Pennsylvania,#vaccination,1,1,1,1
+Tue Jan 28 22:19:47 +0000 2020,HeatherCarterAZ,Heather Carter AZ,0,2,Arizona,#vaccination,1,1,1,1
+Fri Jan 22 20:45:35 +0000 2021,SenTonyWilliams,Anthony H. Williams,0,4,Pennsylvania,#vaccination,1,1,1,1
+Wed Jan 27 04:05:41 +0000 2021,juliebrixie,Julie Brixie,0,2,Michigan,#vaccination,1,1,1,1
+Tue Jan 14 04:57:15 +0000 2020,WilliamLamberth,William Lamberth,0,1341,Tennessee,calling,0,0,0,1
+Mon Jun 03 18:39:15 +0000 2019,jaylivingstone,Jay Livingstone,0,4,Massachusetts,calling,0,0,0,1
+Sat Apr 25 02:14:17 +0000 2020,Ash_Kalra,Ash Kalra 🌱,27,5,California,calling,0,0,0,1
+Mon Mar 11 22:54:00 +0000 2019,britter,Britt Raybould,1,0,Idaho,calling,0,0,0,1
+Fri Apr 27 12:01:50 +0000 2018,Scot23,Scot Turner,0,48,Georgia,calling,0,0,0,1
+Fri Sep 20 13:12:18 +0000 2019,kellyflood,Kelly Flood,0,3295,Kentucky,calling,0,0,0,1
+Wed Jan 29 16:23:23 +0000 2020,SenatorSeward,James Seward,0,0,New_York,calling,0,0,0,1
+Mon Aug 17 16:12:24 +0000 2015,C_Herring,Charniele Herring,2,2,Virginia,calling,0,0,0,1
+Mon May 11 14:28:04 +0000 2020,SenatorRobHogg,Rob Hogg,2,1,Iowa,calling,0,0,0,1
+Tue Aug 23 23:58:55 +0000 2016,RepDaveWilliams,Rep. Dave Williams,0,920,Colorado,calling,0,0,0,1
+Wed Jun 29 19:02:13 +0000 2016,KellyFajardoNM,Kelly Fajardo,2,0,New_Mexico,facebook,0,0,0,1
+Fri Sep 16 20:25:24 +0000 2016,tracyehlert,Tracy Ehlert,0,0,Iowa,facebook,0,0,0,1
+Mon May 20 13:20:10 +0000 2019,DanFeltesNH,Dan Feltes,0,1,New_Hampshire,facebook,0,0,0,1
+Mon Jul 06 16:56:48 +0000 2020,RepWesAllen,Wes Allen,0,0,Alabama,facebook,0,0,0,1
+Sun Dec 07 15:50:05 +0000 2014,Jimbealljr,Senator Jim Beall,0,0,California,facebook,0,0,0,1
+Thu Jan 17 17:40:53 +0000 2019,AswTimberlake,Britnee Timberlake,2,0,New_Jersey,facebook,0,0,0,1
+Mon May 14 13:58:00 +0000 2018,Cassandra4NH,Cassandra Levesque,28,10,New_Hampshire,facebook,0,0,0,1
+Tue May 15 17:53:03 +0000 2018,KBennettCARES,Rep. Karen Bennett,0,0,Georgia,facebook,0,0,0,1
+Tue May 26 15:19:01 +0000 2020,crystal_quade,Crystal Quade,0,7,Missouri,facebook,0,0,0,1
+Mon Sep 09 02:40:18 +0000 2013,SmithForNY,Doug Smith 🇺🇸,0,0,New_York,facebook,0,0,0,1
+Tue Oct 24 15:55:04 +0000 2017,SusanLValdes,Susan L. Valdes,6,2,Florida,weeks,0,0,0,1
+Sun Nov 10 22:03:04 +0000 2019,gcmitts,Gina Mitten,0,0,Missouri,weeks,0,0,0,1
+Tue Dec 15 16:59:25 +0000 2020,saraehoward1,Sara Howard,0,7206,Nebraska,weeks,0,0,0,1
+Wed May 20 22:28:50 +0000 2020,SenJanetCruz,Janet Cruz,5,1,Florida,weeks,0,0,0,1
+Tue Sep 11 19:54:50 +0000 2018,VoteBobFreeman,Rep. Bob Freeman,2,2,Tennessee,weeks,0,0,0,1
+Sun Dec 01 22:30:20 +0000 2019,RCProudie,Raychel Proudie,5,1,Missouri,weeks,0,0,0,1
+Fri Apr 10 04:06:06 +0000 2020,NEWTFL,Wengay M. Newton Sr.,0,37373,Florida,weeks,0,0,0,1
+Thu Dec 22 17:03:15 +0000 2016,MargaretRansone,Delegate Margaret B. Ransone,0,1,Virginia,weeks,0,0,0,1
+Thu Dec 31 03:13:28 +0000 2020,SenMMason,Sen. Monty Mason,0,2809,Virginia,weeks,0,0,0,1
+Thu Mar 28 00:33:31 +0000 2019,SenErikaGeiss,State Senator Erika Geiss (SD06),1,1,Michigan,weeks,0,0,0,1
+Tue Aug 25 22:24:49 +0000 2020,IamJonSantiago,Jon Santiago,8,2,Massachusetts,promising,0,0,0,1
+Wed Mar 04 16:26:25 +0000 2020,PhilSteck,Phil Steck,0,1235,New_York,promising,0,0,0,1
+Wed Apr 25 16:08:35 +0000 2018,SteveFenberg,Steve Fenberg,11,8,Colorado,promising,0,0,0,1
+Mon Jun 29 19:50:41 +0000 2020,ShevrinJones,Shevrin Jones,1,0,Florida,promising,0,0,0,1
+Tue Aug 14 19:01:53 +0000 2018,MarcRPacheco,Sen. Marc R. Pacheco,1,0,Massachusetts,promising,0,0,0,1
+Fri Nov 06 18:02:36 +0000 2020,MariManoogian,Mari Manoogian,0,4,Michigan,promising,0,0,0,1
+Thu Mar 28 20:42:55 +0000 2019,moodyforelpaso,Joe Moody,0,2,Texas,promising,0,0,0,1
+Mon Mar 25 17:59:46 +0000 2013,amiwazlawik,Ami Wazlawik,0,94,Minnesota,promising,0,0,0,1
+Sat Jul 30 19:01:17 +0000 2016,ChrisBrownHD20,Chris Brown,0,38,Mississippi,promising,0,0,0,1
+Thu Sep 04 16:00:51 +0000 2014,rolandlemar,Roland Lemar,0,4,Connecticut,promising,0,0,0,1
+Mon Jul 02 20:47:39 +0000 2018,RepDaveWilliams,Rep. Dave Williams,10,8,Colorado,#copolitics,0,0,0,1
+Thu Nov 12 23:16:59 +0000 2015,jessiedanielson,Jessie Danielson,0,1,Colorado,#copolitics,0,0,0,1
+Mon Feb 17 18:00:38 +0000 2020,leslieherod,Leslie Herod,20,5,Colorado,#copolitics,0,0,0,1
+Wed Oct 18 20:51:48 +0000 2017,PatrickForCO,Rep. Patrick Neville,4,1,Colorado,#copolitics,0,0,0,1
+Wed Sep 17 16:43:58 +0000 2014,AlecGarnett,Alec Garnett,0,2,Colorado,#copolitics,0,0,0,1
+Mon Mar 09 18:13:00 +0000 2020,EdieHooton,Edie Hooton,0,3,Colorado,#copolitics,0,0,0,1
+Mon Jan 18 19:00:38 +0000 2021,skbird77,State Representative Shannon Bird,5,0,Colorado,#copolitics,0,0,0,1
+Fri Feb 14 22:42:46 +0000 2020,Dlesgar,Daneya Esgar,27,0,Colorado,#copolitics,0,0,0,1
+Wed Jan 08 20:38:10 +0000 2020,Dlesgar,Daneya Esgar,48,5,Colorado,#copolitics,0,0,0,1
+Fri Feb 16 03:50:43 +0000 2018,SenRayScott,Ray Scott,0,2,Colorado,#copolitics,0,0,0,1
+Sat Jul 23 20:54:27 +0000 2016,RepMaryWolfe,IA State Rep Mary Wolfe,1,0,Iowa,@ap,0,0,0,1
+Fri Oct 04 13:42:13 +0000 2019,MPowersNorrell,SC Rep Mandy Powers Norrell,0,1478,South_Carolina,@ap,0,0,0,1
+Sat Jun 06 12:20:57 +0000 2020,MaryLehman_D1,Mary A. Lehman,1,0,Maryland,@ap,0,0,0,1
+Mon Mar 25 01:42:56 +0000 2019,mgdendekker,Michael DenDekker,0,2,New_York,@ap,0,0,0,1
+Tue Jul 07 01:28:14 +0000 2020,G_Stubblefield,Gary Stubblefield,2,0,Arkansas,@ap,0,0,0,1
+Sat Feb 08 01:30:43 +0000 2020,JKonfrst,Jennifer Konfrst,2,0,Iowa,@ap,0,0,0,1
+Mon Dec 04 22:06:52 +0000 2017,JeanBreaux,Jean Breaux,0,1,Indiana,@ap,0,0,0,1
+Wed Feb 14 01:53:02 +0000 2018,Brewer4OK,Rep. Denise Brewer (D),0,0,Oklahoma,@ap,0,0,0,1
+Tue Feb 04 18:57:04 +0000 2020,JasonZacharyTN,Rep. Jason Zachary,9,0,Tennessee,@ap,0,0,0,1
+Thu Jul 09 17:20:41 +0000 2020,wardports,Gerald W.R. Ward,0,13,New_Hampshire,@ap,0,0,0,1
+Wed Sep 18 21:51:40 +0000 2019,bradhoylman,Senator Brad Hoylman,15,4,New_York,vaccine-preventable,1,1,1,1
+Sat Apr 27 19:16:30 +0000 2019,DrPanMD,Dr. Richard Pan,0,24,California,vaccine-preventable,1,1,1,1
+Sat Apr 13 12:31:01 +0000 2019,SeanAMcCann,Sen. Sean McCann,0,7,Michigan,vaccine-preventable,1,1,1,1
+Wed Apr 24 16:23:31 +0000 2019,DrPanMD,Dr. Richard Pan,0,12,California,vaccine-preventable,1,1,1,1
+Tue Aug 27 13:59:17 +0000 2019,RepDanFrankel,State Rep. Dan Frankel,3,0,Pennsylvania,vaccine-preventable,1,1,1,1
+Tue Mar 03 18:32:52 +0000 2020,senatorduff,"Bob Duff, Senate Majority Leader, CT",0,22,Connecticut,vaccine-preventable,1,1,1,1
+Wed Oct 09 01:20:07 +0000 2019,bradhoylman,Senator Brad Hoylman,23,1,New_York,vaccine-preventable,1,1,1,1
+Sat Nov 30 22:51:27 +0000 2019,DrPanMD,Dr. Richard Pan,0,13,California,vaccine-preventable,1,1,1,1
+Wed May 20 18:24:44 +0000 2020,MindyForMA,Mindy Domb,0,22,Massachusetts,vaccine-preventable,1,1,1,1
+Thu Apr 11 15:00:30 +0000 2019,DrPanMD,Dr. Richard Pan,0,9,California,vaccine-preventable,1,1,1,1
+Sat May 14 23:25:31 +0000 2016,RandyFrye3,Randy Frye,1,0,Indiana,large,0,0,0,1
+Mon Mar 16 19:45:55 +0000 2020,jamescita,Jamescita Peshlakai,0,0,Arizona,large,0,0,0,1
+Wed Dec 23 05:43:54 +0000 2020,SenSantarsiero,Steve Santarsiero,0,38,Pennsylvania,large,0,0,0,1
+Fri Mar 13 11:43:20 +0000 2020,SenatorHughes,Senator Hughes,0,163759,Pennsylvania,large,0,0,0,1
+Wed Jun 12 23:45:08 +0000 2019,BoshartDavisAg,Shelly Boshart Davis,0,10,Oregon,large,0,0,0,1
+Sat Jan 21 20:27:10 +0000 2017,RepRutherford,Todd Rutherford,0,2920,South_Carolina,large,0,0,0,1
+Tue Jun 02 02:37:29 +0000 2020,JustinBoydAR,Justin Boyd 4 AR,0,9,Arkansas,large,0,0,0,1
+Thu Dec 04 21:27:19 +0000 2014,don4georgia,Don Parsons,1,0,Georgia,large,0,0,0,1
+Tue Mar 17 23:05:51 +0000 2020,McCluskieforCO,Representative Julie McCluskie,4,0,Colorado,large,0,0,0,1
+Thu Nov 01 18:55:28 +0000 2018,ScottDibble,Scott Dibble,0,103,Minnesota,large,0,0,0,1
+Thu Sep 03 04:26:26 +0000 2020,MayorGlover,Cedric B. Glover,38,15,Louisiana,illness,0,0,0,1
+Thu Oct 22 23:25:04 +0000 2020,ArlandoTeller,Arlando Teller,0,41,Arizona,illness,0,0,0,1
+Wed Oct 16 19:05:00 +0000 2019,RepDanFrankel,State Rep. Dan Frankel,2,0,Pennsylvania,illness,0,0,0,1
+Fri Nov 08 21:03:11 +0000 2013,SuzanneVailNH,Hon. Suzanne Vail,0,144,New_Hampshire,illness,0,0,0,1
+Sun Oct 04 14:00:01 +0000 2020,SenatorMensch,Senator Bob Mensch,2,0,Pennsylvania,illness,0,0,0,1
+Tue Oct 01 13:11:47 +0000 2019,RepBrianKing,Rep. Brian S. King,0,6,Utah,illness,0,0,0,1
+Sat Jan 07 02:36:28 +0000 2017,ChrisMarkeyRep,Christopher Markey,5,2,Massachusetts,illness,0,0,0,1
+Fri May 01 01:23:50 +0000 2020,RepDittrich,Rep. Barbara Dittrich,3,0,Wisconsin,illness,0,0,0,1
+Thu Feb 06 03:36:11 +0000 2020,5boymom,kimberly moser,0,3,Kentucky,illness,0,0,0,1
+Mon Nov 26 23:49:37 +0000 2018,campbellh26,Chris Campbell,0,674,Indiana,illness,0,0,0,1
+Wed Nov 07 06:28:53 +0000 2012,raymonddehn,Raymond Dehn,0,0,Minnesota,race,0,0,0,1
+Thu Jul 04 15:32:45 +0000 2019,GregReed21234,Greg Reed,0,8,Alabama,race,0,0,0,1
+Wed Nov 11 08:44:15 +0000 2020,RichardHPOE,Richard Martinez,0,2886,New_Mexico,race,0,0,0,1
+Thu Oct 19 17:36:14 +0000 2017,shelly_simonds,Shelly Simonds,9,5,Virginia,race,0,0,0,1
+Wed Oct 08 16:56:24 +0000 2014,FieldsZack,Zack Fields,0,1,Alaska,race,0,0,0,1
+Tue Mar 20 15:26:31 +0000 2018,BillMcCamley,Bill McCamley,6,2,New_Mexico,race,0,0,0,1
+Wed Sep 27 19:51:17 +0000 2017,SenFrankNiceley,Sen. Frank Niceley,7,0,Tennessee,race,0,0,0,1
+Mon Sep 21 20:24:18 +0000 2015,BrewerForVa,Emily Brewer,0,177,Virginia,race,0,0,0,1
+Mon Nov 25 06:43:38 +0000 2019,Biaggi4NY,Alessandra Biaggi,30,2,New_York,race,0,0,0,1
+Mon Nov 02 23:47:22 +0000 2020,LisaMBel88,Delegate Lisa Belcastro,0,3,Maryland,race,0,0,0,1
+Thu Feb 13 14:12:59 +0000 2020,MikeWReilly,Michael Reilly,7,3,New_York,ny,0,0,0,1
+Tue Sep 22 16:44:13 +0000 2020,bradhoylman,Senator Brad Hoylman,0,5,New_York,ny,0,0,0,1
+Wed Oct 11 20:38:00 +0000 2017,DonnaLupardo,Donna Lupardo,4,2,New_York,ny,0,0,0,1
+Tue Aug 11 13:00:35 +0000 2020,senatorjen,Jen Jordan,0,3,Georgia,ny,0,0,0,1
+Tue Jan 05 19:55:05 +0000 2021,yuhline,Yuh-Line Niou,12,2,New_York,ny,0,0,0,1
+Sat Oct 06 03:48:27 +0000 2018,judygriffinny,Judy Griffin,0,7,New_York,ny,0,0,0,1
+Sat Mar 28 16:54:02 +0000 2020,NYSenatorRivera,Gustavo Rivera,0,3,New_York,ny,0,0,0,1
+Thu Apr 09 19:24:23 +0000 2020,bradhoylman,Senator Brad Hoylman,14,2,New_York,ny,0,0,0,1
+Mon Apr 13 14:06:31 +0000 2020,donderoloopnv,Senator Marilyn Dondero Loop,1,0,Nevada,ny,0,0,0,1
+Tue Sep 17 13:37:38 +0000 2019,hellhowl,Janet Howell,0,0,Virginia,ny,0,0,0,1
+Fri Mar 15 20:37:31 +0000 2019,CedricHaydenOR,Cedric Hayden,0,2,Oregon,#hb3063,0,0,0,1
+Wed Apr 24 03:45:53 +0000 2019,CheriHeltOR,Cheri Helt,34,5,Oregon,#hb3063,1,1,1,1
+Sat May 11 00:54:35 +0000 2019,EWReschke,E. Werner Reschke 🇺🇸,0,45,Oregon,#hb3063,0,0,0,1
+Fri Mar 08 03:51:35 +0000 2019,CheriHeltOR,Cheri Helt,9,1,Oregon,#hb3063,1,1,1,1
+Fri Mar 29 01:19:06 +0000 2019,CheriHeltOR,Cheri Helt,4,0,Oregon,#hb3063,1,1,1,1
+Fri Mar 15 00:10:31 +0000 2019,DenycBoles,Denyc Boles,101,36,Oregon,#hb3063,0,0,0,1
+Sun May 12 23:59:07 +0000 2019,DennisLinthicum,Dennis Linthicum,0,6,Oregon,#hb3063,0,0,0,1
+Wed May 22 23:46:55 +0000 2019,EWReschke,E. Werner Reschke 🇺🇸,8,2,Oregon,#hb3063,0,0,0,1
+Fri Mar 29 01:17:39 +0000 2019,CheriHeltOR,Cheri Helt,13,4,Oregon,#hb3063,0,0,0,1
+Wed Nov 08 06:21:50 +0000 2017,alissakg,Alissa Keny-Guyer,6,4,Oregon,#orpol,0,0,0,1
+Tue Dec 17 05:46:07 +0000 2013,michaeldembrow,Sen. Michael Dembrow,0,0,Oregon,#orpol,0,0,0,1
+Thu Feb 14 05:12:34 +0000 2019,TinaKotek,Tina Kotek,0,8,Oregon,#orpol,0,0,0,1
+Wed Jun 27 22:24:32 +0000 2018,ESHforOregon,Sen. Steiner Hayward,0,5,Oregon,#orpol,0,0,0,1
+Sat Feb 25 02:43:42 +0000 2017,karin_power,Karin Power,0,14,Oregon,#orpol,0,0,0,1
+Tue Jun 25 21:33:04 +0000 2019,duckwilde,Marty Wilde,0,5,Oregon,#orpol,0,0,0,1
+Fri Mar 02 00:58:38 +0000 2018,AndreaRSalinas,Andrea Salinas,0,9,Oregon,#orpol,0,0,0,1
+Sat Mar 28 18:08:39 +0000 2020,juliefahey,Rep. Julie Fahey,2,0,Oregon,#orpol,0,0,0,1
+Wed Nov 07 19:51:51 +0000 2018,karin_power,Karin Power,2,0,Oregon,#orpol,0,0,0,1
+Thu Mar 21 05:47:00 +0000 2019,SollmanJaneen,Janeen Sollman,8,0,Oregon,#orpol,0,0,0,1
+Wed Jun 17 02:41:53 +0000 2020,CheriHeltOR,Cheri Helt,3,0,Oregon,#orleg,0,0,0,1
+Thu Nov 15 23:19:35 +0000 2018,TinaKotek,Tina Kotek,34,4,Oregon,#orleg,0,0,0,1
+Sun Feb 02 21:29:09 +0000 2020,ShemiaForOregon,Shemia Fagan for OR Secretary of State,0,19,Oregon,#orleg,0,0,0,1
+Thu Dec 05 17:48:08 +0000 2019,BillPostOregon,Bill Post 🏝,9,5,Oregon,#orleg,0,0,0,1
+Wed Jul 29 00:18:50 +0000 2020,CheriHeltOR,Cheri Helt,2,0,Oregon,#orleg,0,0,0,1
+Tue Feb 26 20:36:56 +0000 2019,SenSaraGelser,Sara Gelser,18,2,Oregon,#orleg,0,0,0,1
+Mon Mar 04 04:05:29 +0000 2019,dbonham31,Daniel Bonham,19,8,Oregon,#orleg,0,0,0,1
+Fri Feb 20 20:11:52 +0000 2015,RobNosse,Rob Nosse,0,1,Oregon,#orleg,0,0,0,1
+Wed Jan 23 16:16:11 +0000 2019,RepBSW,Barbara Smith Warner,4,0,Oregon,#orleg,0,0,0,1
+Sat Feb 23 03:03:09 +0000 2019,EWReschke,E. Werner Reschke 🇺🇸,3,3,Oregon,#orleg,0,0,0,1
+Wed Apr 15 01:38:04 +0000 2020,yarbro,Jeff Yarbro,0,205,Tennessee,desperately,0,0,0,1
+Thu Jul 25 21:14:25 +0000 2019,SuzanneVailNH,Hon. Suzanne Vail,0,18,New_Hampshire,desperately,0,0,0,1
+Fri Jan 31 16:01:40 +0000 2020,DanHuberty,Dan Huberty,7,1,Texas,desperately,0,0,0,1
+Wed Jan 06 21:26:36 +0000 2021,Evan_Low,Evan Low,26,7,California,desperately,0,0,0,1
+Wed Jan 08 14:33:17 +0000 2020,MikeWChip,MikeWChip,2,0,Rhode_Island,desperately,0,0,0,1
+Thu Jun 04 20:05:29 +0000 2020,MiaforSC,Mia McLeod,17,6,South_Carolina,desperately,0,0,0,1
+Mon Apr 20 12:05:21 +0000 2020,SamuelWBell,Sam Bell,0,3,Rhode_Island,desperately,0,0,0,1
+Mon Aug 03 18:29:05 +0000 2020,TomAbinanti,Assemblyman Abinanti,0,0,New_York,desperately,0,0,0,1
+Sun Aug 30 20:51:13 +0000 2020,SenFrankNiceley,Sen. Frank Niceley,5,4,Tennessee,desperately,0,0,0,1
+Fri Jan 31 13:38:48 +0000 2020,MaryBorenSD16,Senator Vote Louder Mary 🗳 ✏️ 🇺🇸,0,14,Oklahoma,desperately,0,0,0,1
+Sun Sep 27 17:31:26 +0000 2020,SenatorRobHogg,Rob Hogg,5,0,Iowa,tests,0,0,0,1
+Sat Oct 03 22:33:45 +0000 2020,SenatorRobHogg,Rob Hogg,5,0,Iowa,tests,0,0,0,1
+Sat May 16 22:29:54 +0000 2020,NathanBallentin,Nathan Ballentine,0,5,South_Carolina,tests,0,0,0,1
+Tue May 05 14:14:12 +0000 2020,SaraLove4MD,SaraLove4MD,0,48,Maryland,tests,0,0,0,1
+Tue Sep 15 16:16:39 +0000 2020,SenatorRobHogg,Rob Hogg,2,0,Iowa,tests,0,0,0,1
+Thu Sep 24 22:19:18 +0000 2020,SenatorRobHogg,Rob Hogg,8,1,Iowa,tests,0,0,0,1
+Mon Jun 15 16:38:34 +0000 2020,MatMuratore,Mathew Muratore,1,3,Massachusetts,tests,0,0,0,1
+Mon Apr 27 20:35:27 +0000 2020,Story4CO,Tammy Story,0,16,Colorado,tests,0,0,0,1
+Sat Dec 08 16:18:00 +0000 2012,erekbarron,Erek L. Barron,0,2,Maryland,tests,0,0,0,1
+Wed Mar 11 21:58:53 +0000 2020,ChristyClarkNC,Christy Clark,2,1,North_Carolina,tests,0,0,0,1
+Tue Jun 09 00:46:21 +0000 2020,SenJohnYudichak,Sen. John Yudichak,0,1,Pennsylvania,@pahealthdept,0,0,0,1
+Wed Apr 08 15:53:22 +0000 2020,Senatorcosta,Senator Jay Costa,18,12,Pennsylvania,@pahealthdept,0,0,0,1
+Fri Mar 13 21:34:13 +0000 2020,AdamRavenstahl,Adam Ravenstahl,0,16,Pennsylvania,@pahealthdept,0,0,0,1
+Sun Mar 15 15:04:26 +0000 2020,AdamRavenstahl,Adam Ravenstahl,0,103,Pennsylvania,@pahealthdept,0,0,0,1
+Sat Aug 08 01:02:41 +0000 2020,wgregrothman,Greg Rothman,0,16,Pennsylvania,@pahealthdept,0,0,0,1
+Mon Mar 21 18:12:23 +0000 2016,senatorscavello,Sen. Mario Scavello,3,3,Pennsylvania,@pahealthdept,0,0,0,1
+Mon Apr 06 19:24:06 +0000 2020,ScottFMartin,Senator Scott Martin,0,1,Pennsylvania,@pahealthdept,0,0,0,1
+Tue Mar 24 23:38:11 +0000 2020,ScottFMartin,Senator Scott Martin,0,1,Pennsylvania,@pahealthdept,0,0,0,1
+Thu Nov 19 21:48:27 +0000 2020,RepMcClinton,Joanna McClinton,0,2,Pennsylvania,@pahealthdept,0,0,0,1
+Thu Apr 23 17:30:00 +0000 2020,RepBenSanchez,Rep Ben Sanchez,0,0,Pennsylvania,@pahealthdept,0,0,0,1
+Thu Oct 08 14:32:10 +0000 2020,JuliaKirt,Julia Kirt,0,5,Oklahoma,tested,0,0,0,1
+Mon Oct 05 12:29:09 +0000 2020,MindyForMA,Mindy Domb,8,1,Massachusetts,tested,0,0,0,1
+Tue Apr 28 18:20:46 +0000 2020,GCobbHunter,Gilda Cobb-Hunter,0,11,South_Carolina,tested,0,0,0,1
+Mon Nov 30 19:22:29 +0000 2020,RepWalle,Armando Walle,0,3,Texas,tested,0,0,0,1
+Wed Mar 13 17:18:33 +0000 2019,RepScottHolcomb,Scott Holcomb,12,3,Georgia,tested,0,0,0,1
+Mon Aug 17 19:39:42 +0000 2020,WesBreckenridge,Wes Breckenridge,0,0,Iowa,tested,0,0,0,1
+Fri Oct 02 16:18:07 +0000 2020,MattforMichigan,Matt Koleszar,16,8,Michigan,tested,0,0,0,1
+Sun Mar 15 15:56:23 +0000 2020,ScottFMartin,Senator Scott Martin,0,227,Pennsylvania,tested,0,0,0,1
+Mon Mar 30 23:56:46 +0000 2020,AsmKamlagerDove,Sydney Kamlager,23,10,California,tested,0,0,0,1
+Wed Mar 18 21:39:47 +0000 2020,AthenaSalman,Rep. Athena Salman,0,33,Arizona,tested,0,0,0,1
+Tue Apr 14 21:29:52 +0000 2020,TimothyHorrigan,Timothy Horrigan,0,0,New_Hampshire,normal,0,0,0,1
+Thu Dec 03 00:58:53 +0000 2015,reptricia,Tricia FarleyBouvier,0,49,Massachusetts,normal,0,0,0,1
+Wed Jan 27 17:25:30 +0000 2021,PedersenJamie,Jamie Pedersen,0,108,Washington,normal,0,0,0,1
+Tue Nov 03 21:16:59 +0000 2020,mwilsonGA,Matthew Wilson,62,39,Georgia,normal,0,0,0,1
+Tue May 29 16:47:56 +0000 2018,CecilBrockman,Cecil Brockman,1,0,North_Carolina,normal,0,0,0,1
+Sun Apr 22 19:24:45 +0000 2018,2_Shay,Antonio Parkinson,2,1,Tennessee,normal,0,0,0,1
+Wed May 02 17:57:34 +0000 2018,lauriejinkins2,Laurie Jinkins,0,7777,Washington,normal,0,0,0,1
+Tue Dec 31 21:42:00 +0000 2019,mcqueenfornm,Matthew McQueen,0,568,New_Mexico,normal,0,0,0,1
+Wed Dec 09 14:23:45 +0000 2020,JimHamiltonHD61,Jim Hamilton,0,30,Montana,normal,0,0,0,1
+Thu Aug 03 03:36:26 +0000 2017,AndyManar,Andy Manar,3,0,Illinois,normal,0,0,0,1
+Thu Sep 17 17:00:12 +0000 2020,SenatorParker,Senator Kevin Parker,0,1,New_York,ppe,0,0,0,1
+Wed Aug 12 17:15:58 +0000 2020,JoeDanielsen17,Joe Danielsen,0,0,New_Jersey,ppe,0,0,0,1
+Tue May 12 01:22:55 +0000 2020,RepRabb,Rep. Chris Rabb,0,13,Pennsylvania,ppe,0,0,0,1
+Wed Jul 01 16:16:32 +0000 2020,jeffroy,Jeffrey N. Roy,15,2,Massachusetts,ppe,0,0,0,1
+Tue Aug 25 19:38:07 +0000 2020,RepHarris,Jordan A. Harris,35,7,Pennsylvania,ppe,0,0,0,1
+Wed Nov 25 12:41:15 +0000 2020,repgregharris,Rep. Greg Harris,6,4,Illinois,ppe,0,0,0,1
+Thu Aug 13 14:45:59 +0000 2020,katiefryhester,Katie Fry Hester,1,0,Maryland,ppe,0,0,0,1
+Mon Aug 24 23:29:30 +0000 2020,BoiseBrooke,Brooke,6,2,Idaho,ppe,0,0,0,1
+Tue Mar 31 18:38:27 +0000 2020,DelegateMark,Mark Levine,9,0,Virginia,ppe,0,0,0,1
+Sun Mar 22 18:02:48 +0000 2020,DJSwearg89OH,D.J. Swearingen,4,0,Ohio,ppe,0,0,0,1
+Wed Feb 13 19:20:13 +0000 2019,TerriLynnWeaver,Terri Lynn Weaver,14,1,Tennessee,date,0,0,0,1
+Sat May 20 10:00:01 +0000 2017,KieranLalor,Kieran Michael Lalor,0,2,New_York,date,0,0,0,1
+Wed Mar 13 22:37:04 +0000 2019,prudhommeobrien,K Prudhomme O'Brien,1,0,New_Hampshire,date,0,0,0,1
+Sat May 30 22:33:26 +0000 2020,BrettParker4KS,Brett Parker,25,0,Kansas,date,0,0,0,1
+Mon Feb 13 14:14:40 +0000 2017,RepJaredSolomon,Rep. Jared Solomon,2,1,Pennsylvania,date,0,0,0,1
+Mon Dec 28 20:34:06 +0000 2020,russdiamond,Russ Diamond,0,0,Pennsylvania,date,0,0,0,1
+Sun Feb 24 21:55:15 +0000 2019,BobOnderMO,Dr. Bob Onder,0,6,Missouri,date,0,0,0,1
+Fri Mar 15 21:06:51 +0000 2019,Rep_Jimmy,Jimmy Anderson,0,0,Wisconsin,date,0,0,0,1
+Wed Apr 22 22:40:25 +0000 2020,AngelikaForGA,Rep. Angelika Kausche,0,29,Georgia,date,0,0,0,1
+Sun Sep 13 16:08:04 +0000 2020,BrittMiller4AD5,Assemblywoman Brittney Miller,0,1,Nevada,date,0,0,0,1
+Tue Jul 07 18:04:11 +0000 2020,RepMaryGonzalez,Dr. Mary E. Gonzalez,28,8,Texas,age,0,0,0,1
+Fri Aug 23 17:44:22 +0000 2019,kevinmullin,Kevin Mullin,0,2,California,age,0,0,0,1
+Wed Feb 28 23:51:23 +0000 2018,CecilThomasOH,State Senator Cecil Thomas,0,4,Ohio,age,0,0,0,1
+Wed Oct 24 21:15:25 +0000 2018,DEHouseMinority,Delaware State House,0,0,Delaware,age,0,0,0,1
+Wed Oct 07 17:50:03 +0000 2020,NebraskaAnna,Anna Wishart,19,3,Nebraska,age,0,0,0,1
+Thu May 28 01:36:39 +0000 2015,TomBurnettMT,Tom Burnett,0,0,Montana,age,0,0,0,1
+Mon Apr 27 14:25:33 +0000 2020,DelRodWillett,Delegate Rodney T. Willett,0,31,Virginia,age,0,0,0,1
+Thu Oct 04 18:42:26 +0000 2012,AdamNeylon,Adam Neylon,0,0,Wisconsin,age,0,0,0,1
+Tue May 01 12:28:29 +0000 2018,Bobby4Brooklyn,Assemblymember Robert Carroll,0,207,New_York,age,0,0,0,1
+Wed Dec 30 18:40:35 +0000 2020,poncho_nevarez,Poncho Nevárez,0,22,Texas,age,1,1,1,1
+Thu Mar 05 02:08:58 +0000 2020,CarlosGSmith,Rep. Carlos G Smith,33,8,Florida,offers,0,0,0,1
+Wed Aug 21 13:55:52 +0000 2019,DavidCarlucci,David Carlucci,3,1,New_York,offers,0,0,0,1
+Sat Nov 07 02:54:36 +0000 2020,Fiedler4Philly,Elizabeth Fiedler,0,4,Pennsylvania,offers,0,0,0,1
+Thu Oct 08 16:49:09 +0000 2015,RepSondy,Sondy Pope,1,1,Wisconsin,offers,0,0,0,1
+Fri Mar 24 07:08:45 +0000 2017,KarenKeiser1,Karen Keiser,0,0,Washington,offers,0,0,0,1
+Tue Jun 23 23:04:37 +0000 2020,MindyForMA,Mindy Domb,1,1,Massachusetts,offers,0,0,0,1
+Tue Jan 12 16:24:59 +0000 2021,StateSenLaTonya,LaTonya Johnson,1,0,Wisconsin,offers,0,0,0,1
+Wed Dec 10 21:44:22 +0000 2014,NickMilroy,Nick Milroy,0,0,Wisconsin,offers,0,0,0,1
+Fri Jul 20 02:22:34 +0000 2018,JillBarry1112,Jill Barry,1,0,Connecticut,offers,0,0,0,1
+Tue Aug 23 17:45:07 +0000 2016,BenAllenCA,Ben Allen,0,21,California,offers,0,0,0,1
